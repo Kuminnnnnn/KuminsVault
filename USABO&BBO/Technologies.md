@@ -1,0 +1,8 @@
+[[Gram Staining]]
+[[Henderson-Hasselbalch Equation]]
+[[Western Blot]]
+[[CRISPR Interference (CRISPRi)]]
+[[ChIP-Sequencing (ChIP-seq)]]
+[[ATAC-Sequencing (ATAC-seq)]]
+[[Bulk RNA Sequencing (Bulk RNA-seq)]]
+[[Fluorescence In-Situ Hybridization (FISH)]]
