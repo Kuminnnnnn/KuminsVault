@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USABO&BBO/C4 and C3 Plants.md",
+                "file": "USABO&BBO/Plant Tissues.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C4 and C3 Plants"
+              "title": "Plant Tissues"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "phloem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,6 +197,7 @@
   },
   "active": "fee2c3d1ccbb4f51",
   "lastOpenFiles": [
+    "USABO&BBO/C4 and C3 Plants.md",
     "USABO&BBO/C4 Plants.png",
     "IB/Geo 2025.4.22 Note.md"
   ]
