@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "r",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IB/Geo 2025.4.22 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Geo 2025.4.22 Note 的反向链接列表"
             }
           },
           {
@@ -194,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cedababb197e5662",
+  "active": "da34f9eb97245280",
   "lastOpenFiles": [
     "IB/Geo 2025.4.22 Note.md"
   ]
