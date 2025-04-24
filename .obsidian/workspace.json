@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cedababb197e5662",
+  "active": "fee2c3d1ccbb4f51",
   "lastOpenFiles": [
     "IB/Geo 2025.4.22 Note.md"
   ]
