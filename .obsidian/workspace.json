@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Geo 2025.4.22 Note.md",
+                "file": "USABO&BBO/Plants Hormones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Geo 2025.4.22 Note 的反向链接列表"
+              "title": "Plants Hormones 的反向链接列表"
             }
           },
           {
@@ -164,8 +164,7 @@
               "title": "关系图谱"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e1578037c10674f0",
@@ -198,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7801f395315117e9",
+  "active": "f66061140194fb2a",
   "lastOpenFiles": [
     "USABO&BBO/Human Hormones.md",
     "USABO&BBO/Plants Hormones.md",
