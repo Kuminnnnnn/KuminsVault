@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thaw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8807eae13fbc592a",
+  "active": "52bad503cd247d65",
   "lastOpenFiles": [
     "IB/Geo 2025.4.22+4.27 Note.md",
     "IB/ESS 2025.4.23+4.27 Note.md",
