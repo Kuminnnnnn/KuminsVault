@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USABO&BBO/ABCDE Model.md",
-                "mode": "source",
+                "file": "USABO&BBO/Plants Hormones.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ABCDE Model"
+              "title": "Plants Hormones"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tropism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,8 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7801f395315117e9",
+  "active": "8807eae13fbc592a",
   "lastOpenFiles": [
+    "USABO&BBO/Plant.md",
+    "USABO&BBO/Phytochrome-Dependent Signal Transduction.md",
+    "USABO&BBO/ABCDE Model.md",
     "IB/Geo 2025.4.22+4.27 Note.md",
     "IB/ESS 2025.4.23+4.27 Note.md",
     "USABO&BBO/PAMP-triggered Immunity (PTI).md",
@@ -206,7 +210,6 @@
     "BrainCompResearch/Pf. Mehrdad Jazayeri 4.26 Note.md",
     "BrainCompResearch",
     "USABO&BBO/Photosynthesis.md",
-    "USABO&BBO/ABCDE Model.md",
     "2025-04-25.md",
     "2025-04-24.md",
     "IB/ESS 2025.4.7+4.8 Note.md",
