@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Geo 2025.4.22+4.27 Note.md",
+                "file": "USABO&BBO/ABCDE Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geo 2025.4.22+4.27 Note"
+              "title": "ABCDE Model"
             }
           }
         ]
@@ -197,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52bad503cd247d65",
+  "active": "7801f395315117e9",
   "lastOpenFiles": [
     "IB/Geo 2025.4.22+4.27 Note.md",
     "IB/ESS 2025.4.23+4.27 Note.md",
