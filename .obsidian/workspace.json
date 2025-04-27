@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "IB/ESS 2025.4.23+4.27 Note.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -212,7 +212,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aaa1e4c5a2f1c1fc",
+  "active": "52198376183e2065",
   "lastOpenFiles": [
     "IB/ESS 2025.4.23+4.27 Note.md",
     "IB/Geo 2025.4.22 Note.md",
