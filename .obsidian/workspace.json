@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USABO&BBO/Plants Hormones.md",
+                "file": "USABO&BBO/Phototropism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plants Hormones"
+              "title": "Phototropism"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Geo 2025.4.22+4.27 Note.md",
+                "file": "USABO&BBO/Phototropism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Geo 2025.4.22+4.27 Note 的反向链接列表"
+              "title": "Phototropism 的反向链接列表"
             }
           },
           {
@@ -163,8 +163,7 @@
               "title": "关系图谱"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e1578037c10674f0",
@@ -200,6 +199,8 @@
   "active": "7801f395315117e9",
   "lastOpenFiles": [
     "USABO&BBO/Plants Hormones.md",
+    "USABO&BBO/Auxin(IAA).md",
+    "USABO&BBO/Monocot & Dicot.md",
     "IB/Geo 2025.4.22+4.27 Note.md",
     "USABO&BBO/Human Hormones.md",
     "USABO&BBO/Phototropism.md",
