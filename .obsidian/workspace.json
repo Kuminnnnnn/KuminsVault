@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USABO&BBO/Apical bud and Axillary bud.md",
-                "mode": "preview",
+                "file": "IB/ESS 2025.4.23+4.27 Note.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apical bud and Axillary bud"
+              "title": "ESS 2025.4.23+4.27 Note"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USABO&BBO/Apical bud and Axillary bud.md",
+                "file": "IB/ESS 2025.4.23+4.27 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Apical bud and Axillary bud 的反向链接列表"
+              "title": "ESS 2025.4.23+4.27 Note 的反向链接列表"
             }
           },
           {
@@ -199,6 +198,8 @@
   },
   "active": "7801f395315117e9",
   "lastOpenFiles": [
+    "IB/Geo 2025.4.8 Note.md",
+    "USABO&BBO/Apical bud and Axillary bud.md",
     "USABO&BBO/Phototropism.md",
     "USABO&BBO/Plants Hormones.md",
     "USABO&BBO/Auxin(IAA).md",
