@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Geo 2025.4.22+4.27+4.28+4.29 Note"
             }
+          },
+          {
+            "id": "b87c1beaa70f36c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025429导师预热课.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025429导师预热课"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Geo 2025.4.22+4.27+4.28+4.29 Note.md",
+                "file": "2025429导师预热课.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Geo 2025.4.22+4.27+4.28+4.29 Note 的反向链接列表"
+              "title": "2025429导师预热课 的反向链接列表"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Geo 2025.4.22+4.27+4.28+4.29 Note.md",
+                "file": "2025429导师预热课.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Geo 2025.4.22+4.27+4.28+4.29 Note 的大纲"
+              "title": "2025429导师预热课 的大纲"
             }
           },
           {
@@ -197,8 +212,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7801f395315117e9",
+  "active": "b87c1beaa70f36c6",
   "lastOpenFiles": [
+    "IB/Geo 2025.4.22+4.27+4.28+4.29 Note.md",
+    "2025429导师预热课.md",
+    "未命名",
     "USABO&BBO/Plants Hormones.md",
     "USABO&BBO/Etiolation.md",
     "USABO&BBO/Auxin(IAA).md",
@@ -207,7 +225,6 @@
     "USABO&BBO/Apical bud and Axillary bud.md",
     "USABO&BBO/Phototropism.md",
     "USABO&BBO/Monocot & Dicot.md",
-    "IB/Geo 2025.4.22+4.27+4.28+4.29 Note.md",
     "USABO&BBO/Human Hormones.md",
     "USABO&BBO/Plant.md",
     "USABO&BBO/Phytochrome-Dependent Signal Transduction.md",
