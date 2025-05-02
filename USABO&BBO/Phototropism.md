@@ -14,7 +14,7 @@
         - Shaded side: ***Auxin*** accumulates, stimulating cell elongation via acid growth hypothesis.
 
 3. ​**Growth Response**:
-    >	**Cells on the shaded side elongate more, causing bending toward the light.**
+    	**Cells on the shaded side elongate more, causing bending toward the light.**
 
 ---
 ## ​**Examples**:
