@@ -40,4 +40,7 @@ Two features
 
 **Qualia**
 Subjective, personal thoughts/perceptions - can't study now
+
+>**Chinese Room Paradox**
+>Behavior alone cannot reveal consciousness
 ___
