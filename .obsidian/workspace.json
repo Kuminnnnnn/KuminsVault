@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4565e691445c2a39",
+        "id": "fd2d8f5ac7ffe74d",
         "type": "tabs",
         "children": [
           {
-            "id": "80d94dc0d341f654",
+            "id": "7801f395315117e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Geo 2025.4.22 Note.md",
+                "file": "BrainCompResearch/2025429导师预热课.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geo 2025.4.22 Note"
+              "title": "2025429导师预热课"
+            }
+          },
+          {
+            "id": "b87c1beaa70f36c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IB/ESS 2025.4.23+4.27+4.30 Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ESS 2025.4.23+4.27+4.30 Note"
             }
           }
         ]
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Geo 2025.4.22 Note.md",
+                "file": "2025429导师预热课.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Geo 2025.4.22 Note 的反向链接列表"
+              "title": "2025429导师预热课 的反向链接列表"
             }
           },
           {
@@ -142,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Geo 2025.4.22 Note.md",
+                "file": "2025429导师预热课.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Geo 2025.4.22 Note 的大纲"
+              "title": "2025429导师预热课 的大纲"
             }
           },
           {
@@ -197,10 +211,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80d94dc0d341f654",
+  "active": "52bad503cd247d65",
   "lastOpenFiles": [
+    "2025429导师预热课.md",
+    "IB/Geo 2025.4.22+4.27+4.28+4.29+4.30 Note.md",
+    "IB/ESS 2025.4.23+4.27+4.30 Note.md",
+    "BrainCompResearch/2025429导师预热课.md",
+    "未命名",
+    "USABO&BBO/Plants Hormones.md",
+    "USABO&BBO/Etiolation.md",
+    "USABO&BBO/Auxin(IAA).md",
+    "IB/Geo 2025.4.8 Note.md",
+    "USABO&BBO/Apical bud and Axillary bud.md",
+    "USABO&BBO/Phototropism.md",
+    "USABO&BBO/Monocot & Dicot.md",
+    "USABO&BBO/Human Hormones.md",
+    "USABO&BBO/Plant.md",
+    "USABO&BBO/Phytochrome-Dependent Signal Transduction.md",
+    "USABO&BBO/ABCDE Model.md",
+    "USABO&BBO/PAMP-triggered Immunity (PTI).md",
+    "2025-04-27.md",
+    "BrainCompResearch/Pf. Mehrdad Jazayeri 4.26 Note.md",
+    "BrainCompResearch",
+    "USABO&BBO/Photosynthesis.md",
     "2025-04-25.md",
-    "IB/Geo 2025.4.22 Note.md",
     "2025-04-24.md",
     "IB/ESS 2025.4.7+4.8 Note.md",
     "USABO&BBO/ABCDE Model.png"
