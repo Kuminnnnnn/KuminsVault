@@ -13,5 +13,8 @@ ___
 > 1. function: both language
 > 2. Algorithm: unknown? both AI and Brain
 > 3. Implementation: different
-___
 
+___
+**Intellegence**
+1. Adapt to the rules - **adaptive**/**flexibility**
+2. 
