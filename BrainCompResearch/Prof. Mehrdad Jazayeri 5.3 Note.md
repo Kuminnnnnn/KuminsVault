@@ -43,4 +43,6 @@ Subjective, personal thoughts/perceptions - can't study now
 
 >**Chinese Room Paradox**
 >Behavior alone cannot reveal consciousness
+>Memory is necessory for conscious but not sufficient
 ___
+# Emotion
