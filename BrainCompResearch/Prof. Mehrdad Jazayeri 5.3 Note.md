@@ -52,5 +52,7 @@ What is its row?
 
 **It is like some sort of simplification of the world to help you make decision**
 **They are deeply embodied**
+
+**Emotion Regulation**
 ___
 
