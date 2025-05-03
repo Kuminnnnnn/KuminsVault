@@ -22,4 +22,12 @@ ___
 ___
 **Consciousness**
 is not free-will
-Conscious do not need to decide to do
+Conscious do not need to decide to do anything
+
+Two features
+1. **Being aware of things around you**
+	1. connection to reality within your mind
+2. **Neural correlates of consciousness(NCC)**
+	1. when you are conscious and when you are not
+		1. surgery - lost&regain
+	2. which part of the brain is active
