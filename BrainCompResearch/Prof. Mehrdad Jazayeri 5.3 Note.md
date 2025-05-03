@@ -20,3 +20,6 @@ ___
 2. decompose problems and solve them - **analyze**
 3. the ability to **give up**
 ___
+**Consciousness**
+is not free-will
+Conscious do not need to decide to do
