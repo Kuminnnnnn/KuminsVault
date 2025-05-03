@@ -17,4 +17,6 @@ ___
 ___
 **Intellegence**
 1. Adapt to the rules - **adaptive**/**flexibility**
-2. 
+2. decompose problems and solve them - **analyze**
+3. the ability to **give up**
+___
