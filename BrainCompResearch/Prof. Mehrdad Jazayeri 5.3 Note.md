@@ -48,3 +48,4 @@ ___
 # Emotion
 Is it linked to body or not?
 Is it based on brain or not?
+What is its row?
