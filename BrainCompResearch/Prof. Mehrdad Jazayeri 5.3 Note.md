@@ -23,6 +23,8 @@ ___
 **Consciousness**
 is not free-will
 Conscious do not need to decide to do anything
+1. NCC
+2. Qualia
 
 Two features
 1. Being aware of things around you
@@ -34,3 +36,5 @@ Two features
 >**Binocular rivalry**
 >rarely see both of them
 
+**Qualia**
+Subjective, personal thoughts/perceptions
