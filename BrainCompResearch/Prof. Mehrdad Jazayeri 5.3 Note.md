@@ -3,14 +3,15 @@
 
 **In the brain, neural code and many thing else are always changing**
 ___
-**Three ways to think thinking** - David Mar
-1. What is the function
-2. What algorithm used
+**Three ways to understand a system** -  *Vision* David Marr
+1. What is the function - **Computation**
+2. What algorithm used - **Algorithms**
 	1. how computers use to adds: (binary)
-3. How implemented
+3. How implemented - **Implementation**
 	1. computers: -> silicon chips...
 > **comparing AI with brain**
 > 1. function: both language
-> 2. Algorithm: different
+> 2. Algorithm: unknown? both AI and Brain
 > 3. Implementation: different
+___
 
