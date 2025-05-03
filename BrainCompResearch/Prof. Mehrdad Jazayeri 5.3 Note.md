@@ -46,3 +46,5 @@ Subjective, personal thoughts/perceptions - can't study now
 >Memory is necessory for conscious but not sufficient
 ___
 # Emotion
+Is it linked to body or not?
+Is it based on brain or not?
