@@ -1,1 +1,1 @@
-Neural Code
+Neural Code: how neurons are arranged to perform function
