@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "2025429导师预热课"
             }
+          },
+          {
+            "id": "4107d6ed4563c017",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IB/Geo 2025.4.22+4.27+4.28+4.29+4.30+5.6 Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Geo 2025.4.22+4.27+4.28+4.29+4.30+5.6 Note"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,8 +254,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "746271248cf9798e",
+  "active": "4107d6ed4563c017",
   "lastOpenFiles": [
+    "IB/Geo 2025.5.6 Note.md",
+    "IB/Geo 2025.4.22+4.27+4.28+4.29+4.30+5.6 Note.md",
+    "BrainCompResearch/2025429导师预热课.md",
     "BrainCompResearch/20250504 中方预热.md",
     "BrainCompResearch/20250505导师课.md",
     "BrainCompResearch/单纯前馈网络.png",
@@ -249,7 +266,6 @@
     "BrainCompResearch/PPT 汇报题目.png",
     "BrainCompResearch/Prof. Mehrdad Jazayeri 5.3 Note.md",
     "BrainCompResearch/模型函数.png",
-    "BrainCompResearch/2025429导师预热课.md",
     "BrainCompResearch/2025429导师预热课 1.md",
     "IB/Geo 2025.4.22 Note.md",
     "2025-04-25.md",
