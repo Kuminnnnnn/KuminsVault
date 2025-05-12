@@ -184,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52bad503cd247d65",
+  "active": "764260fbb89cdfc7",
   "lastOpenFiles": [
     "IB/Geo 2025.4.22+4.27+4.28+4.29+4.30+5.6 Note.md",
     "IB/Geo 2025.4.22 Note.md",
