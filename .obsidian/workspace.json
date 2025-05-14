@@ -35,7 +35,8 @@
               "title": "ESS 2025.5.12+5.14 Note"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,7 +212,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aaa1e4c5a2f1c1fc",
+  "active": "e59a50b5472f290a",
   "lastOpenFiles": [
     "IB/Geo 2025.5.9+5.12+5.13+5.14 Note.md",
     "IB/ESS 2025.5.12+5.14 Note.md",
