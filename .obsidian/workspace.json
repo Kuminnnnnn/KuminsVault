@@ -27,20 +27,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/ESS 2025.5.12 Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ESS 2025.5.12 Note"
-            }
-          },
-          {
-            "id": "ff13c4118291d073",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "IB/ESS 2025.5.12+5.14 Note.md",
                 "mode": "source",
                 "source": false
@@ -50,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,15 +212,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff13c4118291d073",
+  "active": "52bad503cd247d65",
   "lastOpenFiles": [
+    "IB/Soil texture.jpg",
+    "IB/ESS 2025.5.12+5.14 Note.md",
     "IB/Geo 2025.5.9+5.12+5.13 Note.md",
     "BrainCompResearch/C2_20250512导师课.md",
     "BrainCompResearch/cn-machine-learning-ebook-all-chapters.pdf",
     "BrainCompResearch/C1_20250505导师课.md",
     "无监督学习.md",
     "BrainCompResearch/C1_Prof. Mehrdad Jazayeri 5.3 Note.md",
-    "IB/ESS 2025.5.12+5.14 Note.md",
     "IB/Geo 2025.4.22+4.27+4.28+4.29+4.30+5.6 Note.md",
     "IB/Geo 2025.4.22 Note.md",
     "IB/Geo 2025.4.8 Note.md",
