@@ -25,12 +25,14 @@
             "id": "e59a50b5472f290a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "USABO&BBO/Plant Hormones.png"
+                "file": "IB/Geo 2025.5.9+5.12+5.13+5.14+5.15 Note.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Plant Hormones"
+              "icon": "lucide-file",
+              "title": "Geo 2025.5.9+5.12+5.13+5.14+5.15 Note"
             }
           }
         ],
@@ -212,8 +214,9 @@
   },
   "active": "e59a50b5472f290a",
   "lastOpenFiles": [
+    "USABO&BBO/Plant Hormones.png",
     "IB/ESS 2025.5.12+5.14 Note.md",
-    "IB/Geo 2025.5.9+5.12+5.13+5.14 Note.md",
+    "IB/Geo 2025.5.9+5.12+5.13+5.14+5.15 Note.md",
     "IB/Soil texture.jpg",
     "BrainCompResearch/C2_20250512导师课.md",
     "BrainCompResearch/cn-machine-learning-ebook-all-chapters.pdf",
