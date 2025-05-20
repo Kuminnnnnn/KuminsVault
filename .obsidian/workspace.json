@@ -4,39 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "cd6743042af40547",
+        "id": "f8df60b1b11c2b5f",
         "type": "tabs",
         "children": [
           {
-            "id": "217e831aa9c90d60",
+            "id": "4215be0c594352eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Geo 2025.4.22+4.27+4.28+4.29+4.30+5.6 Note.md",
+                "file": "IB/ESS 2025.4.23+4.27+4.30 Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geo 2025.4.22+4.27+4.28+4.29+4.30+5.6 Note"
+              "title": "ESS 2025.4.23+4.27+4.30 Note"
             }
           },
           {
-            "id": "8aaa609ebac84cfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BrainCompResearch/C1_20250518 中方教授.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1_20250518 中方教授"
-            }
-          },
-          {
-            "id": "b590792e7680f739",
+            "id": "3d9132dd8163d315",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,23 +34,8 @@
               "icon": "lucide-file",
               "title": "ESS 2025.5.12+5.14+5.16 Note"
             }
-          },
-          {
-            "id": "64ad74d1cdec3dc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BrainCompResearch/C3_20250519 导师课.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C3_20250519 导师课"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,15 +212,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b590792e7680f739",
+  "active": "4215be0c594352eb",
   "lastOpenFiles": [
-    "IB/Geo 2025.4.22+4.27+4.28+4.29+4.30+5.6 Note.md",
-    "BrainCompResearch/C3_20250519 导师课.md",
     "IB/ESS 2025.5.12+5.14+5.16 Note.md",
     "IB/ESS 2025.4.23+4.27+4.30 Note.md",
-    "主义.md",
+    "IB/Geo 2025.4.22+4.27+4.28+4.29+4.30+5.6 Note.md",
     "BrainCompResearch/C1_20250518 中方教授.md",
+    "IB/Geo 2025.4.8 Note.md",
     "IB/Geo 2025.5.9+5.12+5.13+5.14+5.15 Note.md",
+    "BrainCompResearch/C3_20250519 导师课.md",
+    "主义.md",
     "BrainCompResearch/C3_20250217 MJ Note.md",
     "IB/Psychometric function.png",
     "BrainCompResearch/C2_20250512导师课.md",
@@ -258,7 +230,6 @@
     "BrainCompResearch/Pf. Mehrdad Jazayeri 4.26 Note.md",
     "BrainCompResearch/C2_20250510 MJ Note.md",
     "IB/Geo 2025.4.22 Note.md",
-    "IB/Geo 2025.4.8 Note.md",
     "IB/ESS 2025.4.7+4.8 Note.md",
     "IB/ESS 2025.4.23 Note.md",
     "IB/IO.md",
