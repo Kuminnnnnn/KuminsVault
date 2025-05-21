@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/IO MOCK 内容.md",
+                "file": "USABO&BBO/Phytochrome-Dependent Signal Transduction.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IO MOCK 内容"
+              "title": "Phytochrome-Dependent Signal Transduction"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "far",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,8 +230,10 @@
   },
   "active": "3d9132dd8163d315",
   "lastOpenFiles": [
-    "IB/IO MOCK 草稿.md",
+    "USABO&BBO/Photoperiodism.md",
+    "USABO&BBO/Phytochrome-Dependent Signal Transduction.md",
     "IB/IO MOCK 内容.md",
+    "IB/IO MOCK 草稿.md",
     "IB/ESS 2025.5.12+5.14+5.16 Note.md",
     "IB/ESS 2025.4.23+4.27+4.30 Note.md",
     "IB/Geo 2025.5.9+5.12+5.13+5.14+5.15+5.20 Note.md",
@@ -257,11 +260,9 @@
     "BrainCompResearch/cn-machine-learning-ebook-all-chapters.pdf",
     "无监督学习.md",
     "BrainCompResearch/2025429导师预热课.md",
-    "BrainCompResearch/20250504 中方预热.md",
     "BrainCompResearch/单纯前馈网络.png",
     "BrainCompResearch/模型函数.png",
     "BrainCompResearch/PPT 汇报题目.png",
-    "IB/Geo 2025.5.6 Note.md",
     "USABO&BBO/ABCDE Model.png"
   ]
 }
