@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Geo 2025.5.9+5.12+5.13+5.14+5.15+5.20 Note"
             }
+          },
+          {
+            "id": "f697c838d8f9a112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geo 2025.05.21 Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Geo 2025.05.21 Note"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,8 +254,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20aeef97f020b599",
+  "active": "f697c838d8f9a112",
   "lastOpenFiles": [
+    "IB/Geo 2025.5.9+5.12+5.13+5.14+5.15+5.20 Note.md",
+    "Geo 2025.05.21 Note.md",
     "IB/Geo 2025.4.8 Note.md",
     "IB/ESS 2025.05.21 Note.md",
     "USABO&BBO/Phytochrome-Dependent Signal Transduction.md",
@@ -250,7 +266,6 @@
     "IB/IO MOCK 草稿.md",
     "IB/ESS 2025.5.12+5.14+5.16 Note.md",
     "IB/ESS 2025.4.23+4.27+4.30 Note.md",
-    "IB/Geo 2025.5.9+5.12+5.13+5.14+5.15+5.20 Note.md",
     "IB/Geo 2025.4.22+4.27+4.28+4.29+4.30+5.6 Note.md",
     "BrainCompResearch/C1_20250518 中方教授.md",
     "BrainCompResearch/C3_20250519 导师课.md",
@@ -271,7 +286,6 @@
     "USABO&BBO/Plant Hormones.png",
     "IB/Soil texture.jpg",
     "BrainCompResearch/cn-machine-learning-ebook-all-chapters.pdf",
-    "无监督学习.md",
     "BrainCompResearch/单纯前馈网络.png",
     "BrainCompResearch/模型函数.png",
     "BrainCompResearch/PPT 汇报题目.png",
