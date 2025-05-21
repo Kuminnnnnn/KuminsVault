@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/IO.md",
+                "file": "IB/IO MOCK 草稿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IO"
+              "title": "IO MOCK 草稿"
+            }
+          },
+          {
+            "id": "f9d2f2f24fb64251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IB/IO MOCK 草稿.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IO MOCK 草稿"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,8 +227,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d9132dd8163d315",
+  "active": "f9d2f2f24fb64251",
   "lastOpenFiles": [
+    "IB/IO MOCK 内容.md",
+    "IB/IO MOCK 草稿.md",
     "IB/ESS 2025.5.12+5.14+5.16 Note.md",
     "IB/ESS 2025.4.23+4.27+4.30 Note.md",
     "IB/Geo 2025.5.9+5.12+5.13+5.14+5.15+5.20 Note.md",
@@ -233,7 +249,6 @@
     "IB/Geo 2025.4.22 Note.md",
     "IB/ESS 2025.4.7+4.8 Note.md",
     "IB/ESS 2025.4.23 Note.md",
-    "IB/IO.md",
     "USABO&BBO/Embryonic Germ Layers.md",
     "USABO&BBO/Plant Organs.md",
     "USABO&BBO/Plant.md",
@@ -247,7 +262,6 @@
     "BrainCompResearch/模型函数.png",
     "BrainCompResearch/PPT 汇报题目.png",
     "IB/Geo 2025.5.6 Note.md",
-    "BrainCompResearch/2025429导师预热课 1.md",
     "USABO&BBO/ABCDE Model.png"
   ]
 }
