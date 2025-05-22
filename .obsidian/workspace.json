@@ -137,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Geo 2025.4.22 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Geo 2025.4.22 Note 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -240,10 +239,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d9132dd8163d315",
+  "active": "aaa1e4c5a2f1c1fc",
   "lastOpenFiles": [
-    "IB/Geo 2025.05.21+5.22 Note.md",
     "IB/IO MOCK 内容.md",
+    "IB/Geo 2025.05.21+5.22 Note.md",
     "USABO&BBO/Phytochrome-Dependent Signal Transduction.md",
     "2025-05-22.md",
     "IB/Geo 2025.4.22+4.27+4.28+4.29+4.30+5.6 Note.md",
