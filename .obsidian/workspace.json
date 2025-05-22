@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "IB/IO MOCK 内容.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -137,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IB/IO MOCK 内容.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "IO MOCK 内容 的反向链接列表"
             }
           },
           {
@@ -239,7 +240,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aaa1e4c5a2f1c1fc",
+  "active": "3d9132dd8163d315",
   "lastOpenFiles": [
     "IB/IO MOCK 内容.md",
     "IB/Geo 2025.05.21+5.22 Note.md",
