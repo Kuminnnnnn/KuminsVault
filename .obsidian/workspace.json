@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,10 +226,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "236a2a8d858b3ed2",
+  "active": "7227e651a6911e92",
   "lastOpenFiles": [
-    "IB/IO MOCK 内容.md",
     "IB/IO 内容.md",
+    "IB/IO MOCK 内容.md",
     "C3.md",
     "BrainCompResearch/C4_20250524 MJ Note.md",
     "BrainCompResearch/C3_20250217 MJ Note.md",
