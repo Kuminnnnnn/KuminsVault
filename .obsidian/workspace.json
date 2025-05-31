@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "6a39adacee97c26c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BrainCompResearch/C5_20250531 MJ Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C5_20250531 MJ Note"
+            }
+          },
+          {
             "id": "ab473dc4649a5f1a",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "IO 内容"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.50152206420898
+    "width": 221.50152206420898,
+    "collapsed": true
   },
   "right": {
     "id": "0f063508c5641e23",
@@ -198,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,8 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "236a2a8d858b3ed2",
+  "active": "6a39adacee97c26c",
   "lastOpenFiles": [
+    "IB/ESS 2025.4.7+4.8 Note.md",
+    "BrainCompResearch/C5_20250531 MJ Note.md",
     "IB/ESS 2025.4.23+4.27+4.30 Note.md",
     "IB/ESS 2025.5.12+5.14+5.16 Note.md",
     "IB/ESS 2025.05.21 Note.md",
@@ -228,7 +247,6 @@
     "IB/Geo 2025.5.9+5.12+5.13+5.14+5.15+5.20 Note.md",
     "IB/Geo 2025.4.8 Note.md",
     "IB/Geo 2025.4.22+4.27+4.28+4.29+4.30+5.6 Note.md",
-    "IB/ESS 2025.4.7+4.8 Note.md",
     "IB/IO MOCK 草稿.md",
     "IB/IO MOCK 内容.md",
     "IB/Psychometric function.png",
@@ -243,7 +261,6 @@
     "USABO&BBO/C4 Plants.png",
     "USABO&BBO/Bulk RNA Sequencing (Bulk RNA-seq).md",
     "USABO&BBO/Effector Triggered Immunity(ETI).md",
-    "USABO&BBO/Cortisol.md",
     "USABO&BBO/flower.png",
     "USABO&BBO/Pr Pfr Interconversion.png",
     "USABO&BBO/Stomach Secretion.png",
