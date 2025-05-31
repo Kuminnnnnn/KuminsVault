@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.50152206420898,
-    "collapsed": true
+    "width": 221.50152206420898
   },
   "right": {
     "id": "0f063508c5641e23",
@@ -230,8 +229,10 @@
   },
   "active": "6a39adacee97c26c",
   "lastOpenFiles": [
-    "IB/ESS 2025.4.7+4.8 Note.md",
+    "BrainCompResearch/C2_20250510 MJ Note.md",
+    "BrainCompResearch/C1_20250503 MJ Note.md",
     "BrainCompResearch/C5_20250531 MJ Note.md",
+    "IB/ESS 2025.4.7+4.8 Note.md",
     "IB/ESS 2025.4.23+4.27+4.30 Note.md",
     "IB/ESS 2025.5.12+5.14+5.16 Note.md",
     "IB/ESS 2025.05.21 Note.md",
@@ -259,8 +260,6 @@
     "USABO&BBO/ABCDE Model.png",
     "USABO&BBO/ABCDE Model.md",
     "USABO&BBO/C4 Plants.png",
-    "USABO&BBO/Bulk RNA Sequencing (Bulk RNA-seq).md",
-    "USABO&BBO/Effector Triggered Immunity(ETI).md",
     "USABO&BBO/flower.png",
     "USABO&BBO/Pr Pfr Interconversion.png",
     "USABO&BBO/Stomach Secretion.png",
