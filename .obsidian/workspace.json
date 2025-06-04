@@ -63,7 +63,8 @@
               "title": "IO 内容"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,8 +241,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "236a2a8d858b3ed2",
+  "active": "6a39adacee97c26c",
   "lastOpenFiles": [
+    "IB/ESS 2025.05.21+6.4 ote.md",
     "IB/ESS 2025.4.7+4.8 Note.md",
     "IB/MAI IA.md",
     "IB/Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3 Note.md",
@@ -250,7 +252,6 @@
     "BrainCompResearch/C1_20250503 MJ Note.md",
     "IB/ESS 2025.4.23+4.27+4.30 Note.md",
     "IB/ESS 2025.5.12+5.14+5.16 Note.md",
-    "IB/ESS 2025.05.21+6.4 ote.md",
     "IB/IO 内容.md",
     "2025-05-22.md",
     "2025-04-27.md",
