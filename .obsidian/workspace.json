@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,10 +241,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d15c1b65fcb6ce8",
+  "active": "6a39adacee97c26c",
   "lastOpenFiles": [
-    "BrainCompResearch/C3_20250519 导师课.md",
     "BrainCompResearch/C2_20250512导师课.md",
+    "BrainCompResearch/C3_20250519 导师课.md",
     "BrainCompResearch/C1_20250505导师课.md",
     "IB/MAI IA.md",
     "IB/Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3 Note.md",
