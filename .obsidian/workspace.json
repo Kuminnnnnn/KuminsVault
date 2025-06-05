@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "far",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,7 +242,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a39adacee97c26c",
+  "active": "8807eae13fbc592a",
   "lastOpenFiles": [
     "BrainCompResearch/C4_20250524 MJ Note.md",
     "BrainCompResearch/C5_20250531 MJ Note.md",
