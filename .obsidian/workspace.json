@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/ESS 2025.05.21+6.4 Note.md",
+                "file": "IB/Geo 2025.5.9+5.12+5.13+5.14+5.15+5.20 Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ESS 2025.05.21+6.4 Note"
+              "title": "Geo 2025.5.9+5.12+5.13+5.14+5.15+5.20 Note"
             }
           }
         ]
@@ -200,8 +200,10 @@
   },
   "active": "236a2a8d858b3ed2",
   "lastOpenFiles": [
-    "IB/ESS 2025.5.12+5.14+5.16 Note.md",
+    "IB/Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3+6.5 Note.md",
     "IB/ESS 2025.05.21+6.4 Note.md",
+    "IB/food security.png",
+    "IB/ESS 2025.5.12+5.14+5.16 Note.md",
     "Pasted image 20250606233059.png",
     "IB/Food sustainability.png",
     "Pasted image 20250606231854.png",
@@ -209,7 +211,6 @@
     "BrainCompResearch/C4_20250524 MJ Note.md",
     "BrainCompResearch/cn-machine-learning-ebook-all-chapters.pdf",
     "BrainCompResearch/Pf. Mehrdad Jazayeri 4.26 Note.md",
-    "IB/Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3+6.5 Note.md",
     "BrainCompResearch/C2_20250512导师课.md",
     "BrainCompResearch/C3_20250519 导师课.md",
     "BrainCompResearch/C1_20250505导师课.md",
@@ -234,7 +235,6 @@
     "USABO&BBO/Alteration of generation.png",
     "USABO&BBO/ABCDE Model.png",
     "USABO&BBO/C4 Plants.png",
-    "USABO&BBO/flower.png",
-    "USABO&BBO/Pr Pfr Interconversion.png"
+    "USABO&BBO/flower.png"
   ]
 }
