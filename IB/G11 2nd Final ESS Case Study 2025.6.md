@@ -69,20 +69,19 @@
 - **Flagship - giant panda**
 	- Specialized niche
 	- Breeding programme
-	- Raise awarenes
+	- Raise awareness
 	- Habitat reconstruction
-	- Keystone species - beavers
-Hunting for hat making
-North west company - Profit from fur trade
-Dam -> wetland
-Legal protection
-Reintroduction programme
-Habitat reconstruction
-Captive and zoo - golden lion tamarin
-Habitat loss
-Low reproductive potential
-150 zoos breeding programme
-Simulating environment in zoo
-Breeding pair selection - help reproduction
-CITES
-Southern white rhino
+- **Keystone species - beavers**
+	- Hunting for hat making
+	- North west company - Profit from fur trade
+	- Dam -> wetland
+	- Legal protection
+	- Reintroduction programme
+	- Habitat reconstruction
+- **Captive and zoo - golden lion tamarin**
+	- Habitat loss
+	- Low reproductive potential
+	- 150 zoos breeding programme
+	- Simulating environment in zoo
+	- Breeding pair selection - help reproduction
+- **CITES - Southern white rhino**
