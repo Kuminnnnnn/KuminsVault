@@ -86,3 +86,17 @@
 	- Simulating environment in zoo
 	- Breeding pair selection - help reproduction
 - **CITES - Southern white rhino**
+___
+# Unit 4
+## Water Scarcity - Afghanistan
+1. Economic: **poor infrastructure**
+2. political: **Three decades of turmoil in Afghanistan**
+	1. destroyed infrastructure
+	2. neglected infrastructure
+3. pollution: over exploited in places like Kabul
+4. climate: **steady droughts**
+## Mitigation Strategies for Water Scarcity
+Environment: arid climate and variable rainfall
+1. **water pricing mechanism**
+	1. tiered water pricing
+	2. 
