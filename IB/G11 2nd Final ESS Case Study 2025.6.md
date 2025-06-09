@@ -52,7 +52,7 @@
 - Provide 6 million jobs
 - Cattle ranching accounting for 80% of deforestation
 - GTA -> official document for transporting cattle isn't functioning
-## A success of protection area
+## A success of protection area - In situ
 **Serengeti National Park**
 - **Funding from Tanzania**
 - **Citizen residents as guards and patrols**
@@ -61,4 +61,28 @@
 - **Protected water sources**
 - **Control burning and prevent habitat destruction**
 - **Black rhino**
-## 
+## Ex situ - rewilding of Spixs macaw
+- ACTP programme
+- Dangered due to hunting and habitat loss
+
+## Species Based Conservation
+- **Flagship - giant panda**
+	- Specialized niche
+	- Breeding programme
+	- Raise awarenes
+	- Habitat reconstruction
+	- Keystone species - beavers
+Hunting for hat making
+North west company - Profit from fur trade
+Dam -> wetland
+Legal protection
+Reintroduction programme
+Habitat reconstruction
+Captive and zoo - golden lion tamarin
+Habitat loss
+Low reproductive potential
+150 zoos breeding programme
+Simulating environment in zoo
+Breeding pair selection - help reproduction
+CITES
+Southern white rhino
