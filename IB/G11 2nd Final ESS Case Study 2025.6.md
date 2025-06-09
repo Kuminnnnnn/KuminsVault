@@ -46,3 +46,19 @@
 - Current effort
 	- plastic ban
 	- clean-up initiatives
+## Conflict Between Development and Eco
+**Cattle ranching and forest conservation in the Amazon Rainforest**
+- Brazil has the world's largest commercial cattle herd :220 million head
+- Provide 6 million jobs
+- Cattle ranching accounting for 80% of deforestation
+- GTA -> official document for transporting cattle isn't functioning
+## A success of protection area
+**Serengeti National Park**
+- **Funding from Tanzania**
+- **Citizen residents as guards and patrols**
+- **Research**
+- **Education**
+- **Protected water sources**
+- **Control burning and prevent habitat destruction**
+- **Black rhino**
+## 
