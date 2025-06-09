@@ -18,4 +18,18 @@
 		- hunting for meat
 		- human destruction to the forest habitat
 		- low reproduction potential
-- ****
+- **Critically endangered - Sumatran Orangutan**
+	- location: indonesian island
+	- number: 14000
+	- **reasons**:
+		- hunting as pet
+		- destruction to forest as logging
+		- low reproduction potential
+- **Improving - Southern White Rhino**
+	- **reasons for danger**
+		- hunting for horn
+	- **strategies**
+		- captive breeding programme
+		- protected area
+		- law enforcement -> **CITES**
+	- current number: 18000
