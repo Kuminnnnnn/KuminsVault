@@ -33,3 +33,16 @@
 		- protected area
 		- law enforcement -> **CITES**
 	- current number: 18000
+## Human Activity Caused Damage
+**North Pacific Ocean Gyre**
+- Marine environment and marine biodiversity
+- Problems
+	- accumulation of plastic debris
+	- non biodegradable
+- Consequence
+	- marine animals injection of plastic
+	- micorplastics will enter food chain
+	- reduced biodiversity
+- Current effort
+	- plastic ban
+	- clean-up initiatives
