@@ -99,4 +99,75 @@ ___
 Environment: arid climate and variable rainfall
 1. **water pricing mechanism**
 	1. tiered water pricing
-	2. 
+	2. water trading -> murray-darling basin
+		1. allocate water more efficient
+2. **water recycling programmes**
+	1. purple pipe systems -> grey water recycle
+	2. western corridor recycled water scheme
+3. **Crop selection and rotation**
+	1. drought-resistant crops
+		1. sorghum
+		2. millet
+	2. sustainable farming practices
+		1. crop rotation
+		2. conservation tillage
+4. **Community awareness**
+	1. water conservation campaigns
+	2. school education programmes
+## Fishery
+**1. Collapse and recovery of cod fisheries in Iceland and in grand banks of Newfound land**
+- Reasons:
+	- Technology involvement - Solar
+	- Governmental indifference of not-convincing 
+	- Bycatch
+- Strategies for recovery
+	- quota: ITC, TAC
+	- License
+**2. Collapse and recovery of north sea herring**
+- Reasons for collapse:
+	- Tragedy of commons
+	- Technological advancement - blast freezing, navigation, radar
+- Strategies for recovery
+	- Strict quota restriction
+	- limit countries
+	- reduce employee
+**3. Collapse and recovery of Peruvian anchovy**
+- Reasons for collapse
+	- Population decrease (overfishing)
+	- Political concerns (common fishing)
+	- Climate variability - cold temperature
+- Strategies for recovery
+	- total allowable catches
+	- scientific monitoring
+	- regional agreement between UK, Sweden, Norway
+**3. Collapse and recovery of Peruvian anchovy**
+- Reasons for collapse
+	- unsustainable fishing
+	- EL Nino (climate change) - 厄尔尼诺现象
+	- Poor management
+- Strategies for recovery
+	- natural recovery
+	- Individual vessel quotas(IUQs)
+	- seasonal & spatial closure
+	- IMARPE
+**4. The environmental impact of shrimp farming in Ecuador**
+- Mangrove loss: cut for land, decreased 70%
+- Biodiversity loss: mangrove provides habitat (e.g. crab birds)
+- Water pollution - fertilizer
+- land salinization
+**5. The environmental impact of Norwegian salmon fish farming**
+- Escaped salmon
+	- genetic dilution - lower resistance to wild environment - may pass their DNA to wild type
+	- outcompete
+- Pollution
+	- organic waste: 1. food 2. feces -> sludge carpet
+	- Inorganic waste: pesticides
+		- non-target effect
+		- resistance evolution
+		- fish stress
+- Disease: higher density -> more easy to infect -> spread to wild population
+**6. The benefits of rice-fish farming**
+1. More environmentally friendly due to reduced use of pesticides and fish feeds, improve water quality
+2. Fish will lower rice disease incidence and pest damage, increase the productivity of rice
+3. Fish waste increased ​soil organic matte, improving microbial activity and reducing erosion risks 
+4. Rice-fish systems preserved aquatic biodiversity (e.g., native shrimp, frogs) and acted as artificial wetlands, boosting ecological resilience in degraded landscapes.
