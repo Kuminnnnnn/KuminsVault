@@ -238,7 +238,7 @@ ___
     ✅ Positive:
     
     - Carbon sequestration via no-till farming, cover cropping reduces erosion.  
-        ⚠️ Negative:
+    ⚠️ Negative:
         
     - Methane from flooded rice fields, soil degradation from monocropping and compaction.
         
