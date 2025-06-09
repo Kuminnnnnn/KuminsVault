@@ -67,6 +67,7 @@
 
 ## Species Based Conservation
 - **Flagship - giant panda**
+	- Chengdu Research Base of Giant Panda Breeding
 	- Specialized niche
 	- Breeding programme
 	- Raise awareness
