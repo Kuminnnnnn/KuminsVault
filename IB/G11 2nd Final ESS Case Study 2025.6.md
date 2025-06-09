@@ -95,7 +95,7 @@ ___
 	2. neglected infrastructure
 3. pollution: over exploited in places like Kabul
 4. climate: **steady droughts**
-## Mitigation Strategies for Water Scarcity
+## Mitigation Strategies for Water Scarcity - Australia
 Environment: arid climate and variable rainfall
 1. **water pricing mechanism**
 	1. tiered water pricing
