@@ -171,3 +171,215 @@ Environment: arid climate and variable rainfall
 2. Fish will lower rice disease incidence and pest damage, increase the productivity of rice
 3. Fish waste increased ​soil organic matte, improving microbial activity and reducing erosion risks 
 4. Rice-fish systems preserved aquatic biodiversity (e.g., native shrimp, frogs) and acted as artificial wetlands, boosting ecological resilience in degraded landscapes.
+___
+# Unit 5
+### ✅ **1. Agroforestry (Brazil)**
+
+- **Inputs**
+    
+    - High labor: pruning, canopy management, successional agroforestry needs trained workers.
+        
+    - Biological: native tree species, pollinators (e.g., Melipona bees), pest-controlling insects.
+        
+    - Financial: expensive to establish due to seedlings, fencing (R$5,000–10,000/ha).
+        
+- **Outputs**
+    
+    - Main products: maize, beans, cassava, squash.
+        
+    - By-products: crop residues, ash, wild tubers/herbs.
+        
+    - Waste: smoke from biomass burning, organic decay, nutrient leaching.
+        
+- **System Characteristics**
+    
+    - Multi-strata planting mimics tropical forest layers.
+        
+    - High biodiversity, efficient nutrient cycling.
+        
+    - Climate-resilient, improves degraded soil and reduces erosion.
+        
+- **Environmental Impact**  
+    ✅ Positive:
+    
+    - Restores soil fertility, sequesters carbon, reduces erosion.  
+        ⚠️ Negative:
+        
+    - Risk of invasive species if not properly managed, requires high labor input.
+        
+
+---
+
+### ✅ **2. US Cereal Farming System**
+
+- **Inputs**
+    
+    - Genetically modified (GM) seeds, synthetic fertilizers (urea, P₂O₅), pesticides.
+        
+    - Mechanized irrigation (pivot, flood), large-scale farm machinery.
+        
+- **Outputs**
+    
+    - Main products: corn, wheat, rice, oats, barley, sorghum.
+        
+    - By-products: crop residues, processed grains.
+        
+    - Waste: excess fertilizer runoff, dust storms.
+        
+- **System Characteristics**
+    
+    - Highly mechanized and large-scale monoculture.
+        
+    - Data-driven, export-oriented, capital-intensive.
+        
+    - Regionally specialized (e.g., Corn Belt, Wheat Belt).
+        
+- **Environmental Impact**  
+    ✅ Positive:
+    
+    - Carbon sequestration via no-till farming, cover cropping reduces erosion.  
+        ⚠️ Negative:
+        
+    - Methane from flooded rice fields, soil degradation from monocropping and compaction.
+        
+
+---
+
+### ✅ **3. Hydroponics in Cairo**
+
+- **Inputs**
+    
+    - Seeds (local or NGO-provided), nutrient salts, minimal water via closed-loop systems.
+        
+    - Solar power and natural sunlight; sometimes LEDs or fans.
+        
+- **Outputs**
+    
+    - Main products: leafy greens, herbs, tomatoes, chili, tilapia (aquaponics).
+        
+    - By-products: compostable plant waste, greywater reuse.
+        
+    - Waste: minor plastic use (pipes, trays).
+        
+- **System Characteristics**
+    
+    - Urban, soil-free, water-efficient (uses 80–90% less water).
+        
+    - Year-round, high-yield production on desert land.
+        
+    - Tech-intensive: nutrient film technique, remote monitoring.
+        
+- **Environmental Impact**  
+    ✅ Positive:
+    
+    - Conserves water and land, reduces pesticide use.  
+        ⚠️ Negative:
+        
+    - Heavy reliance on plastics and electricity; cost limits scalability in low-income regions.
+        
+
+---
+
+### ✅ **4. Thailand Rice Farming System**
+
+- **Inputs**
+    
+    - Seeds (e.g., jasmine rice), monsoon and canal irrigation.
+        
+    - Fertilizers: synthetic and organic, herbicides in irrigated zones.
+        
+- **Outputs**
+    
+    - Main product: rice (20–25 million tons/year).
+        
+    - By-products: rice husk (bioenergy), rice bran (animal feed).
+        
+    - Waste: CH₄ emissions, agrochemical residues.
+        
+- **System Characteristics**
+    
+    - Combination of monoculture (central plains) and polyculture (upland).
+        
+    - Mechanization increasing, especially in harvesting and irrigation.
+        
+    - Intercropping in rainfed regions (e.g., rice–mungbean).
+        
+- **Environmental Impact**  
+    ✅ Positive:
+    
+    - Significant exporter, economic lifeline.  
+        ⚠️ Negative:
+        
+    - High CH₄ emissions (Thailand = 4th highest globally), pesticide runoff, biodiversity loss.
+        
+
+---
+
+### ✅ **5. Maasai Pastoralism (Kenya & Tanzania)**
+
+- **Inputs**
+    
+    - Labor from families and communities.
+        
+    - Communal land, natural grazing.
+        
+    - Water from lakes/rivers, no artificial feed or fertilizer.
+        
+- **Outputs**
+    
+    - Main: milk, meat.
+        
+    - By-products: hides (clothing/tools), manure (fuel/fertilizer), blood (in some diets).
+        
+    - Social outputs: dowries, ritual roles, economic safety net.
+        
+- **System Characteristics**
+    
+    - Community-managed, culturally rooted, low-input.
+        
+    - Rotational grazing helps maintain pasture health.
+        
+    - Interdependent with environment.
+        
+- **Environmental Impact**  
+    ✅ Positive:
+    
+    - Low emissions, organic fertilization, sustainable water use.  
+        ⚠️ Negative:
+        
+    - Local overgrazing, land compaction, CH₄ from enteric fermentation.
+        
+
+---
+
+### ✅ **6. Intensive Beef Production (Argentina)**
+
+- **Inputs**
+    
+    - Grain-based feed (corn, soy), protein concentrates, vitamins.
+        
+    - Clean water, sometimes with purification systems.
+        
+- **Outputs**
+    
+    - Main product: beef (muscle tissue).
+        
+    - By-products: leather, bone meal, manure.
+        
+    - Waste: methane (CH₄), carbon dioxide (CO₂), water pollution.
+        
+- **System Characteristics**
+    
+    - Feedlot-based, commercial and export-oriented.
+        
+    - Monoculture feed production (soy/corn), mainly for global markets.
+        
+    - Linked to global corporations (e.g., JBS, Cargill).
+        
+- **Environmental Impact**  
+    ⚠️ Negative:
+    
+    - High CH₄ emissions (~100 kg/cow/year), deforestation (7M+ ha),
+        
+    - Nitrate runoff, antibiotic resistance, habitat loss, fossil fuel use.
+        
