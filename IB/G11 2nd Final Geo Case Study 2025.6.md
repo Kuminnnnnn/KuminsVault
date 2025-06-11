@@ -93,7 +93,6 @@ ___
     ​Evaporation: Projected +20% evaporation reduces usable water.
 **利益相关方应对措施 Stakeholder Responses​**
 
-
 | ​国家 Country​ | ​策略 Strategies​                                                                   |
 | ------------ | --------------------------------------------------------------------------------- |
 | ​土耳其​        | 调整水政策为“包容外交”（因欧盟成员申请）；但继续建设水坝。                                                    |
@@ -102,29 +101,17 @@ ___
 | Iraq         | Demands minimum monthly flow from Turkey; plans own dams (e.g., Badra Dam).       |
 | ​叙利亚​        | 实施《国家抗旱战略》，发布双语（阿英）干旱报告；依赖国际援助修复水利设施。                                             |
 | Syria        | Adopts National Drought Strategy; relies on aid to rebuild water infrastructure.  |
-未来情景预测 Future Scenarios (Cascades Report)​​
-
+**未来情景预测 Future Scenarios (Cascades Report)​​**
 1. ​动荡转型 Turbulent Transition​
-
-2. 民主改革与水效技术缓解冲突，但资源分配仍不平等。  
-    Democratic reforms + water tech reduce conflict, but inequality persists.
-
-3. ​威权自给 Authoritarian Autarchy​
-
-4. 强权政府垄断水资源，区域紧张升级（如土耳其强化水霸权）。  
-    Authoritarian regimes control water, escalating tensions.
-
-5. ​加速进步 Precipitated Progress​
-
-6. 高效用水技术普及，但跨国分配机制缺位，引发局部抗议。  
-    Efficient water use tech spreads, but lacks fair transboundary sharing.
-
----
-
-### 
-
-​关键解决路径 Pathways to Resolution​
-
+	1. 民主改革与水效技术缓解冲突，但资源分配仍不平等。  
+	    Democratic reforms + water tech reduce conflict, but inequality persists.
+2. ​威权自给 Authoritarian Autarchy​
+	1. 强权政府垄断水资源，区域紧张升级（如土耳其强化水霸权）。  
+	    Authoritarian regimes control water, escalating tensions.
+3. ​加速进步 Precipitated Progress​
+	1. 高效用水技术普及，但跨国分配机制缺位，引发局部抗议。  
+	    Efficient water use tech spreads, but lacks fair transboundary sharing.
+​**关键解决路径 Pathways to Resolution​**
 - ​数据透明​：建立联合流域监测系统，实时共享水文数据。  
     ​Data transparency: Joint basin monitoring with real-time data sharing.
 - ​水-能交易​：土耳其以水电换石油，平衡伊拉克与叙利亚需求。  
@@ -132,3 +119,13 @@ ___
 - ​国际调解​：联合国或世界银行推动三方协议，设定最低流量标准。  
     ​Mediation: UN/World Bank brokers tripartite minimum flow agreement.
 ___
+## **Eutrophication Case**
+| Case                            | Data                                                                                                                                                           |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Lake Taihu Algal Crisis (China) | - 2007 Wuxi water crisis: 2 million people affected.<br><br>- ​Agribusiness: Livestock contributes 50% P.<br><br>- ​NGOs: Promote organic fertilizer (-20% P). |
+___
+## **Salinization Case**
+**Australia Murray-Darling Basin**
+- **Annual loss**: AU$130 million
+- **Irrigation firms**: Install subsurface drains (AU$500/ha; **+200% salt removal**)
+- **Researchers**: Promote halophytes (e.g., _Salicornia_)
