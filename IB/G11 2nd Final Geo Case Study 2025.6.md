@@ -129,3 +129,8 @@ ___
 - **Annual loss**: AU$130 million
 - **Irrigation firms**: Install subsurface drains (AU$500/ha; **+200% salt removal**)
 - **Researchers**: Promote halophytes (e.g., _Salicornia_)
+___
+## **Other Water Management**
+![[Water Management as Resources.pdf]]
+___
+# Option C: Extreme Environment
