@@ -134,3 +134,59 @@ ___
 ![[Water Management as Resources.pdf]]
 ___
 # Option C: Extreme Environment
+## **Human Activities in EE**
+### Alaska
+#### Resources
+1. **Oil and gas**: over half of alaska's income comes from the oil and gas industry
+2. **Mineral resources**: gold, silver, iron, copper in the **Tintina gold belt region**
+3. **Fishing**: salmon, crab and pollock
+4. **Tourism**: casino
+#### Challenges
+1. **Extreme temperatures**
+	1. -9 degree
+	2. long night hour
+2. **Accessibility**
+	1. 21hours by road to US
+	2. remote due to mountainous terrain
+	3. winter ice road dangerous
+	4. frost heave land inaccessible in summer
+	5. expensive daily goods
+3. **Infrastructure** -> expensive
+	1. 80 degree pipeline to avoid freezing
+	2. Three layer window for insulation
+	3. 1-2 meter thick gravel pads to prevent prost heave inaccessibility
+___
+### Thar desert
+#### Opportunities
+1. **farming**
+	1. subsistence - goat milk
+	2. Construction of the Indira Gandhi canal allows irrigation
+2. **Tourism**
+3. **Mineral**
+	1. gypsum
+	2. limestone
+	3. kaolin
+	4. phosphorus
+4. **Energy**
+	1. Jaisalmer Wind park
+	2. Coal: 175billion tonnes
+	3. oil and gas
+	4. Bhadia solar park - 22 miles<sup>2</sup> large
+#### Challenges
+1.  Temp
+2. water
+3. ...
+___
+### Tourism in Svalbard
+- Norway
+- **Raw arctic wilderness of glaciers**
+- Polar bear
+- Reindeer
+- Arctic foxes
+- **Dog Sledding**
+- **Northern light**
+#### Sustainable
+1. renewable energy - electricity vehicles
+2. regulations
+____
+# Option G: Urban
