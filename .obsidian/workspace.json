@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BrainCompResearch/C2_20250512导师课.md",
+                "file": "BrainCompResearch/Pf. Mehrdad Jazayeri 4.26 Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C2_20250512导师课"
+              "title": "Pf. Mehrdad Jazayeri 4.26 Note"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,13 +241,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4df24437c19f7943",
+  "active": "ef1453f266f6388f",
   "lastOpenFiles": [
+    "BrainCompResearch/Pf. Mehrdad Jazayeri 4.26 Note.md",
+    "BrainCompResearch/C2_20250512导师课.md",
+    "BrainCompResearch/C3_20250519 导师课.md",
     "BrainCompResearch/2025429导师预热课.md",
     "BrainCompResearch/C1_20250505导师课.md",
     "BrainCompResearch/C1_20250518 中方教授.md",
     "IB/Geo 2025.4.22+4.27+4.28+4.29+4.30+5.6 Note.md",
-    "BrainCompResearch/C2_20250512导师课.md",
     "BrainCompResearch/20250504 中方预热.md",
     "BrainCompResearch/C5_20250531 MJ Note.md",
     "IB/Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3+6.5 Note.md",
@@ -266,8 +268,6 @@
     "Pasted image 20250606231854.png",
     "BrainCompResearch/C4_20250524 MJ Note.md",
     "BrainCompResearch/cn-machine-learning-ebook-all-chapters.pdf",
-    "BrainCompResearch/Pf. Mehrdad Jazayeri 4.26 Note.md",
-    "BrainCompResearch/C3_20250519 导师课.md",
     "IB/MAI IA.md",
     "BrainCompResearch/C2_20250510 MJ Note.md",
     "BrainCompResearch/C1_20250503 MJ Note.md",
