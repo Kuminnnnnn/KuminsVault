@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "主文书大纲.md",
+                "file": "USABO&BBO/Apical bud and Axillary bud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "主文书大纲"
+              "title": "Apical bud and Axillary bud"
             }
           },
           {
@@ -241,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,8 +255,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aaa1e4c5a2f1c1fc",
+  "active": "953ec7b0bc41df5a",
   "lastOpenFiles": [
+    "USABO&BBO/Animals.md",
+    "USABO&BBO/Amino Acids.md",
+    "USABO&BBO/Aerobes and Anaerobes.md",
+    "USABO&BBO/ABCDE Model.md",
     "主文书大纲.md",
     "USABO&BBO/Monocot & Dicot.md",
     "BrainCompResearch/C1_20250505导师课.md",
@@ -279,15 +284,11 @@
     "IB/Water Management as Resources.pdf",
     "IB/G11 2nd Final ESS Case Study 2025.6.md",
     "IB/ESS 2025.05.21+6.4 Note.md",
-    "IB/ESS 2025.5.12+5.14+5.16 Note.md",
     "IB/food security.png",
     "Pasted image 20250606233059.png",
     "IB/Food sustainability.png",
     "Pasted image 20250606231854.png",
-    "BrainCompResearch/C4_20250524 MJ Note.md",
     "BrainCompResearch/cn-machine-learning-ebook-all-chapters.pdf",
-    "IB/MAI IA.md",
-    "IB/IO 内容.md",
     "IB/Psychometric function.png",
     "IB/Soil texture.jpg",
     "USABO&BBO/Alteration of generation.png",
