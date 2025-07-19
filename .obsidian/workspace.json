@@ -241,8 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,10 +254,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "953ec7b0bc41df5a",
+  "active": "aaa1e4c5a2f1c1fc",
   "lastOpenFiles": [
-    "BrainCompResearch/C1_20250505导师课.md",
     "主文书大纲.md",
+    "USABO&BBO/Monocot & Dicot.md",
+    "BrainCompResearch/C1_20250505导师课.md",
     "BrainCompResearch/2025429导师预热课.md",
     "BrainCompResearch/C3_20250217 MJ Note.md",
     "BrainCompResearch/C2_20250510 MJ Note.md",
@@ -288,7 +288,6 @@
     "BrainCompResearch/cn-machine-learning-ebook-all-chapters.pdf",
     "IB/MAI IA.md",
     "IB/IO 内容.md",
-    "2025-05-22.md",
     "IB/Psychometric function.png",
     "IB/Soil texture.jpg",
     "USABO&BBO/Alteration of generation.png",
