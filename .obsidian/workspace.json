@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "主文书大纲.md",
+                "file": "USABO&BBO/Circadian Rhythms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "主文书大纲"
+              "title": "Circadian Rhythms"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "IA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,7 +256,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "953ec7b0bc41df5a",
+  "active": "8807eae13fbc592a",
   "lastOpenFiles": [
     "USABO&BBO/ABCDE Model.md",
     "USABO&BBO/Aerobes and Anaerobes.md",
