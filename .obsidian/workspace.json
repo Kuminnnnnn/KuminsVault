@@ -78,6 +78,18 @@
             }
           },
           {
+            "id": "269389b96e6529c1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.10"
+            }
+          },
+          {
             "id": "d3758407281be5d4",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -260,6 +272,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -269,7 +282,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2f8bae99b1e9961",
+  "active": "269389b96e6529c1",
   "lastOpenFiles": [
     "IB/MAI IA.md",
     "IB/MAI IA Outline.md",
