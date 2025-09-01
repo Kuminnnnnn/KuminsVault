@@ -78,15 +78,17 @@
             }
           },
           {
-            "id": "269389b96e6529c1",
+            "id": "61f00937929b03d0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "IB/ESS 2025.9.1 Note.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.10"
+              "icon": "lucide-file",
+              "title": "ESS 2025.9.1 Note"
             }
           },
           {
@@ -282,10 +284,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "269389b96e6529c1",
+  "active": "61f00937929b03d0",
   "lastOpenFiles": [
-    "IB/MAI IA.md",
     "IB/MAI IA Outline.md",
+    "IB/ESS 2025.9.1 Note.md",
+    "IB/MAI IA.md",
     "IB/IO 内容.md",
     "IB/ESS 2025.4.23+4.27+4.30 Note.md",
     "IB/ESS 2025.5.12+5.14+5.16 Note.md",
@@ -311,7 +314,6 @@
     "IB/Food sustainability.png",
     "IB/G11 2nd Final ESS Case Study 2025.6.md",
     "IB/G11 2nd Final Geo Case Study 2025.6.md",
-    "USABO&BBO/Circadian Rhythms.md",
     "IB/Water Management as Resources.pdf",
     "Pasted image 20250606233059.png",
     "Pasted image 20250606231854.png",
