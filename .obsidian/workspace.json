@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/ESS 2025.5.12+5.14+5.16 Note.md",
+                "file": "IB/ESS 2025.05.21+6.4 Note.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ESS 2025.5.12+5.14+5.16 Note"
+              "title": "ESS 2025.05.21+6.4 Note"
             }
           }
         ]
@@ -35,12 +35,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "IB/ESS 2025.05.21+6.4 Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "ESS 2025.05.21+6.4 Note 的大纲"
             }
           }
         ]
@@ -116,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IB/ESS 2025.05.21+6.4 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "ESS 2025.05.21+6.4 Note 的反向链接列表"
             }
           },
           {
@@ -202,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d54156dfafc6321c",
+  "active": "f1c339efff79a131",
   "lastOpenFiles": [
     "IB/ESS 2025.5.12+5.14+5.16 Note.md",
     "IB/ESS 2025.05.21+6.4 Note.md",
