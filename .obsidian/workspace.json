@@ -6,6 +6,7 @@
       {
         "id": "f8df60b1b11c2b5f",
         "type": "tabs",
+        "dimension": 72.42206235011992,
         "children": [
           {
             "id": "f1c339efff79a131",
@@ -19,6 +20,28 @@
               },
               "icon": "lucide-file",
               "title": "ESS 2025.4.23+4.27+4.30 Note"
+            }
+          }
+        ]
+      },
+      {
+        "id": "221972d1954ae4b1",
+        "type": "tabs",
+        "dimension": 27.577937649880095,
+        "children": [
+          {
+            "id": "a86a222829784938",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IB/ESS 2025.4.23+4.27+4.30 Note.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ESS 2025.4.23+4.27+4.30 Note 的大纲"
             }
           }
         ]
@@ -94,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BrainCompResearch/C4_20250524 MJ Note.md",
+                "file": "IB/ESS 2025.4.23+4.27+4.30 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "C4_20250524 MJ Note 的反向链接列表"
+              "title": "ESS 2025.4.23+4.27+4.30 Note 的反向链接列表"
             }
           },
           {
@@ -122,6 +145,16 @@
             }
           },
           {
+            "id": "d54156dfafc6321c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
             "id": "ed54071d71a7ad31",
             "type": "leaf",
             "state": {
@@ -135,36 +168,9 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
-          },
-          {
-            "id": "a86a222829784938",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "IB/Geo 2025.4.22 Note.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Geo 2025.4.22 Note 的大纲"
-            }
-          },
-          {
-            "id": "aaa1e4c5a2f1c1fc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "e1578037c10674f0",
@@ -184,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,11 +206,11 @@
   },
   "active": "f1c339efff79a131",
   "lastOpenFiles": [
+    "IB/ESS 2025.4.23+4.27+4.30 Note.md",
     "IB/ESS 2025.4.7+4.8 Note.md",
     "IB/ESS 2025.5.12+5.14+5.16 Note.md",
     "BrainCompResearch/2025429导师预热课.md",
     "2025-09-11.md",
-    "IB/ESS 2025.4.23+4.27+4.30 Note.md",
     "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
     "IB/Geo 2025.9.3+9.4+9.8+9.11 Note.md",
     "IB/Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3+6.5 Note.md",
