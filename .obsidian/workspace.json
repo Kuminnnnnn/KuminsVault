@@ -209,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,12 +225,12 @@
   },
   "active": "35926db271bcda9a",
   "lastOpenFiles": [
+    "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
     "IB/ESS 2025.4.7+4.8 Note.md",
     "IB/Geo 2025.9.3+9.4+9.8+9.11 Note.md",
     "IB/Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3+6.5 Note.md",
     "IB/G11 2nd Final ESS Case Study 2025.6.md",
     "IB/G11 2nd Final Geo Case Study 2025.6.md",
-    "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
     "IB/ESS 2025.05.21+6.4 Note.md",
     "IB/ESS 2025.5.12+5.14+5.16 Note.md",
     "IB/ESS 2025.4.23+4.27+4.30 Note.md",
