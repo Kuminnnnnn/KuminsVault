@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "ESS 2025.4.7+4.8 Note"
             }
+          },
+          {
+            "id": "f1c339efff79a131",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aaa1e4c5a2f1c1fc",
+  "active": "f1c339efff79a131",
   "lastOpenFiles": [
     "IB/ESS 2025.4.7+4.8 Note.md",
     "IB/Geo 2025.9.3+9.4+9.8+9.11 Note.md",
