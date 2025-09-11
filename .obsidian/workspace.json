@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/ESS 2025.05.21+6.4 Note.md",
+                "file": "IB/ESS 2025.4.23+4.27+4.30 Note.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ESS 2025.05.21+6.4 Note"
+              "title": "ESS 2025.4.23+4.27+4.30 Note"
             }
           }
         ]
@@ -35,13 +35,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/ESS 2025.05.21+6.4 Note.md",
+                "file": "IB/ESS 2025.4.23+4.27+4.30 Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ESS 2025.05.21+6.4 Note 的大纲"
+              "title": "ESS 2025.4.23+4.27+4.30 Note 的大纲"
             }
           }
         ]
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/ESS 2025.05.21+6.4 Note.md",
+                "file": "IB/ESS 2025.4.23+4.27+4.30 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ESS 2025.05.21+6.4 Note 的反向链接列表"
+              "title": "ESS 2025.4.23+4.27+4.30 Note 的反向链接列表"
             }
           },
           {
@@ -207,6 +207,7 @@
   "active": "f1c339efff79a131",
   "lastOpenFiles": [
     "IB/ESS 2025.5.12+5.14+5.16 Note.md",
+    "IB/ESS 2025.05.21+6.4 Note.md",
     "IB/ESS 2025.4.23+4.27+4.30 Note.md",
     "IB/ESS 2025.4.7+4.8 Note.md",
     "BrainCompResearch/2025429导师预热课.md",
@@ -216,7 +217,6 @@
     "IB/Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3+6.5 Note.md",
     "IB/G11 2nd Final ESS Case Study 2025.6.md",
     "IB/G11 2nd Final Geo Case Study 2025.6.md",
-    "IB/ESS 2025.05.21+6.4 Note.md",
     "IB/Geo 2025.4.22+4.27+4.28+4.29+4.30+5.6 Note.md",
     "IB/Geo 2025.4.8 Note.md",
     "IB/food security.png",
