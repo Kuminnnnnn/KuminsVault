@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1c339efff79a131",
+  "active": "35926db271bcda9a",
   "lastOpenFiles": [
     "IB/ESS 2025.4.7+4.8 Note.md",
     "IB/Geo 2025.9.3+9.4+9.8+9.11 Note.md",
