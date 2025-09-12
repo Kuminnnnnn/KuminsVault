@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Geo 2025.9.3+9.4+9.8+9.11+9.12 Note.md",
+                "file": "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geo 2025.9.3+9.4+9.8+9.11+9.12 Note"
+              "title": "ESS 2025.9.1+9.5+9.8+9.10 Note"
             }
           }
         ]
@@ -35,13 +35,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Geo 2025.9.3+9.4+9.8+9.11+9.12 Note.md",
+                "file": "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Geo 2025.9.3+9.4+9.8+9.11+9.12 Note 的大纲"
+              "title": "ESS 2025.9.1+9.5+9.8+9.10 Note 的大纲"
             }
           }
         ]
@@ -206,6 +206,7 @@
   },
   "active": "f1c339efff79a131",
   "lastOpenFiles": [
+    "IB/Geo 2025.9.3+9.4+9.8+9.11+9.12 Note.md",
     "IB/Geo 2025.4.8 Note.md",
     "IB/ESS 2025.05.21+6.4 Note.md",
     "BrainCompResearch/PSSP-SSADNN Dialog.md",
@@ -215,7 +216,6 @@
     "BrainCompResearch/2025429导师预热课.md",
     "2025-09-11.md",
     "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
-    "IB/Geo 2025.9.3+9.4+9.8+9.11+9.12 Note.md",
     "IB/Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3+6.5 Note.md",
     "IB/G11 2nd Final ESS Case Study 2025.6.md",
     "IB/G11 2nd Final Geo Case Study 2025.6.md",
