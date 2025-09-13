@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
+                "file": "IB/ESS 2025.4.7+4.8 Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ESS 2025.9.1+9.5+9.8+9.10 Note"
+              "title": "ESS 2025.4.7+4.8 Note"
             }
           }
         ]
@@ -35,13 +35,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
+                "file": "IB/ESS 2025.4.7+4.8 Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ESS 2025.9.1+9.5+9.8+9.10 Note 的大纲"
+              "title": "ESS 2025.4.7+4.8 Note 的大纲"
             }
           }
         ]
@@ -204,12 +204,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a86a222829784938",
+  "active": "f1c339efff79a131",
   "lastOpenFiles": [
-    "PH IB 2025 EG.zip",
-    "IB.zip",
+    "BrainCompResearch/C2_20250510 MJ Note.md",
+    "2025-09-11.md",
+    "2025-09-08.md",
+    "2025-05-22.md",
+    "2025-04-25.md",
+    "制度性知识.md",
+    "主义.md",
     "README.md",
     "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
+    "PH IB 2025 EG.zip",
+    "IB.zip",
     "IB/Geo 2025.9.3+9.4+9.8+9.11+9.12 Note.md",
     "IB/Geo 2025.4.8 Note.md",
     "IB/ESS 2025.05.21+6.4 Note.md",
@@ -218,22 +225,16 @@
     "IB/ESS 2025.4.23+4.27+4.30 Note.md",
     "IB/ESS 2025.4.7+4.8 Note.md",
     "BrainCompResearch/2025429导师预热课.md",
-    "2025-09-11.md",
     "IB/Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3+6.5 Note.md",
     "IB/G11 2nd Final ESS Case Study 2025.6.md",
     "IB/G11 2nd Final Geo Case Study 2025.6.md",
     "IB/Geo 2025.4.22+4.27+4.28+4.29+4.30+5.6 Note.md",
     "IB/food security.png",
     "IB/IO 内容.md",
-    "2025-05-22.md",
     "2025-04-09.md",
     "2025-04-12.md",
     "2025-04-23.md",
     "2025-04-24.md",
-    "2025-04-25.md",
-    "2025-04-27.md",
-    "2025-09-08.md",
-    "制度性知识.md",
     "IB/Food sustainability.png",
     "IB/Water Management as Resources.pdf",
     "Pasted image 20250606233059.png",
