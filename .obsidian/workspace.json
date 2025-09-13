@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1c339efff79a131",
+  "active": "a86a222829784938",
   "lastOpenFiles": [
     "README.md",
     "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
