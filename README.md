@@ -20,4 +20,6 @@ This repo serves as a collection of my study notes, reflections, and research re
    ```bash
    git clone https://github.com/Kuminnnnnn/KuminsVault.git
 2. Read notes directly on the GitHub website — all Markdown files render nicely in-browser.
-3. Download a Release zip file (from the Releases tab) and open it with any Markdown reader.
+3. Download a Release zip file (from the Releases tab) and open it with any Markdown reader (Obsidian is recommanded).
+
+***Obsidian is recommended as the best way to read those notes !***
