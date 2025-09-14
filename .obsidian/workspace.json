@@ -35,13 +35,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/G11 2nd Final ESS Case Study 2025.6 +2025.9 EG Case.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "G11 2nd Final ESS Case Study 2025.6 +2025.9 EG Case 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -204,10 +203,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1c339efff79a131",
+  "active": "d54156dfafc6321c",
   "lastOpenFiles": [
-    "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
     "IB/G11 2nd Final ESS Case Study 2025.6 +2025.9 EG Case.md",
+    "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
     "IB/ESS 2025.4.7+4.8 Note.md",
     "IB/ESS 2025.4.23+4.27+4.30 Note.md",
     "IB/ESS 2025.5.12+5.14+5.16 Note.md",
