@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
+                "file": "IB/G11 2nd Final ESS Case Study 2025.6 +2025.9 EG Case.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ESS 2025.9.1+9.5+9.8+9.10 Note"
+              "title": "G11 2nd Final ESS Case Study 2025.6 +2025.9 EG Case"
             }
           }
         ]
@@ -35,13 +35,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
+                "file": "IB/G11 2nd Final ESS Case Study 2025.6 +2025.9 EG Case.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ESS 2025.9.1+9.5+9.8+9.10 Note 的大纲"
+              "title": "G11 2nd Final ESS Case Study 2025.6 +2025.9 EG Case 的大纲"
             }
           }
         ]
@@ -206,12 +206,12 @@
   },
   "active": "f1c339efff79a131",
   "lastOpenFiles": [
+    "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
     "IB/G11 2nd Final ESS Case Study 2025.6 +2025.9 EG Case.md",
     "IB/ESS 2025.4.7+4.8 Note.md",
     "IB/ESS 2025.4.23+4.27+4.30 Note.md",
     "IB/ESS 2025.5.12+5.14+5.16 Note.md",
     "IB/ESS 2025.05.21+6.4 Note.md",
-    "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
     "IB/Geo 2025.9.3+9.4+9.8+9.11+9.12 Note.md",
     "USABO&BBO/Krebs Cycle.md",
     "USABO&BBO/Cellular Respiration.md",
