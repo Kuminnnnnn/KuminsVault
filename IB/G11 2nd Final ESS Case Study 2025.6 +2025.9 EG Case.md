@@ -41,7 +41,7 @@
 	- accumulation of plastic debris
 	- non biodegradable
 - Consequence
-	- marine animals injection of plastic
+	- marine animals intake of plastic
 	- micorplastics will enter food chain
 	- reduced biodiversity
 - Current effort
