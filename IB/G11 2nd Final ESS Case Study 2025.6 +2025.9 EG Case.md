@@ -239,6 +239,7 @@ ___
     ✅ Positive:
     
     - Carbon sequestration via no-till farming, cover cropping reduces erosion.  
+    
     ⚠️ Negative:
         
     - Methane from flooded rice fields, soil degradation from monocropping and compaction.
@@ -274,7 +275,8 @@ ___
     ✅ Positive:
     
     - Conserves water and land, reduces pesticide use.  
-        ⚠️ Negative:
+        
+    ⚠️ Negative:
         
     - Heavy reliance on plastics and electricity; cost limits scalability in low-income regions.
         
