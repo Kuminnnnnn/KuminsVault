@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-09-15.md",
+                "file": "IB/G11 2nd Final ESS Case Study 2025.6 +2025.9 EG Case.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-15"
+              "title": "G11 2nd Final ESS Case Study 2025.6 +2025.9 EG Case"
             }
           }
         ]
@@ -35,13 +35,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-09-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-15 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -204,10 +203,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1c339efff79a131",
+  "active": "d54156dfafc6321c",
   "lastOpenFiles": [
-    "IB/G11 2nd Final ESS Case Study 2025.6 +2025.9 EG Case.md",
     "2025-09-15.md",
+    "IB/G11 2nd Final ESS Case Study 2025.6 +2025.9 EG Case.md",
     "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
     "IB/ESS 2025.4.7+4.8 Note.md",
     "IB/ESS 2025.4.23+4.27+4.30 Note.md",
