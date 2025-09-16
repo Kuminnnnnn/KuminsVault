@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3+6.5 Note.md",
+                "file": "IB/Geo 2025.9.3+9.4+9.8+9.11+9.12 Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3+6.5 Note"
+              "title": "Geo 2025.9.3+9.4+9.8+9.11+9.12 Note"
             }
           }
         ]
@@ -145,6 +145,21 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
+          },
+          {
+            "id": "bcf1f3d73f280ed0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IB/Geo 2025.9.3+9.4+9.8+9.11+9.12 Note.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Geo 2025.9.3+9.4+9.8+9.11+9.12 Note 的大纲"
+            }
           }
         ],
         "currentTab": 2
@@ -183,9 +198,9 @@
   },
   "active": "ce547d2f56c06a3c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "IB/Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3+6.5 Note.md",
     "IB/Geo 2025.9.3+9.4+9.8+9.11+9.12 Note.md",
+    "conflict-files-obsidian-git.md",
     "IB/Geo 2025.4.8 Note.md",
     "IB/Geo 2025.5.9+5.12+5.13+5.14+5.15+5.20 Note.md",
     "IB/G11 2nd Final Geo Case Study 2025.6.md",
