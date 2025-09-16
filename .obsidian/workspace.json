@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "221972d1954ae4b1",
+        "id": "bb10470f7242148e",
         "type": "tabs",
         "children": [
           {
-            "id": "a86a222829784938",
+            "id": "ce547d2f56c06a3c",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "IB/Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3+6.5 Note.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-list",
-              "title": "大纲"
+              "icon": "lucide-file",
+              "title": "Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3+6.5 Note"
             }
           }
         ]
@@ -181,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a86a222829784938",
+  "active": "ce547d2f56c06a3c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "IB/Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3+6.5 Note.md",
