@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Geo 2025.9.3+9.4+9.8+9.11+9.12 Note.md",
+                "file": "USABO&BBO/Cytotoxic T cell & Natural Killer Cell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geo 2025.9.3+9.4+9.8+9.11+9.12 Note"
+              "title": "Cytotoxic T cell & Natural Killer Cell"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Geo 2025.9.3+9.4+9.8+9.11+9.12 Note.md",
+                "file": "USABO&BBO/Cytotoxic T cell & Natural Killer Cell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Geo 2025.9.3+9.4+9.8+9.11+9.12 Note 的大纲"
+              "title": "Cytotoxic T cell & Natural Killer Cell 的大纲"
             }
           }
         ],
@@ -198,15 +198,18 @@
   },
   "active": "ce547d2f56c06a3c",
   "lastOpenFiles": [
-    "IB/Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3+6.5 Note.md",
-    "IB/Geo 2025.9.3+9.4+9.8+9.11+9.12 Note.md",
-    "conflict-files-obsidian-git.md",
+    "USABO&BBO/Bulk RNA Sequencing (Bulk RNA-seq).md",
+    "USABO&BBO/Bacteria.md",
+    "USABO&BBO/ABCDE Model.md",
     "IB/Geo 2025.4.8 Note.md",
-    "IB/Geo 2025.5.9+5.12+5.13+5.14+5.15+5.20 Note.md",
     "IB/G11 2nd Final Geo Case Study 2025.6.md",
+    "IB/G11 2nd Final ESS Case Study 2025.6 +2025.9 EG Case.md",
+    "IB/Geo 2025.9.3+9.4+9.8+9.11+9.12 Note.md",
+    "IB/Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3+6.5 Note.md",
+    "conflict-files-obsidian-git.md",
+    "IB/Geo 2025.5.9+5.12+5.13+5.14+5.15+5.20 Note.md",
     "2025-09-15.md",
     "2025-09-11.md",
-    "IB/G11 2nd Final ESS Case Study 2025.6 +2025.9 EG Case.md",
     "IB/ESS 2025.9.1+9.5+9.8+9.10 Note.md",
     "IB/ESS 2025.4.7+4.8 Note.md",
     "IB/ESS 2025.4.23+4.27+4.30 Note.md",
@@ -224,9 +227,6 @@
     "README.md",
     "PH IB 2025 EG.zip",
     "IB.zip",
-    "BrainCompResearch/PSSP-SSADNN Dialog.md",
-    "BrainCompResearch/2025429导师预热课.md",
-    "IB/Geo 2025.4.22+4.27+4.28+4.29+4.30+5.6 Note.md",
     "IB/food security.png",
     "IB/Food sustainability.png",
     "IB/Water Management as Resources.pdf",
