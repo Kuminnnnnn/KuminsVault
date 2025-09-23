@@ -1,0 +1,21 @@
+2026 MAY
+**1.在知识的产生过程中，观察是一种必不可少的但却有瑕疵的工具，这要紧吗？请参考自然科学和另外一个知识领域展开你的应答(In the production of knowledge, does it matter that observation is an essential but flawed tool? Discuss with reference to the natural sciences and one other area of knowledge)。**
+
+1. Discussing around **does it matter?**
+2. **Example**
+	1. Observation is important /and why?
+	2. It is flawed/why?
+	3. Severe impact/no impact
+3. Key points
+	1. logic fluent?
+	2. deep and thoughtful
+	3. case is new?
+
+
+
+
+2.你在多大程度上认同怀疑在追求知识的过程中发挥着核心作用？请参考两个知识领域展开你的应答(To what extent do you agree that doubt is central to the pursuit of knowledge? Answer with reference to two areas of knowledge)。
+3.知识的力量是由传达知识的方式决定的吗？请参考数学和另外一个知识领域展开你的应答(Is the power of knowledge determined by the way in which the knowledge is conveyed? Discuss with reference to mathematics and one other area of knowledge)。
+4.在获取知识的过程中，我们对某事物的理解程度是否仅能达到我们对该事物情境的理解程度？请参考两个知识领域展开你的应答(In the acquisition of knowledge, can we only understand something to the extent that we understand its context? Discuss with reference to two areas of knowledge.)。
+5.你在多大程度上认同“万物皆数”这一论断（毕达哥拉斯）？请参考艺术和人文科学展开你的应答(To what extent do you agree with the claim that “all things are numbers” (Pythagoras)? Answer with reference to the arts and the human sciences)。
+6.在知识的产生过程中，诠释在多大程度上是一种可靠的工具？请参考历史和另外一个知识领域展开你的应答 (To what extent is interpretation a reliable tool in the production of knowledge? Answer with reference to history and one other area of knowledge)。
