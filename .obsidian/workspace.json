@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USABO&BBO/Muscle.md",
+                "file": "BrainCompResearch/C5_20250531 MJ Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Muscle"
+              "title": "C5_20250531 MJ Note"
+            }
+          },
+          {
+            "id": "3ea1f39d2d76a90f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BrainCompResearch/9 24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9 24"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,8 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4fe84fe80f16d41",
+  "active": "3ea1f39d2d76a90f",
   "lastOpenFiles": [
+    "BrainCompResearch/C5_20250531 MJ Note.md",
+    "BrainCompResearch/9 24.md",
+    "USABO&BBO/Muscle.md",
     "USABO&BBO/Amino Acids.md",
     "IB/Geo 2025.9.3+9.4+9.8+9.11+9.12 Note.md",
     "IB/Geo 2025.05.21+5.22+5.23+5.27+5.28+5.29+6.3+6.5 Note.md",
@@ -237,9 +254,6 @@
     "USABO&BBO/Cellular Respiration.md",
     "USABO&BBO/Calvin Cycle.png",
     "BrainCompResearch/C2_20250510 MJ Note.md",
-    "2025-09-08.md",
-    "2025-05-22.md",
-    "2025-04-25.md",
     "PH IB 2025 EG.zip",
     "IB.zip",
     "IB/food security.png",
