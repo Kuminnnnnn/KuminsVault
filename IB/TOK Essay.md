@@ -15,6 +15,7 @@ ___
 
 1. 怀疑不是发挥重要作用，怀疑过度可能会产生问题 -> 道德相对主义困境，是否属于追求知识
 2. 不要写哲学中的怀疑主义
+3. 泛式革命 -> 常识性观点，不可用
 ___
 **3.知识的力量是由传达知识的方式决定的吗？请参考数学和另外一个知识领域展开你的应答(Is the power of knowledge determined by the way in which the knowledge is conveyed? Discuss with reference to mathematics and one other area of knowledge)。**
 
