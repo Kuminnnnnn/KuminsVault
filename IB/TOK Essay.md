@@ -32,3 +32,5 @@ ___
 
 5.你在多大程度上认同“万物皆数”这一论断（毕达哥拉斯）？请参考艺术和人文科学展开你的应答(To what extent do you agree with the claim that “all things are numbers” (Pythagoras)? Answer with reference to the arts and the human sciences)。
 6.在知识的产生过程中，诠释在多大程度上是一种可靠的工具？请参考历史和另外一个知识领域展开你的应答 (To what extent is interpretation a reliable tool in the production of knowledge? Answer with reference to history and one other area of knowledge)。
+
+___
