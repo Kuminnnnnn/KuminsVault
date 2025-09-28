@@ -34,3 +34,4 @@ ___
 6.在知识的产生过程中，诠释在多大程度上是一种可靠的工具？请参考历史和另外一个知识领域展开你的应答 (To what extent is interpretation a reliable tool in the production of knowledge? Answer with reference to history and one other area of knowledge)。
 
 ___
+- definition should not be adopted from dictionary, it should be able to reveal your personal thoughts
