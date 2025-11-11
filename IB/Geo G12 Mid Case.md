@@ -153,7 +153,8 @@ ________
 
 ### 💵 IMF（国际货币基金组织 International Monetary Fund）
 
-- **三大职能 (Three core functions)** 监测 (Surveillance)：经济审查与建议。
+- **三大职能 (Three core functions)** 
+- 监测 (Surveillance)：经济审查与建议。
 - 技术援助 (Technical assistance)。
 - 贷款 (Lending)：附**附加条件 conditionality**。
 
