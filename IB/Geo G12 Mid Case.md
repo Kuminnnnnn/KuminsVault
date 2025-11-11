@@ -244,3 +244,308 @@ ________
 - **关键事件 (Key Events)** 2008 全球金融危机 → 联合刺激计划1.1万亿美元。
 - 2020 疫情 → 债务暂缓倡议 (DSSI)，扶助贫国。
 - 持续议题：气候变化、数字经济、债务可持续性。
+___
+## 🟩 1️⃣ **FDI（Foreign Direct Investment，外商直接投资）**
+
+### 🔹 四种**类型（Types of FDI）**
+
+**Horizontal FDI（水平型投资）**：企业在国外复制相同业务。
+
+- 🏷️ 例：**McDonald’s 麦当劳在日本开店** → 在海外经营与本国相同的快餐业务。
+
+**Vertical FDI（垂直型投资）**：企业在国外投资供应链的不同层级（上游或下游）。
+
+- 🏷️ 例：**麦当劳在加拿大投资牛肉农场** → 保障原料供应。
+
+**Conglomerate FDI（混合/多元型投资）**：企业跨行业在国外投资。
+
+- 🏷️ 例：**英国维珍集团（Virgin）收购法国服装品牌** → 主营业务不同（航空→服装）。
+
+**Platform FDI（出口平台型投资）**：企业在一国设厂，产品出口到第三国。
+
+- 🏷️ 例：**福特在爱尔兰建厂 → 出口到欧盟其他国家**（利用低成本与免关税区）。
+
+---
+
+### 🔹 四种**方式（Methods of FDI）**
+
+**Acquiring voting stock（收购股份）**：购买外国公司≥10%的表决股权。
+
+- 🏷️ 例：**日本丰田购买特斯拉股份**。
+
+**Mergers & Acquisitions（并购）**：通过收购或合并获得控制权。
+
+- 🏷️ 例：**印度塔塔汽车收购英国捷豹路虎（Jaguar Land Rover）**。
+
+**Joint venture（合资）**：外资与本地企业共同出资成立新公司。
+
+- 🏷️ 例：**上汽通用（SAIC-GM）**，中美各持50%。
+
+**Subsidiary（子公司/子厂）**：企业在国外新建自有子公司（Greenfield Investment）。
+
+- 🏷️ 例：**苹果公司在印度设立iPhone组装工厂**。
+
+---
+
+## 🟦 2️⃣ **Offshoring（离岸运营 / 海外迁移）**
+
+- **定义 Definition**：企业将生产或服务转移到海外，但仍由自己拥有和运营。
+- 🏷️ **IBM在印度设立IBM India Ltd.** → 超过13万员工，为全球提供IT与客服支持。
+- ✅ 优点：节省劳动力成本，获取技术人才，仍保持企业控制权。
+- ⚠️ 风险：政治风险、文化差异、管理协调困难。
+
+---
+
+## 🟧 3️⃣ **Outsourcing（外包）**
+
+- **定义 Definition**：企业将部分业务委托给第三方公司完成。
+- 🏷️ **Nike 耐克外包生产** → 不拥有工厂，所有鞋服由越南、中国等代工厂制造。
+- 🏷️ **Apple 苹果外包制造** → 富士康（Foxconn）负责生产。
+- ✅ 优点：降低成本、提升效率、专注核心业务（设计/品牌）。
+- ⚠️ 风险：质量控制难、劳动权益争议（sweatshop issues）。
+
+---
+
+## 🟨 4️⃣ **Remittance（侨汇 / 汇款）**
+
+- **定义 Definition**：移民工人将收入汇回母国的跨境资金流动。
+
+- 🏷️ **Philippines 菲律宾侨汇** 2022年侨汇约占GDP的 **8.9%**，金额超 **330亿美元**。
+- 家庭依赖侨汇用于消费、教育与投资。
+
+- ✅ 优点：增加外汇储备、减少贫困、促进国内消费。
+- ⚠️ 风险：对海外就业依赖高、外汇流入波动大。
+
+---
+
+## 🟥 5️⃣ **HIPC（重债穷国倡议） + MDRI（多边债务减免倡议）**
+
+- **定义 Definition**：国际货币基金组织(IMF) + 世界银行(WB) 发起的减债计划，帮助最贫穷国家恢复财政可持续性。
+
+- 🏷️ **Uganda 乌干达案例** HIPC后设立“**Poverty Action Fund 贫困行动基金**”。
+- 减免债务后教育、医疗、饮水支出占GDP比重 ↑ 从1.8%→5.6%。
+
+- ✅ 成果：释放财政空间、促进减贫、改善社会服务。
+- ⚠️ 挑战：改革要求严格、部分国家易再度负债。
+
+---
+
+## 🟪 6️⃣ **Bond（主权债券）**
+
+- **定义 Definition**：国家向国际投资者发行债券（sovereign bond）筹集资金。
+
+- 🏷️ **Ghana 加纳 Eurobond（2007）** 发行7.5亿美元主权债券，认购超额4倍。
+- 收益率8.5%，资金用于基础设施与债务偿还。
+- 开创撒哈拉以南非洲国家进入国际资本市场的先例。
+
+- ✅ 优点：融资灵活、扩大资本来源。
+- ⚠️ 风险：汇率波动、偿债压力、市场信任度波动。
+
+---
+
+## 🟫 7️⃣ **ODA（Official Development Assistance，官方发展援助）**
+
+- **定义 Definition**：发达国家政府提供的无偿或优惠贷款，用于支持发展中国家经济与社会发展。
+
+- 🌍 **全球背景** 2022年全球ODA总额 ≈ **2120亿美元**（创纪录）。
+- 最大捐助国：🇺🇸 **美国**（≈553亿美元）。
+
+- 🏷️ **Ethiopia 埃塞俄比亚案例** 2022年获得约 **49.3亿美元** ODA。
+- 用于基础设施、农业、教育和公共卫生。
+
+- ✅ 优点：支持减贫、提升发展能力。
+- ⚠️ 风险：受援国依赖性、政治条件附带（conditionality）。
+___
+# TNCs
+## 🟦 **案例一：Nike — Outsourcing（外包）& Cost Efficiency（成本效率）**
+
+### 🌍 **全球战略（Global Strategy）**
+
+- 🏷️ **Efficiency-seeking（追求效率） + Market-seeking（追求市场）**
+    
+- 重点在于在**发展中国家低成本生产（low-cost production）**。
+    
+- 将**设计（Design）、研发（R&D）和市场营销（Marketing）**保留在发达国家（如美国）。
+    
+- 利用**品牌力量（brand power）**与全球需求，在降低制造成本的同时扩大市场份额。
+    
+
+---
+
+### ⚙️ **供应链（Supply Chain）**
+
+- 🌍 **100% 外包生产（outsourced manufacturing）** —— Nike 不拥有任何工厂。
+    
+- 拥有超过 **103 家核心供应商（strategic suppliers）**，主要分布在 **越南、中国、印尼**。
+    
+- 采用 **“轻资产模式（asset-light model）”**：Nike 专注于协调与设计，而非生产。
+    
+- 推行 **精益生产体系（Lean production systems）**，并进行供应商审核与透明度报告。
+    
+
+---
+
+### 🏭 **主要分布地区（Key Locations）**
+
+- **生产（Production）：**
+    
+    - 越南 ≈ 50% 鞋类产量
+        
+    - 中国 ≈ 27%，印尼 ≈ 18%
+        
+    - 其他：柬埔寨、泰国、印度
+        
+- **消费（Consumption）：**
+    
+    - 主要市场：美国、欧洲、中国
+        
+    - 新兴市场：亚洲与拉丁美洲
+        
+
+---
+
+### 🌏 **对东道国的影响（Impacts on Host Countries）**
+
+- ✅ **积极影响（Positive impacts）：**
+    
+    - 创造大量就业岗位（如越南、印尼数十万人就业）。
+        
+    - 促进工业发展与出口增长。
+        
+    - 提升制造业效率与技术转移（technology transfer）。
+        
+- ❌ **消极影响（Negative impacts）：**
+    
+    - “血汗工厂（sweatshop）”与低工资问题。
+        
+    - 工作环境差（尤其早期）。
+        
+    - 染料、制革造成环境污染。
+        
+    - 对外资公司的经济依赖增加。
+        
+
+---
+
+### ⚠️ **风险与批评（Risks & Criticisms）**
+
+- 过度依赖少数国家 → 供应中断风险（如 COVID-19 越南停工）。
+    
+- 劳动权益争议（Labor rights issues） → 品牌形象受损。
+    
+- 地缘政治风险（Geopolitical risks） → 贸易战、工资上涨。
+    
+- 控制力有限 → 供应商违规行为损害声誉。
+    
+
+---
+
+## 🟩 **案例二：Tesla — Vertical Integration（垂直整合）& Control（控制）**
+
+### 🌍 **全球战略（Global Strategy）**
+
+- 🚗 **Control-seeking（追求控制） + Innovation-seeking（追求创新） + Market-seeking（追求市场）**
+    
+- 拥有并控制大部分生产链（“in-house” 模式）。
+    
+- 目标：减少供应商依赖，加快创新速度。
+    
+- 在**靠近市场的地区建设 Gigafactory 超级工厂** → 避免关税、降低运输成本。
+    
+- 专注于**技术领先（technology leadership）**：电池、软件、人工智能、EV系统。
+    
+
+---
+
+### ⚙️ **供应链（Supply Chain）**
+
+- 🏭 **高度垂直整合（highly integrated）**：Tesla 控制约 80% 的供应链。
+    
+- 自有 **Gigafactory 超级工厂** 位于：
+    
+    - 🇺🇸 美国（加州、德州、内华达）
+        
+    - 🇨🇳 中国（上海）
+        
+    - 🇩🇪 德国（柏林）
+        
+- 自主生产 **电池（batteries）**、**电机（motors）**、**软件（software）**，并**直接销售（direct-to-consumer）**（无经销商）。
+    
+- 自建 **Supercharger 超级充电网络**（Tesla 自营基础设施）。
+    
+
+---
+
+### 🏗️ **主要分布地区（Key Locations）**
+
+- **生产（Production）：**
+    
+    - 美国 → 总部、研发中心、本土电动车供应。
+        
+    - 中国 → 最大工厂，服务亚洲市场并出口。
+        
+    - 德国 → 服务欧洲市场。
+        
+- **消费（Consumption）：**
+    
+    - 主要市场：美国、中国、欧洲。
+        
+    - 正扩展至新兴市场（如印度）。
+        
+
+---
+
+### 🌏 **对东道国的影响（Impacts on Host Countries）**
+
+- ✅ **积极影响（Positive impacts）：**
+    
+    - 创造高科技就业岗位（德国 12,000+，中国数万人）。
+        
+    - 技术与技能转移（battery, automation）。
+        
+    - 推动当地电动车生态系统与绿色制造业。
+        
+    - 使用可再生能源工厂 → 促进可持续发展（sustainability leadership）。
+        
+- ❌ **消极影响（Negative impacts）：**
+    
+    - 劳资纠纷与反工会批评（anti-union）。
+        
+    - 高水耗与能耗（如柏林 Gigafactory 抗议）。
+        
+    - 原料伦理争议（cobalt mining, child labor）。
+        
+
+---
+
+### ⚠️ **风险与批评（Risks & Criticisms）**
+
+- 工厂集中风险（concentration risk） → 单厂停工可能导致全球生产中断。
+    
+- 扩张瓶颈（scaling bottlenecks） → 例如 Model 3 生产地狱（production hell, 2018）。
+    
+- 原材料风险（raw material risk） → 依赖锂、钴等关键矿产。
+    
+- 地缘政治风险（geopolitical risk） → 对中国的生产与销售依赖度高。
+    
+- 高资本强度（capital intensity） → 垂直模式导致固定成本高。
+    
+- 劳动争议（labor issues） → 安全、工会与质量控制问题。
+    
+
+---
+
+## ⚖️ **Nike vs Tesla — 案例对比总结表（Summary Comparison Table）**
+
+|**对比项目（Aspect）**|**Nike（Outsourcing 外包）**|**Tesla（Vertical Integration 垂直整合）**|
+|---|---|---|
+|**核心重点（Core Focus）**|效率与低成本（Efficiency, low cost）|控制与创新（Control, innovation）|
+|**所有权（Ownership）**|无自有工厂（100%供应商）|拥有Gigafactory与核心技术|
+|**主要地区（Main Locations）**|越南、中国、印尼|美国、中国、德国|
+|**供应链结构（Supply Chain）**|外包、灵活（Outsourced, flexible）|自有、集中（Owned, consolidated）|
+|**劳动力成本焦点（Labor Cost Focus）**|低工资发展中国家|高技能高成本国家|
+|**环境影响（Environmental Impact）**|污染外包（Pollution outsourced）|本地化但资源消耗大（resource-heavy）|
+|**风险类型（Risk Type）**|外部风险（供应商、劳动）|内部风险（工厂中断）|
+|**东道国收益（Host Country Benefits）**|就业、出口但工资低|技术转移、绿色产业发展|
+|**主要批评（Criticisms）**|血汗工厂、过度外包|劳资冲突、资源获取问题|
+|**模式关键词（Model Keyword）**|_“Asset-light 轻资产”_|_“Gigafactory Control 超级工厂控制”_|
