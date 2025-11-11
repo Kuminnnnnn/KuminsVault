@@ -370,20 +370,37 @@ ___
 
 ## 🟦 2️⃣ **Offshoring（离岸运营 / 海外迁移）**
 
-- **定义 Definition**：企业将生产或服务转移到海外，但仍由自己拥有和运营。
-- 🏷️ **IBM在印度设立IBM India Ltd.** → 超过13万员工，为全球提供IT与客服支持。
-- ✅ 优点：节省劳动力成本，获取技术人才，仍保持企业控制权。
-- ⚠️ 风险：政治风险、文化差异、管理协调困难。
+- 定义提醒：**Offshoring（离岸运营）** 指的是企业将生产或服务转移到海外，但仍由自己拥有并运营。
+    
+- 案例数据：IBM 在印度的子公司为 IBM India Private Limited。根据维基百科，该公司“约 100,000 名员工”在印度。 [维基百科](https://en.wikipedia.org/wiki/IBM_India?utm_source=chatgpt.com)
+    
+- 额外数据：2014 年一篇报道指出，IBM 在印度雇佣 43,000 人，而此前一年为 23,000 人。 [NetworkComputing](https://www.networkcomputing.com/network-infrastructure/ibm-to-invest-6-billion-in-india-to-increase-offshore-it-services-offerings?utm_source=chatgpt.com)
+    
+- 笔记应用：
+    
+    - 可以说明 IBM 通过在印度设立子公司／运作中心，把 IT 服务与客服流程转移到劳动力成本较低且人才充足的印度。
+        
+    - 这是典型 offshoring，因为企业将服务流程转移至海外，但仍受母公司控制。
 
 ---
 
 ## 🟧 3️⃣ **Outsourcing（外包）**
 
-- **定义 Definition**：企业将部分业务委托给第三方公司完成。
-- 🏷️ **Nike 耐克外包生产** → 不拥有工厂，所有鞋服由越南、中国等代工厂制造。
-- 🏷️ **Apple 苹果外包制造** → 富士康（Foxconn）负责生产。
-- ✅ 优点：降低成本、提升效率、专注核心业务（设计/品牌）。
-- ⚠️ 风险：质量控制难、劳动权益争议（sweatshop issues）。
+-- 定义提醒：**Outsourcing（外包）** 指企业将部分业务委托第三方公司完成。
+    
+- 案例数据：
+    
+    - 报道指出：Nike 在 2024 财年中，越南负责约 **50%** 的鞋类产量。 [Vietnam Investment Review - VIR+1](https://vir.com.vn/vietnam-remains-largest-manufacturer-of-nike-products-113898.html?utm_source=chatgpt.com)
+        
+    - 而在 2023 财年，越南制造鞋类占比为 **51%**，中国和印尼分别为 ~28% 和 ~17%。 [theinvestor.vn](https://theinvestor.vn/vietnam-remains-nikes-biggest-manufacturing-hub-for-3rd-year-in-row-d16443.html?utm_source=chatgpt.com)
+        
+    - 关于供应商网络：Nike 的战略供应商中，有超过111家机构制造其大多数产品、雇佣超 700,000 名工人。 [about.nike.com](https://about.nike.com/en/resources/strategic-compensation-in-the-supply-chain?utm_source=chatgpt.com)
+        
+- 笔记应用：
+    
+    - Nike 并不自己拥有生产工厂，而是将制造任务交给合同工厂（contract manufacturers）遍布越南、中国、印尼等地。
+        
+    - 典型外包，因为业务（制造）由第三方(工厂)承担，Nike 主要专注于设计、品牌与市场。
 
 ---
 
