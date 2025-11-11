@@ -242,7 +242,7 @@ ________
 - **占比 (Share)**：全球GDP 85%，人口60%。
 - **角色 (Role)**：协调全球宏观经济与金融政策。
 
-- **关键事件 (Key Events)** 2008 全球金融危机 → 联合刺激计划1.1万亿美元。
+- **关键事件 (Key Events)** 2008 全球金融危机 → 联合刺激计划5trillion/万亿美元。
 - 2020 疫情 → 债务暂缓倡议 (DSSI)，扶助贫国。
 - 持续议题：气候变化、数字经济、债务可持续性。
 ___
@@ -250,41 +250,121 @@ ___
 
 ### 🔹 四种**类型（Types of FDI）**
 
-**Horizontal FDI（水平型投资）**：企业在国外复制相同业务。
+### 1. Horizontal FDI（水平型投资）
 
-- 🏷️ 例：**McDonald’s 麦当劳在日本开店** → 在海外经营与本国相同的快餐业务。
+- 案例：McDonald’s 在日本扩展
+    
+    - McDonald’s Japan （日本麦当劳）由McDonald’s Corporation持有约 35%股权。 [geopoliticsunplugged.substack.com+3美国证券交易委员会+3PDF大赢家+3](https://www.sec.gov/Archives/edgar/data/63908/000006390825000039/mcd-20250630.htm?utm_source=chatgpt.com)
+        
+    - 日本市场在 2025 年其中一个报告中显示：净销售额达到 312,325 百万日元（≈ US$2.3 billion）＋营业利润 42,901 百万日元，同比增长约 15.5%。 [TipRanks](https://www.tipranks.com/news/company-announcements/mcdonalds-japan-reports-steady-growth-in-2025?utm_source=chatgpt.com)
+        
+    - 这个投资是典型“复制其主营快餐业务”至海外市场（日本），符合水平型 FDI 的定义。
+        
+- ✅ 用于笔记中：水平型 FDI = 在国外 _复制相同业务_，这个案例符合：美国快餐品牌在日本开展相同快餐连锁。
+    
 
-**Vertical FDI（垂直型投资）**：企业在国外投资供应链的不同层级（上游或下游）。
+---
 
-- 🏷️ 例：**麦当劳在加拿大投资牛肉农场** → 保障原料供应。
+### 2. Vertical FDI（垂直型投资）
 
-**Conglomerate FDI（混合/多元型投资）**：企业跨行业在国外投资。
+- 案例：Apple 在中国/其他国家供应链投资
+    
+    - Apple 与供应商如 Foxconn 在中国建立大型生产与组装基地，以控制其产品（如 iPhone）供应链的上游／中游环节。 [Damage+1](https://damagemag.com/2025/09/09/apple-in-china/?utm_source=chatgpt.com)
+        
+    - 例如文章指出：Apple 将其供应链“几乎全部”集中至中国，以便从零件加工、组装到出口都在一个高度整合地区。 [Damage](https://damagemag.com/2025/09/09/apple-in-china/?utm_source=chatgpt.com)
+        
+    - 这正是垂直型 FDI：企业在国外投资不同供应链层级（原料、加工、组装）。
+        
+- ✅ 用于笔记中：垂直型 FDI = 在国外投资其供应链上／下游，这里用苹果在中国供应链投资为例。
+    
 
-- 🏷️ 例：**英国维珍集团（Virgin）收购法国服装品牌** → 主营业务不同（航空→服装）。
+---
 
-**Platform FDI（出口平台型投资）**：企业在一国设厂，产品出口到第三国。
+### 3. Conglomerate FDI（混合／多元型投资）
 
-- 🏷️ 例：**福特在爱尔兰建厂 → 出口到欧盟其他国家**（利用低成本与免关税区）。
+- 案例：Fosun International（中国复星国际）跨行业海外收购
+    
+    - Fosun International 是一家多元化集团，在2000年代起在美国、欧洲等地收购多个与其原主营不完全相同产业的公司，例如法国珠宝品牌 Djula （持股55.4%）等。 [维基百科](https://en.wikipedia.org/wiki/Fosun_International?utm_source=chatgpt.com)
+        
+    - 该集团涉足旅游、保险、医疗、时尚、零售等多行业，其海外收购跨越行业界限。
+        
+    - 符合混合型 FDI：企业在国外投资于与其主营业务 _无关的产业_。
+        
+- ✅ 用于笔记中：混合型 FDI = 跨行业在国外投资。以复星在海外收购奢侈品、珠宝、保险等非原主营业务为例。
+    
+
+---
+
+### 4. Platform FDI（出口平台型投资）
+
+- 案例：爱尔兰作为“出口平台国家”的 FDI 模式
+    
+    - 爱尔兰被研究指出：“Foreign‐owned firms account for almost 50% of Irish manufacturing employment… foreign manufacturing firms export more than 90% of gross output.” [EconStor+2eib.org+2](https://www.econstor.eu/bitstream/10419/44837/1/390945315.pdf?utm_source=chatgpt.com)
+        
+    - 文献中专门将爱尔兰称为“export‐platform foreign direct investment”（出口平台型 FDI）典型。 [EconStor+1](https://www.econstor.eu/bitstream/10419/44837/1/390945315.pdf?utm_source=chatgpt.com)
+        
+    - 该类型 FDI 是：企业在一国设厂/投资，但其输出主要销往第三国市场，而不仅供给该国本地市场。
+        
+- ✅ 用于笔记中：出口平台型 FDI = 在一个国家投资设厂，产品出口至 3 国/更多国家。以爱尔兰为基地，多国跨国企业通过其将产品出口至欧盟等地区为例。
 
 ---
 
 ### 🔹 四种**方式（Methods of FDI）**
 
-**Acquiring voting stock（收购股份）**：购买外国公司≥10%的表决股权。
+### 1. **Acquiring voting stock（收购股份）**
 
-- 🏷️ 例：**日本丰田购买特斯拉股份**。
+- **案例：** Toyota Motor Corporation（丰田）对 Tesla, Inc.（特斯拉）购买股权。
+    
+    - 丰田在约 2010 年以约 **US$50 million** 购买了特斯拉的普通股，用于合作开发电动车。 [トヨタ自動車株式会社 公式企業サイト+2Toyota USA Newsroom+2](https://global.toyota/en/detail/333793?utm_source=chatgpt.com)
+        
+    - 虽然后来丰田在 2016 年出售了其所有特斯拉股份。 [Reuters+1](https://www.reuters.com/article/world/toyota-sells-all-shares-in-tesla-as-their-tie-up-ends-idUSKBN18U05F/?utm_source=chatgpt.com)
+        
+- **解释：** 这种方式是收购外国公司的股份（≥10%或较大比例）以获得影响力或利润分配。
+    
+- **适用原因：** 虽然不是非常大比例控制，但该收购展示了跨国公司通过股权投资进入外国公司。
+    
+- **替换笔记时注意：** 这个例子中虽然丰田最终出售股份，但初期投资符合“收购股份”方式。
+    
 
-**Mergers & Acquisitions（并购）**：通过收购或合并获得控制权。
+---
 
-- 🏷️ 例：**印度塔塔汽车收购英国捷豹路虎（Jaguar Land Rover）**。
+### 2. **Mergers & Acquisitions（并购）**
 
-**Joint venture（合资）**：外资与本地企业共同出资成立新公司。
+- **案例：** Tata Motors Limited（塔塔汽车）收购 Jaguar Land Rover Automotive PLC（捷豹路虎）
+    
+    - 印度塔塔汽车于 2008 年 6 月完成从 Ford Motor Company（福特汽车）收购捷豹与路虎业务，总价约 **US$2.3 billion**。 [捷豹路虎网站+1](https://media.jaguarlandrover.com/node/4917?utm_source=chatgpt.com)
+        
+- **解释：** 并购方式指的是通过收购或合并获得对外国公司的控制权。
+    
+- **适用原因：** 这个案例清晰体现印度企业通过并购进入英国豪华汽车品牌市场，典型于“M&A”方式。
+    
 
-- 🏷️ 例：**上汽通用（SAIC-GM）**，中美各持50%。
+---
 
-**Subsidiary（子公司/子厂）**：企业在国外新建自有子公司（Greenfield Investment）。
+### 3. **Joint venture（合资）**
 
-- 🏷️ 例：**苹果公司在印度设立iPhone组装工厂**。
+- **案例：** SAIC‑GM（上汽通用／上汽-通用汽车合资公司）——中国 SAIC（上汽集团）与美国 GM（通用汽车）共同成立。
+    
+    - 该合资公司于 1997 年成立，双方各占 50% 股份。 [维基百科](https://en.wikipedia.org/wiki/SAIC-GM?utm_source=chatgpt.com)
+        
+    - 在 2011 年，SAIC-GM 在中国销售超 1.2 million (百万) 辆汽车。 [维基百科+1](https://en.wikipedia.org/wiki/SAIC-GM?utm_source=chatgpt.com)
+        
+- **解释：** 合资方式指外资企业与本地企业共同出资、共同经营一个新公司。
+    
+- **适用原因：** 该案例展示了美国企业与中国本地企业在中国市场的合作架构，符合“合资”方式。
+    
+
+---
+
+### 4. **Subsidiary（子公司／子厂 / 绿地投资 Greenfield Investment）**
+
+- **案例：** Apple Inc. 在印度建立 iPhone 组装工厂。
+    
+    - 报道指出：截至 2025 年，苹果供应商在印度制造的 iPhone 价值约 **US$1.68 billion**（约 INR 150 billion）用于出口。 [印度简报+1](https://www.india-briefing.com/news/apple-india-local-manufacturing-growth-40070.html/?utm_source=chatgpt.com)
+        
+- **解释：** 子公司／子厂方式指公司在外国建立全资或控股的新子公司（通常为绿地投资）进行业务。
+    
+- **适用原因：** 在印度设厂用于制造并出口 iPhone，体现企业在国外自建生产单位的方式。
 
 ---
 
