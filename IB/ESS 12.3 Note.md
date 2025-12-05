@@ -1,3 +1,4 @@
+#
 ## Political factors
 - strict **recycling laws** will lead to less waste
 - deposit **refund system** allow citizens to take resuable containers to return points and receive a 10-cent refund
