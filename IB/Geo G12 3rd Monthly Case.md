@@ -561,3 +561,781 @@ ___
 | **主要批评（Criticisms）**             | 血汗工厂、过度外包                    | 劳资冲突、资源获取问题                          |
 | **模式关键词（Model Keyword）**         | _“Asset-light 轻资产”_          | _“Gigafactory Control 超级工厂控制”_       |
 ___
+# ✈️ **Case Study：飞机发展与显著的时间–空间收敛（Time–Space Convergence）**
+
+## **1️⃣ 早期航空（1903–1930s）**
+
+- 1903 年莱特兄弟首次飞行 → 航空时代开始。
+    
+- 1930s 出现商业螺旋桨飞机（如 DC-3）。
+    
+- **跨大西洋旅行：从 5–6 天（轮船）缩短到 15–20 小时。**
+    
+
+➡️ **世界变小的第一次跳跃式变化。**
+
+---
+
+## **2️⃣ 喷气时代开始（1958）——时间–空间收敛最明显的转折点**
+
+**1958 年：Pan Am 使用 Boeing 707 执行首个商业喷气航班。**
+
+- 纽约 → 巴黎：航程从 **约 14 小时缩短到 8 小时**（几乎减半）。
+    
+- 速度：从 300 km/h（螺旋桨） → **900 km/h（喷气）**。
+    
+
+➡️ **全球长途旅行时间显著下降，世界“感知距离”急剧缩短。**
+
+---
+
+## **3️⃣ 宽体机时代（1970s）——全球化开始加速**
+
+**1970：Boeing 747（“巨无霸”）投入使用**
+
+- 载客量翻倍 → 国际航班价格下降 → 普通人也能飞
+    
+- 长途飞行成为常态
+    
+- 全球贸易、旅游、移民、文化交流显著提升
+    
+
+➡️ **加速全球互联（global interactions）**。
+
+---
+
+## **4️⃣ 超音速时代（1976–2003）——巅峰的时间–空间收敛**
+
+**Concorde 超音速客机：**
+
+- 伦敦 → 纽约：**3 小时**（普通航班 7–8 小时）
+    
+- 速度：**2 倍音速（Mach 2.0）**
+    
+
+➡️ **人类历史上最快的商业缩短“时间距离”的方式。**
+
+---
+
+## **5️⃣ 现代航空（2000s–至今）**
+
+- Boeing 787、Airbus A350：更轻、更省油 → **超长航线普及**
+    
+- 例如：新加坡 → 纽约 **19 小时直飞**  
+    （过去必须中转；时空收敛不只体现在速度，而是连通性提高）
+    
+
+➡️ **世界任何两点几乎都可直达。**
+___
+# 🌍 **Digital Divide — Two Contrasting Case Studies: South Korea vs. India**
+
+---
+
+# 🇰🇷 **Case 1：South Korea — High Connectivity, Minimal Digital Divide**
+
+## **背景**
+
+- 世界上数字化程度最高的国家之一
+    
+- 政府早期大量投资 ICT 基础设施
+    
+- 几乎全民可上网
+    
+
+## **关键数据**
+
+- **Internet penetration（上网率）≈ 98%**
+    
+- 全国 4G/5G 覆盖率接近 100%
+    
+- 城乡差距极低（高山农村也有高速光纤）
+    
+- 完善的 ICT 教育体系：学校从小学起普及电脑
+    
+- 数字政府（e-government）成熟
+    
+
+## **数字鸿沟表现**
+
+- 非常小
+    
+- 主要剩余差距来自老年群体而非地域或收入
+    
+
+➡️ **South Korea 是“数字平等”的典型示范国家。**
+
+---
+
+# 🇮🇳 **Case 2：India — Significant Digital Divide**
+
+## **背景**
+
+- 虽然拥有世界第二多的互联网用户，但内部差距巨大
+    
+- 经济、性别、城乡、教育层面都存在明显鸿沟
+    
+
+## **关键数据**
+
+- 全国上网率 ≈ 55%
+    
+- **城乡差距明确：城市 > 70%，农村 < 40%**
+    
+- 女性上网率仅约 33%，显著低于男性
+    
+- 基础设施落差：农村网络不稳定、设备昂贵
+    
+- 教育层面：ICT 技能获得困难
+    
+
+## **数字鸿沟表现**
+
+- 设备负担能力低
+    
+- 网络覆盖不足
+    
+- 数字技能差
+    
+- 性别鸿沟显著
+    
+
+➡️ **India 是“数字不平等”的典型案例。**
+
+---
+
+# 🔍 **为什么这两个国家是完美对比？（考试用语 ready）**
+
+|维度|South Korea|India|
+|---|---|---|
+|**Internet penetration**|~98%|~55%|
+|**Urban–rural divide**|很小|非常大|
+|**Gender divide**|很低|显著（女性上网率更低）|
+|**Infrastructure**|完全国家级覆盖|不均衡|
+|**Digital skills**|全民教育|教育差异巨大|
+___
+# ✨ **Case Study：ICT Development Index（IDI）**
+
+## **1. Indicator of IDI（IDI 的指标是什么？）**
+
+IDI 是国际电信联盟（ITU）制定的指数，用来衡量一个国家的 ICT（信息通信技术）发展水平。
+
+它有 **三个核心指标**：
+
+### ✅ **(1) ICT Access（接入能力）**
+
+- 固话、手机用户数量
+    
+- 家庭电脑普及率
+    
+- 家庭互联网接入率
+    
+- 国际带宽
+    
+
+➡️ **衡量设备与基础设施是否易获取。**
+
+### ✅ **(2) ICT Use（使用水平）**
+
+- 上网人口比例
+    
+- 固定宽带使用率
+    
+- 移动宽带使用率
+    
+
+➡️ **衡量真实使用情况，而非只是拥有设备。**
+
+### ✅ **(3) ICT Skills（技能能力）**
+
+- 受教育年限
+    
+- 中学/高等教育入学率
+    
+
+➡️ **衡量使用 ICT 的教育基础。**
+
+**一句话总结（好背）：**
+
+> _IDI combines ICT access, use, and skills to measure how advanced and inclusive a country’s digital development is._
+
+---
+
+# 📊 **2. Top Five Countries with Highest IDI Scores**
+
+（基于 ITU 最新公布的数据趋势）
+
+|Rank|Country|
+|---|---|
+|**1**|Iceland|
+|**2**|South Korea|
+|**3**|Switzerland|
+|**4**|Denmark|
+|**5**|United Kingdom|
+
+➡️ 特点：高教育水平、高宽带普及率、全国性光纤网络、政府数字化政策强。
+___
+# ⭐ **CASE STUDY：Trading Blocs（贸易集团）— Types + Impacts（带数据）**
+---
+
+# ① **Free Trade Area（自由贸易区）案例：USMCA（原 NAFTA）**
+
+### 🔹 数据（考试可写）
+
+- 成立年份：1994（2018 改为 USMCA）
+    
+- 区域 GDP：**超过 26 trillion USD**（世界最大区域经济体）
+    
+- 区内贸易额：**超过 1.3 trillion USD/年**
+    
+
+### 🔹 Free Trade Zone + EPZ 真实例子（可写进答案）
+
+- **墨西哥 maquiladora EPZ**：在边境建立超过 **3000+ 出口加工区工厂**，企业无需缴关税即可进口原材料、加工后出口。
+    
+
+### 🔹 适配类型关键词
+
+- “自由贸易区（FTA）”
+    
+- “Free Trade Zone / EPZ”
+    
+- “关税取消、供应链一体化”
+    
+
+---
+
+# ② **Customs Union（关税同盟）案例：SACU（南部非洲关税同盟）**
+
+### 🔹 数据
+
+- 成立：1910（最古老的关税同盟）
+    
+- 成员：南非、纳米比亚、博茨瓦纳、莱索托、斯威士兰
+    
+- 对外统一关税（CET）
+    
+- 成员 90% 贸易与南非有关（高度依赖）
+    
+
+### 🔹 考试可写点
+
+- “内部零关税 + 对外共同关税”
+    
+- “区域一体化低但高度依赖南非经济”
+    
+
+---
+
+# ③ **Common Market（共同市场）案例：EU Single Market**
+
+### 🔹 数据
+
+- 人口：**450 million**
+    
+- GDP：**16 trillion USD**
+    
+- 四大自由（free movement）：**goods, services, capital, labour**
+    
+- 欧盟内部每年 GDP 增长因单一市场增加 **约 8–9%**
+    
+
+### 🔹 特点
+
+- 劳动力自由流动（波兰 → 英国 100 万+ 工作移民）
+    
+- 消费者可在跨国银行和企业自由投资
+    
+
+---
+
+# ④ **Economic Union（经济联盟）案例：Eurozone（欧元区）**
+
+### 🔹 数据
+
+- 使用欧元国家：**20 个成员国**
+    
+- 欧元使用人数：**350 million+**
+    
+- 单一货币减少企业外汇成本 **每年节省超 200 billion EUR**
+    
+
+### 🔹 适配术语
+
+- “共享货币 + 统一金融政策”
+    
+- “最先进的一体化形式”
+    
+
+---
+
+# ⭐ **Impact of Trading Blocs on Global Interactions（数据 + 应试点）**
+
+---
+
+## 1️⃣ **Reduction of Protectionism（降低保护主义）**
+
+- USMCA 消除绝大部分关税 → 区内贸易额上升至 **1.3 trillion USD/年**
+    
+- EU 内部贸易占成员国外贸总量 **60–70%**
+    
+
+➡️ **贸易成本下降 → 贸易量上升 → 全球供应链形成**
+
+---
+
+## 2️⃣ **Labor Flow（劳动力流动增加）**
+
+- EU：东欧到西欧的劳动力迁移 **超过 3 million workers**
+    
+- 提升英国、德国等国的劳动力供应
+    
+- 减轻原国家失业压力（如波兰）
+    
+
+➡️ **文化交流 ↑、人口流动 ↑、跨国社会网络形成**
+
+---
+
+## 3️⃣ **Financial Flow（资本流动增强）**
+
+- EU 内部 FDI 占全球 FDI 的 **20% 以上**
+    
+- USMCA 促进美国企业对墨西哥投资超过 **100 billion USD**（制造业集聚）
+    
+
+➡️ **跨国投资、银行扩张、供应链外包**  
+➡️ **全球经济更相互依赖（interdependent）**
+___
+# 🌍 **1. Political Influence – Migration Control**
+
+## **Case: The UK and EU Migration Restrictions (Post-Brexit)**
+
+- 2016 Brexit 公投后，英国结束 EU 内部“自由流动权 (free movement)”
+    
+- 结果：来自 EU 的净移民人数从 **2016 的 +189,000** 降至 2021 年的 **+12,000**（ONS 数据）
+    
+- 劳动力短缺：UK 农业采摘劳工短缺 **> 20%**，导致食品价格上涨
+    
+- 物流与餐饮业缺工：2021 年卡车司机短缺 **10 万人**
+    
+
+➡️ **Migration control 改变劳动力供应 → 影响工资、生产成本与消费者价格 → 改变国际市场竞争力**
+
+---
+
+# 🌍 **2. Political Influence – Economic Sanctions**
+
+## **Case: Western Sanctions on Russia (2022)**
+
+- 2022 俄乌战争后，EU + US 对俄罗斯实施全面制裁
+    
+- 俄罗斯 GDP 下降 **2.1%（2022）**
+    
+- 国际贸易结构改变：
+    
+    - 对 EU 出口 ↓ **60%**
+        
+    - 对中国出口 ↑ **43%**（IMF 数据）
+        
+- 能源市场重组：欧洲转向挪威/美国 LNG，天然气价格在 2022 年上涨 **超过 300%**
+    
+
+➡️ **Sanctions 改变国家贸易伙伴结构，重塑全球能源、粮食与金融市场**
+
+---
+
+# 🌍 **3. Physical Influence – Abundant Natural Resources**
+
+## **Case: Saudi Arabia – Oil Dominance in Global Markets**
+
+- 沙特拥有 **17% 全球已探明石油储量**（OPEC）
+    
+- 世界最大原油出口国：出口量 **7 million barrels/day**
+    
+- 通过 OPEC+ 产量调控影响全球油价
+    
+    - 例如 2022 年 OPEC+ 减产 **200 万桶/天** → 国际油价从 $85 → $98
+        
+
+➡️ **资源优势使国家能直接影响国际市场价格（尤其是能源）**
+
+---
+
+# 🌍 **4. Physical Influence – Geographical Isolation**
+
+## **Case: New Zealand – Isolation Limits Market Size & Increases Costs**
+
+- 地理隔离：距最近大市场（澳大利亚）**2,000+ km**
+    
+- 运输成本高：出口羊肉/奶制品的海运成本 ≈ **占产品价格 10–15%**
+    
+- 市场规模小：人口仅 **5 million** → 难吸引大规模 FDI
+    
+- 航运依赖性强：COVID 期间全球航运中断导致出口量下降 **10%**
+    
+
+➡️ **地理隔离减少贸易便利、提高运输成本、降低市场吸引力**
+___
+# ⭐ **SDG 3: Good Health and Well-being（良好健康与福祉）**
+
+## **Case: Rwanda’s Community Health Worker Program（卢旺达社区健康医疗体系）**
+
+### 🔹 背景
+
+1994 种族灭绝后，卢旺达医疗系统几乎崩溃，SDG 3 成为国家核心目标。
+
+### 🔹 关键数据（考试可写）
+
+- **超过 45,000 名社区健康工作者（CHWs）** 帮助覆盖农村地区
+    
+- 婴儿死亡率从 **107/1000（2000 年）降至 26/1000（2020 年）**
+    
+- HIV 治疗覆盖率提高到 **> 90%**
+    
+- 疟疾死亡率下降 **> 70%**
+    
+
+### 🔹 为什么符合 SDG 3
+
+- 大幅提升了医疗可及性
+    
+- 降低可预防疾病死亡
+    
+- 加强母婴健康、疫苗接种
+    
+
+---
+
+# ⭐ **SDG 4: Quality Education（优质教育）**
+
+## **Case: Finland’s High-Equity Education Model（芬兰教育体系）**
+
+### 🔹 背景
+
+芬兰长期在教育公平与质量排名全球领先，是 SDG 4 的典型成功案例。
+
+### 🔹 关键数据
+
+- 义务教育从 **7–16 岁全免费**（含午餐、校车、学习用品）
+    
+- 教师学历为硕士：**100% 均需硕士学历**
+    
+- PISA reading 反复排名世界前列
+    
+- 教育支出占 GDP 的 **5.5%**（高于 OECD 平均）
+    
+
+### 🔹 为什么符合 SDG 4
+
+- 高平等（no private schools, no exams）
+    
+- 教育成果差距小（城乡差异极低）
+    
+- 高质量师资
+    
+
+---
+
+# ⭐ **SDG 7: Affordable and Clean Energy（可负担与清洁能源）**
+
+## **Case: Costa Rica’s Renewable Energy Success（哥斯达黎加清洁能源转型）**
+
+### 🔹 背景
+
+哥斯达黎加因自然能源丰富、全国规模小，被视为清洁能源典范。
+
+### 🔹 关键数据
+
+- **超过 98% 的电力来自可再生能源**（连续多年）
+    
+- 能源结构：水电（67%），风能（17%），地热（13%）
+    
+- 目标：**2050 年实现完全碳中和**
+    
+- 2019 年连续 **300+ 天 100% 清洁能源发电**
+    
+
+### 🔹 为什么符合 SDG 7
+
+- 提供普及、可靠、清洁的能源
+    
+- 降低对化石燃料依赖
+    
+- 气候政策对全球有示范作用
+___
+# 🌍 **1. Human Development Index (HDI)**
+
+### **Definition**
+
+HDI measures overall human development based on **health, education, and income**.
+
+### **How it is calculated**
+
+HDI = geometric mean of three normalized indices:
+
+1. **Life expectancy**（健康）
+    
+2. **Education index**（平均受教育年限 + 预期受教育年限）
+    
+3. **GNI per capita (PPP$)**（收入）
+    
+
+---
+
+# 🌍 **2. Gender Inequality Index (GII)**
+
+### **Definition**
+
+GII measures **gender-based inequality** in opportunities and outcomes.
+
+### **How it is calculated**
+
+GII uses three dimensions:
+
+1. **Reproductive health**（maternal mortality & adolescent birth rate）
+    
+2. **Empowerment**（female parliamentary representation + secondary education）
+    
+3. **Labour force participation**
+    
+
+---
+
+# 🌍 **3. General Trends & Patterns（应试可背）**
+
+## **HDI trends**
+
+- **Highest**：Norway, Switzerland, Iceland（> 0.95）
+    
+- **Middle**：Brazil, China, Indonesia（0.70–0.80）
+    
+- **Lowest**：Niger, CAR, South Sudan（< 0.45）
+    
+- 地区模式：
+    
+    - **Global North 高**
+        
+    - **Sub-Saharan Africa 低**
+        
+    - **Middle East 与 SE Asia 上升最快（油气 + 制造业）**
+        
+
+## **GII trends**
+
+- **低 GII（性别不平等低）**：Sweden, Denmark, Netherlands（女性参政率高，生育风险低）
+    
+- **高 GII（性别不平等强）**：Yemen, Afghanistan, Chad（教育差距大，女性劳动力参与低）
+    
+- 一般模式：
+    
+    - **高 HDI → 低 GII**（正相关）
+        
+    - **冲突区与贫困国家 → GII 极高**
+        
+
+---
+
+# 🌍 **4. Validity: How effective are HDI & GII in measuring disparities?**
+
+### ✅ **Strengths（优点）**
+
+**HDI：**
+
+- 多维度，不只看 GDP
+    
+- 易比较，有清晰区间
+    
+- 强调“人类发展”，与生活质量更相关
+    
+
+**GII：**
+
+- 关注性别不平等（传统经济指标忽略）
+    
+- 涵盖生育健康、政治、劳动力等关键指标
+    
+- 显示文化与社会结构差异
+    
+
+---
+
+### ❌ **Limitations（限制）**
+
+**HDI：**
+
+- 只用三个维度，不能反映贫富差距（inequality）
+    
+- 忽略环境可持续性、政治自由、生活成本差异
+    
+- 国家内部地区差异巨大（如中国、印度）
+    
+
+**GII：**
+
+- 依赖数据质量；许多发展中国家统计不完整
+    
+- 性别角色受文化影响，不同国家可比性有限
+    
+- 不衡量家务劳动、非正式工作等“隐性贡献”
+___
+# ⭐ **CASE 1：FAO（Food and Agriculture Organization）— 推动全球粮食安全**
+
+## 🎯 **FAO 简述**
+
+联合国粮农组织（FAO）通过技术援助、数据监测、农业发展项目来减少饥饿、提升粮食安全。
+
+---
+
+## 🌍 **Case: FAO in Ethiopia — Reducing Food Insecurity**
+
+埃塞俄比亚长期受干旱与粮食短缺影响，FAO 在当地实施多项农业支持项目。
+
+### 🔹 **关键数据（可写在考试中）**
+
+- 在埃塞俄比亚干旱区为 **≈ 1.5 million 农民** 提供抗旱种子（FAO 2022）
+    
+- 建设 **4,300+ 个灌溉设施**，提高农业抵御气候风险能力
+    
+- 作物产量（玉米、高粱）提高 **20–40%**
+    
+
+### 🔹 **核心成果**
+
+- 农民恢复农业生产能力
+    
+- 减少粮食援助依赖
+    
+- 提升国家粮食自给能力
+    
+
+### 🔹 **为何是好 case？**
+
+- 有地理元素（干旱、气候风险）
+    
+- 有发展元素（增产、能力建设）
+    
+- 有具体数据可写
+    
+
+---
+
+# ⭐ **CASE 2：Food Aid — WFP（世界粮食计划署）的紧急粮援**
+
+## 🎯 **Food Aid 简述**
+
+指向受灾、冲突地区提供粮食援助，通常由 WFP（联合国世界粮食计划署）主导。
+
+---
+
+## 🌍 **Case: Yemen Food Aid Crisis（全球最大人道危机之一）**
+
+也门因内战导致粮食系统崩溃，是全世界最依赖粮援的国家之一。
+
+### 🔹 **关键数据（考试可写）**
+
+- WFP 为 **≈ 13 million 人** 提供粮食援助（2023）
+    
+- 该国 **80% 人口** 需要人道援助
+    
+- 食物不安全率达 **45%+**
+    
+- WFP 每月分发 **超过 120,000 吨粮食**
+    
+
+### 🔹 **影响**
+
+- 避免大规模饥荒
+    
+- 保护弱势群体（儿童营养不良率最高达 27%）
+    
+- 建立粮食供应链以维持关键基础设施
+___
+# 🌱 **1. FAIR TRADE Case — Ghana Cocoa Farmers（加纳可可公平贸易）**
+
+## 🔹 背景
+
+加纳是世界第二大可可生产国，但大量农民收入极低。
+
+## 🔹 Fair Trade 介入
+
+- 超过 **140,000+ 名加纳可可农民** 参与 Fairtrade Cocoa Programme
+    
+- 农民获得 **Fairtrade Minimum Price**：USD **2,400/ton**（比世界均价更稳定）
+    
+- 额外 **Fairtrade Premium**：USD **240/ton**
+    
+- Premium 用于：建学校、净水系统、购买农机
+    
+
+## 🔹 成果
+
+- 农民收入提高 **19–25%**
+    
+- 学校入学率上升
+    
+- 社区基础设施改善
+    
+
+➡️ **Fair Trade directly reduces income volatility and improves social development.**
+
+---
+
+# 💵 **2. MICROFINANCE Case — Grameen Bank, Bangladesh（孟加拉乡村银行）**
+
+## 🔹 背景
+
+孟加拉农村贫困率高、女性缺乏金融服务。
+
+## 🔹 Microfinance 做法
+
+- 由 Muhammad Yunus 创立
+    
+- 提供 **无抵押小额贷款**（microcredit），多数借款人为女性
+    
+- 平均贷款额： **≈ USD 100–150**
+    
+- 借款人：**9+ million**
+    
+- 女性占 **97%**
+    
+
+## 🔹 成果（数据可写）
+
+- 贷款偿还率高达 **≈ 98%**
+    
+- 借款人家庭收入平均提高 **20–30%**
+    
+- 女性社会参与与决策能力显著提高
+    
+
+➡️ **Microfinance empowers poor households, especially women, to start businesses and escape poverty.**
+
+---
+
+# 🚀 **3. ENTREPRENEURSHIP Case — Kenya M-Pesa Mobile Money（肯尼亚移动支付创业生态）**
+
+## 🔹 背景
+
+肯尼亚银行覆盖率低，大量居民无法参与正式经济活动。
+
+## 🔹 M-Pesa 作为创业创新
+
+- 由 Safaricom 推出的移动支付平台（2007）
+    
+- 用户数：**超过 30 million（占全国人口超过 60%）**
+    
+- 全国 **90%+** 的交易通过手机完成
+    
+- 促进数千家新企业（street vendors, SMEs）通过手机收款与资金流转
+    
+
+## 🔹 成果
+
+- 家庭收入提高 **20–30%**（世界银行研究）
+    
+- 使 **≈ 194,000 人** 脱离极端贫困
+    
+- 企业创业成本下降、市场准入提高
+    
+
+➡️ **Entrepreneurship + digital innovation drastically improve financial inclusion and economic development.**
