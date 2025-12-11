@@ -29,3 +29,17 @@ However, after the oil crisis, and especially in the last two decades, oil use d
 ___
 Hydropower has remained **consistently high and stable** since the 1970s.  
 Switzerland developed most of its hydropower potential early, so hydropower is no longer a growth driver—but it **continues to serve as the backbone** of the Swiss electricity system.
+___
+Nuclear power rose sharply between the **1970s and 1990s**, as Switzerland expanded reactors to improve energy security.  
+After 2000, production flattened and start to slightly decreasing
+
+---
+Natural gas grew steadily from the 1970s to 2000, but afterward, its consumption stabilized.  
+Switzerland did not pursue large-scale gas expansion like some neighboring countries, partly because of environmental priorities and dependency concerns.
+
+---
+
+# **Slide 8 — New Renewables Trend**
+
+Solar, wind, biofuels, and other renewables were nearly invisible before 2000.  
+But after 2010, especially with government support, **solar power increased rapidly** and became Switzerland’s fastest-growing renewable source.
