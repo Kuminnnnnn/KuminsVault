@@ -62,7 +62,6 @@ This explains why oil consumption rose sharply in the 1960s and early 1970s, rea
 But this dependence also pushed Switzerland to develop domestic alternatives.  
 When hydropower potential was almost fully used, utilities proposed building coal and oil power plants—however, these projects faced strong environmental opposition because they threatened Switzerland’s clean energy image.  
 As a result, the country turned to **nuclear power** instead, combining hydropower and nuclear to reduce reliance on imported fuels.  
-This geographic constraint produces Switzerland’s long-term pattern: **imported fossil fuels paired with domestic low-carbon electricity**.
 
 **Third**, Switzerland’s weak wind conditions mean that wind energy remains extremely limited.  
 Most regions experience average wind speeds below **5 meters per second**, and even high-altitude locations barely reach **5.5 meters per second**.  
@@ -78,3 +77,4 @@ Today, solar reaches around **14.4 TWh**, making it the most rapidly growing new
 So overall, Switzerland’s geography produces a very clear energy profile:  
 **strong hydropower, imported fossil fuels, weak wind potential, and solar that grows only after technological and policy support**.  
 These geographic realities are reflected directly in the long-term trends from 1965 to 2024.
+___
