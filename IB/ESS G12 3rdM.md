@@ -78,3 +78,61 @@ So overall, Switzerland’s geography produces a very clear energy profile:
 **strong hydropower, imported fossil fuels, weak wind potential, and solar that grows only after technological and policy support**.  
 These geographic realities are reflected directly in the long-term trends from 1965 to 2024.
 ___
+Now let’s look at **political factors**.
+
+Switzerland’s energy choices are heavily shaped by government strategy, legislation, and national referendums.  
+Because Switzerland is a direct democracy, the public can directly influence energy policy through frequent nationwide votes.
+
+A turning point came in **2011**, when the Fukushima nuclear accident triggered a complete reassessment of nuclear energy.  
+Within two months, the Swiss Federal Council and Parliament decided to **phase out nuclear power**, to stop building new reactors, and to allow existing reactors to operate only until the end of their technical lifetimes.
+
+This political shift was reinforced by the **2017 national referendum**, where 58% of voters approved the **Energy Strategy 2050**.  
+This law banned new nuclear plants, increased subsidies for renewable energy, and introduced nationwide efficiency and conservation measures.
+
+Additionally, strict environmental and water-protection laws regulate hydropower, while **carbon taxes** on heating fuels encourage households and businesses to move away from oil and gas.  
+Together, these policies set a clear political direction: **less fossil fuel, no new nuclear, and rapid expansion of renewables.**
+
+---
+These political decisions produced several clear and measurable trends in the energy graph.
+
+**1. Nuclear power rises and then declines.**  
+Strong government support in the 1970s and 1980s allowed Switzerland to build five reactors, causing nuclear output to rise to its peak around **2000**.  
+But after the 2011 phase-out decision, nuclear production flattened and then fell—especially after the Mühleberg reactor closed in 2019.  
+
+**2. Solar energy grows rapidly after 2010.**  
+Generous subsidies, feed-in tariffs, and the 2050 Energy Strategy caused solar installations to surge.  
+Solar output jumped from about **5 TWh in 2017** to over **14 TWh by 2024**, making solar Switzerland’s fastest-growing new renewable source.
+
+**3. Hydropower remains stable and dominant.**  
+Long-standing concession rules, federal support, and environmental regulations ensure that hydropower continues supplying **55–60%** of Swiss electricity.  
+Even when electricity prices were low and some hydropower plants faced financial pressure, national policies kept the sector stable.
+
+**4. No coal industry and limited gas expansion.**  
+Because clean-energy legislation discouraged fossil fuel power plants, Switzerland never developed a coal sector and did not heavily expand natural gas.  
+As a result, coal disappears from the energy mix, and gas remains moderate rather than becoming a major source.
+
+---
+Cultural values are equally important in understanding Switzerland’s energy trends.
+
+Swiss society has long held strong environmental ideals, placing a high value on clean air, protected landscapes, and sustainable development.  
+Because Switzerland uses a direct democratic system, these cultural preferences translate directly into public votes that shape national energy laws.
+
+The public also shows growing enthusiasm for **electric mobility**, **energy efficiency**, and **rooftop solar panels**, which are viewed as clean, local, and responsible.  
+At the same time, communities often resist energy infrastructure—such as large wind turbines—that they feel may harm the mountain landscape or quality of life.
+
+These cultural attitudes influence which technologies gain acceptance, how quickly they spread, and which proposals face social resistance.
+
+---
+These cultural values have created several visible trends:
+
+**1. A strong anti-nuclear movement shapes the nuclear trajectory.**  
+In the 1970s, large protests blocked the Kaiseraugst nuclear project.  
+After the Chernobyl accident in 1986 and again after Fukushima in 2011, public concern intensified, leading to major demonstrations and ultimately influencing the government’s decision to phase out nuclear power.
+
+**2. Wind energy remains very slow to develop.**  
+Although wind is popular at the national level, many local communities oppose wind farms because of concerns about landscape aesthetics and environmental impacts.  
+This is why wind power stays extremely small in Switzerland’s energy mix, despite general public support for renewables.
+
+**3. Solar energy spreads quickly due to social acceptance.**  
+Rooftop solar is widely embraced because it is clean, visually subtle, community-approved, and offers residents a sense of environmental responsibility.  
+This cultural preference directly contributes to the rapid climb of solar output in recent years.
