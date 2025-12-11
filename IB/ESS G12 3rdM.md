@@ -39,3 +39,45 @@ ___
 Solar, wind, biofuels, and other renewables were nearly invisible before 2000.  
 But after 2010, especially with government support, **solar power increased rapidly** and became Switzerland’s fastest-growing renewable source.
 ___
+Now, let’s look at how **geography** shapes Switzerland’s energy system.
+
+Switzerland is a highly mountainous country, dominated by the Alps.  
+These steep valleys and strong river systems create ideal conditions for hydropower, and this has been Switzerland’s most important natural energy asset for decades.  
+At the same time, Switzerland has **no domestic reserves of oil, natural gas, or coal**, which means that all fossil fuels must be imported.  
+Wind speeds across the country are generally low because of the complex mountain terrain, and sunlight levels are moderate rather than strong.
+
+These physical characteristics set very clear limits on which energy sources Switzerland can rely on, and they largely determine the trends we see in the long-term energy graph.
+
+---
+
+## **Slide: Effects of Geographical Factors**
+
+These geographical conditions directly explain several major energy trends from 1965 to 2024.
+
+**First**, hydropower remains dominant and extremely stable over time.  
+Thanks to the Alps, Switzerland has reliable water flow and large elevation differences that make hydropower highly efficient.  
+As a result, hydropower production increased from around **67 TWh in the 1960s to more than 100 TWh today**, and it stays at a consistently high level in the energy chart.  
+Most of the economically viable hydropower potential was already developed by the mid-20th century, which is why hydropower doesn’t grow dramatically anymore—but it remains the **backbone of the entire electricity system**.  
+The mountain landscape also allows Switzerland to build pumped-storage facilities, which help secure electricity during winter when water flow decreases.
+
+**Second**, the lack of fossil resources forces Switzerland to rely heavily on imports.  
+This explains why oil consumption rose sharply in the 1960s and early 1970s, reaching a peak of **175 TWh in 1973**.  
+But this dependence also pushed Switzerland to develop domestic alternatives.  
+When hydropower potential was almost fully used, utilities proposed building coal and oil power plants—however, these projects faced strong environmental opposition because they threatened Switzerland’s clean energy image.  
+As a result, the country turned to **nuclear power** instead, combining hydropower and nuclear to reduce reliance on imported fuels.  
+This geographic constraint produces Switzerland’s long-term pattern: **imported fossil fuels paired with domestic low-carbon electricity**.
+
+**Third**, Switzerland’s weak wind conditions mean that wind energy remains extremely limited.  
+Most regions experience average wind speeds below **5 meters per second**, and even high-altitude locations barely reach **5.5 meters per second**.  
+Combined with the desire to protect mountain landscapes, this explains why wind energy stays under **0.5 TWh** even today.  
+In other words, wind does not grow because the geography simply does not support it.
+
+**Finally**, Switzerland’s moderate sunlight explains why solar power appears late in the trend.  
+Solar irradiation is lower than in Southern Europe, which made solar expensive and inefficient for many years.  
+This is why solar energy is almost invisible in the graph before 2010.  
+But once solar technology became cheaper and government incentives increased, production began to rise quickly.  
+Today, solar reaches around **14.4 TWh**, making it the most rapidly growing new renewable source.
+
+So overall, Switzerland’s geography produces a very clear energy profile:  
+**strong hydropower, imported fossil fuels, weak wind potential, and solar that grows only after technological and policy support**.  
+These geographic realities are reflected directly in the long-term trends from 1965 to 2024.
