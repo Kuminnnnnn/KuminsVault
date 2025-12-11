@@ -49,9 +49,6 @@ Wind speeds across the country are generally low because of the complex mountain
 These physical characteristics set very clear limits on which energy sources Switzerland can rely on, and they largely determine the trends we see in the long-term energy graph.
 
 ---
-
-## **Slide: Effects of Geographical Factors**
-
 These geographical conditions directly explain several major energy trends from 1965 to 2024.
 
 **First**, hydropower remains dominant and extremely stable over time.  
