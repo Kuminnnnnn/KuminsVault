@@ -32,14 +32,10 @@ Switzerland developed most of its hydropower potential early, so hydropower is n
 ___
 Nuclear power rose sharply between the **1970s and 1990s**, as Switzerland expanded reactors to improve energy security.  
 After 2000, production flattened and start to slightly decreasing
-
----
+___
 Natural gas grew steadily from the 1970s to 2000, but afterward, its consumption stabilized.  
 Switzerland did not pursue large-scale gas expansion like some neighboring countries, partly because of environmental priorities and dependency concerns.
-
----
-
-# **Slide 8 — New Renewables Trend**
-
+___
 Solar, wind, biofuels, and other renewables were nearly invisible before 2000.  
 But after 2010, especially with government support, **solar power increased rapidly** and became Switzerland’s fastest-growing renewable source.
+___
