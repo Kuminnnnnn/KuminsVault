@@ -1732,3 +1732,107 @@ ___
 - **结论（Conclusion）**：
     
     - 上海陆家嘴体现了全球化如何通过资本、企业和规划模式，推动城市景观的同质化（**urban homogenization**）。
+___
+## Case Study：华人离散族群（Chinese diaspora）如何保留文化
+
+（**Chinese diaspora = 离散族群**）
+
+---
+
+### 案例背景（Context）
+
+- 华人离散族群（**Chinese diaspora**）分布在东南亚、欧洲等地区。
+    
+- 通过教育、节庆和社区机构来**维持文化认同（cultural identity）**，同时融入当地社会。
+    
+
+---
+
+### 案例 1：中国教育（Chinese education）— **Malaysia**
+
+- 马来西亚存在大量**华文小学和中学（Chinese-medium schools）**。
+    
+- 学校使用**中文（Mandarin）**授课，教授中国历史与文化。
+    
+- 有助于：
+    
+    - 语言保留（**language preservation**）
+        
+    - 文化传承（**cultural transmission**）
+        
+- 体现 diaspora 通过教育系统维系文化。
+    
+
+---
+
+### 案例 2：中国节日（Chinese festivals）— **Singapore**
+
+- 华人广泛庆祝：
+    
+    - 春节（**Chinese New Year**）
+        
+    - 中秋节（**Mid-Autumn Festival**）
+        
+- 节日被纳入**国家公共生活**，如公共假期和大型庆祝活动。
+    
+- 结果：
+    
+    - 华人文化在多元社会中持续存在
+        
+    - 同时促进族群间文化理解（**cultural integration**）
+        
+
+---
+
+### 案例 3：文化机构（Cultural institutions）— **London Chinese Community Centre**
+
+- 提供：
+    
+    - 中文课程（language classes）
+        
+    - 传统艺术活动（calligraphy, Chinese arts）
+        
+    - 社区支持服务
+        
+- 功能：
+    
+    - 保护和推广中华文化（**preserve and promote Chinese culture**）
+        
+    - 帮助华人融入英国社会（**integration into host society**）
+___
+## Example of Sovereignty（主权案例）
+
+### **United Kingdom — Brexit**
+
+- **Sovereignty（主权）定义**：
+    
+    - 一个国家在其领土内**拥有最高决策权**，不受外部组织控制。
+        
+- **案例背景**：
+    
+    - 英国曾是 **European Union** 成员。
+        
+    - 欧盟在贸易、移民和法律方面对成员国有一定影响。
+        
+- **主权体现**：
+    
+    - 2016 年，英国通过全民公投（**referendum**）决定退出欧盟（Brexit）。
+        
+    - 英国重新获得对以下事务的完全控制：
+        
+        - 边境与移民政策（**border and migration control**）
+            
+        - 贸易协议（**trade agreements**）
+            
+        - 国内法律（**national laws**）
+            
+- **结果**：
+    
+    - 英国行使了国家主权（**exercise of sovereignty**）。
+        
+    - 但同时减少了在欧盟内部的集体决策权（**loss of shared governance benefits**）。
+        
+- **结论**：
+    
+    - Brexit 是国家为维护和强化主权而作出的典型决策。
+___
