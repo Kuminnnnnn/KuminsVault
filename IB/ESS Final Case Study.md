@@ -124,3 +124,436 @@ ___
 - 当地居民（尤其年轻人）被“挤出市场”
     
 - 交通压力和环境压力增加（rural gentrification）
+
+## 🏙️ Modern Urban Planning – Case Studies
+
+## （可持续城市规划案例 · 中英双语）
+
+---
+
+## 🇪🇸 **Barcelona — Cerdà Plan（1860）**
+
+**EN:**
+
+- Grid-based **Eixample** with wide streets
+    
+- Designed for **light, ventilation, greenery and sanitation**
+    
+- Inner courtyards improved waste disposal and living conditions
+    
+
+**中：**
+
+- 棋盘式街区（Eixample），道路宽阔
+    
+- 关注 **采光、通风、绿化和卫生**
+    
+- 内庭院设计改善垃圾处理和居住环境
+    
+
+**Significance / 意义：**  
+Early example of **health-focused sustainable urban planning**  
+早期以公共健康为核心的可持续城市规划
+
+---
+
+## 🇫🇷 **Paris — Haussmann Plan（1850s）**
+
+**EN:**
+
+- Replaced medieval slums with **wide boulevards**
+    
+- Built **parks, squares, aqueducts and sewers**
+    
+- Improved air flow and reduced disease
+    
+
+**中：**
+
+- 用宽阔林荫大道取代中世纪贫民区
+    
+- 修建 **公园、广场、自来水系统和下水道**
+    
+- 改善空气质量，降低疾病传播
+    
+
+**Data / 数据：**
+
+- Paris gained **hundreds of kilometres of modern sewers**
+    
+- 巴黎新增数百公里现代下水道
+    
+
+---
+
+## 🇧🇷 **Brasília — Planned Capital（1960）**
+
+**EN:**
+
+- Built inland on an empty plateau
+    
+- City designed like an **airplane**
+    
+- Assumed **car-based transport**
+    
+- Large scale, **not pedestrian-friendly**
+    
+
+**中：**
+
+- 建在内陆高原的全新城市
+    
+- 城市形状像飞机
+    
+- 以 **汽车出行** 为前提设计
+    
+- 规模过大，不适合步行
+    
+
+**Significance / 意义：**  
+Shows limits of **technocentric, car-dependent planning**  
+体现以技术和汽车为中心规划的局限性
+
+---
+
+## 🇲🇾 **Forest City — Eco-city Failure（2016）**
+
+**EN:**
+
+- Built on **mangrove swamp**
+    
+- Marketed as a green smart city
+    
+- Became a **ghost town** due to economic downturn
+    
+
+**Environmental impacts:**
+
+- Loss of **mangroves and seagrass meadows**
+    
+- Decline in **fish populations**
+    
+
+**中：**
+
+- 建在红树林湿地上
+    
+- 宣传为“绿色智慧城市”
+    
+- 因经济衰退发展失败，成为“鬼城”
+    
+- 破坏红树林和海草床，鱼类数量下降
+    
+
+**Significance / 意义：**  
+Example of **unsustainable urban planning** ignoring ecosystems  
+忽视生态系统导致的不可持续城市规划案例
+
+---
+
+## 🇦🇪 **Dubai — Water & Energy Conservation**
+
+**EN:**
+
+- **Grey water recycling** for irrigation
+    
+- Solar panels on buildings and parking areas
+    
+- Target: **40% renewable energy by 2050**
+    
+
+**中：**
+
+- 使用 **中水（灰水）回收** 灌溉绿地
+    
+- 建筑和停车场安装太阳能板
+    
+- 目标：**2050 年可再生能源占比 40%**
+    
+
+**Significance / 意义：**  
+Technology-based sustainability in an **arid city**  
+干旱城市中的技术型可持续发展
+
+---
+
+## 🇩🇰 **Copenhagen — Reducing Car Use**
+
+**EN:**
+
+- Streets redesigned since the **1960s**
+    
+- Expansion of **pedestrian zones**
+    
+- Extensive **protected cycle lanes**
+    
+- Higher parking fees, fewer car lanes
+    
+
+**Data / 数据：**
+
+- **>50%** of daily trips to work/school by bicycle
+    
+
+**中：**
+
+- 自 1960 年代起进行街道再设计
+    
+- 增加步行区和自行车道
+    
+- 提高停车费、减少汽车车道
+    
+- 超过 **50%** 通勤依靠自行车
+    
+
+**Significance / 意义：**  
+People-centred, low-carbon urban transport  
+以人为本、低碳交通城市
+
+---
+
+## 🇺🇸 **San Francisco — EV Infrastructure**
+
+**EN:**
+
+- EV charging stations in public garages
+    
+- **Free charging** and priority parking for EVs
+    
+
+**中：**
+
+- 公共停车场设置电动车充电桩
+    
+- 提供 **免费充电** 和优先停车
+    
+
+**Significance / 意义：**  
+Encourages shift from fossil fuels to clean transport  
+推动交通能源转型，减少空气污染
+
+# 🌱 Urban Agriculture – Case Studies
+
+## （城市农业案例 · 中英双语）
+
+---
+
+## 🇬🇧 **Birmingham — Urban Beekeeping（城市养蜂）**
+
+**EN:**
+
+- Beehives placed on **rooftops and urban green spaces**
+    
+- Bees pollinate urban plants and parks
+    
+- Produces **local honey** with low food miles
+    
+
+**Data / Detail:**
+
+- Urban bees often produce **more honey than rural bees** due to diverse flowering plants
+    
+- Helps counter **pollinator decline** in cities
+    
+
+**中：**
+
+- 在屋顶和城市绿地设置蜂箱
+    
+- 蜜蜂为城市植物和公园授粉
+    
+- 生产本地蜂蜜，减少食物里程
+    
+
+**意义（Significance）：**  
+Supports **urban biodiversity** and local food production  
+支持城市生物多样性与本地食品供应
+
+---
+
+## 🇫🇷 **Paris — Rooftop Farming (Nature Urbaine)**
+
+**EN:**
+
+- **Nature Urbaine** is one of the **largest rooftop farms in Europe**
+    
+- Located on a shopping centre rooftop
+    
+- Uses **hydroponics** (soil-free farming)
+    
+
+**Data / Detail:**
+
+- Area: **≈14,000 m²**
+    
+- Produces **over 1,000 kg of fruit and vegetables per day**
+    
+- Supplies food locally to restaurants and residents
+    
+
+**中：**
+
+- 欧洲最大的屋顶农场之一
+    
+- 位于商业中心屋顶
+    
+- 使用 **水培农业**（无需土壤）
+    
+
+**意义：**  
+Reduces food miles and urban heat island effect  
+减少食物运输距离并缓解城市热岛效应
+
+---
+
+## 🇿🇦 **Philippi — Urban Aquaculture**
+
+**EN:**
+
+- Aquaculture projects in **low-income urban areas**
+    
+- Fish farming provides **protein and income**
+    
+- Uses controlled water systems
+    
+
+**Data / Detail:**
+
+- Philippi supplies a large proportion of **Cape Town’s fresh vegetables and fish**
+    
+- Supports food security in informal settlements
+    
+
+**中：**
+
+- 在低收入城区发展城市水产养殖
+    
+- 鱼类养殖提供蛋白质和收入来源
+    
+- 使用可控水系统
+    
+
+**意义：**  
+Improves **food security** and employment  
+提高粮食安全并创造就业机会
+
+---
+
+## 🇺🇸 **New York City — Square Roots (Shipping Container Farms)**
+
+**EN:**
+
+- **Square Roots** converts shipping containers into indoor farms
+    
+- Uses **hydroponic and climate-controlled systems**
+    
+- Farms operate year-round
+    
+
+**Data / Detail:**
+
+- Each container can produce **equivalent yields to a traditional farm** on a much smaller footprint
+    
+- Located close to consumers → minimal food miles
+    
+
+**中：**
+
+- 将集装箱改造为室内农场
+    
+- 使用水培和气候控制技术
+    
+- 可全年生产
+    
+
+**意义：**  
+High-tech solution for **space-limited cities**  
+为土地紧缺城市提供高科技农业方案
+
+## Case Study: fail safe grids
+
+## 🇺🇸 **Los Angeles River — Fail-safe infrastructure**
+
+### 背景
+
+- 位于 **Los Angeles**
+    
+- 地区易发生 **flash floods（突发性洪水）**
+    
+
+### 措施
+
+- 河道被 **混凝土硬化、直线化**
+    
+- 目的是 **快速把洪水输送出城市**
+    
+- 属于典型 **hard engineering**
+    
+
+### 优点
+
+- 在正常洪水条件下：
+    
+    - 有效防止城市内涝
+        
+    - 保护建筑和基础设施
+        
+
+### 问题（ESS 评价点）
+
+- 超强暴雨时：
+    
+    - 水流速度极快
+        
+    - 若超出设计容量 → **灾难性失败**
+        
+- 生态影响严重：
+    
+    - 生物多样性低
+        
+    - 河流与城市、自然完全隔离
+        
+
+📌 **ESS 总结句：**
+
+> The Los Angeles River is a fail-safe system that prioritises flood control but lacks flexibility and ecological value.
+
+---
+
+## 三、Case Study 2
+
+## 🇺🇸 **Indian Bend Wash — Safe-to-fail grid**
+
+### 背景
+
+- 位于 **Scottsdale**
+    
+- 沙漠气候，暴雨少但强度大
+    
+
+### 措施
+
+- **不完全硬化河道**
+    
+- 洪水期间：
+    
+    - 水可以溢出进入 **parks, golf courses, open spaces**
+        
+- 平时：
+    
+    - 作为城市绿地和休闲空间
+        
+
+### 优点
+
+- 洪水发生时：
+    
+    - 可控淹没（controlled flooding）
+        
+    - 减少对住宅区的破坏
+        
+- 平时：
+    
+    - 提供生态栖息地
+        
+    - 改善城市环境质量
