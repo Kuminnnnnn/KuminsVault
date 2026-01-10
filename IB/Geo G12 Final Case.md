@@ -1836,3 +1836,236 @@ ___
     
     - Brexit 是国家为维护和强化主权而作出的典型决策。
 ___
+# Case Study 1️⃣
+
+## 农业工业化导致森林砍伐及后续土壤退化
+
+### **Amazon Basin — 大豆与牛牧业**
+
+---
+
+- **背景（Context）**
+    
+    - 亚马逊雨林是全球最大的热带雨林（**tropical rainforest**）。
+        
+    - 农业工业化（**agro-industrialization**）推动大规模出口导向型农业。
+        
+- **森林砍伐原因（Drivers of deforestation）**
+    
+    - 牛牧业（**cattle ranching**）
+        
+    - 大豆种植（**soybean plantations**，用于饲料和全球肉类供应链）
+        
+- **数据与细节（Data & evidence）**
+    
+    - 约 **70–80%** 的亚马逊砍伐土地被用于牛牧业。
+        
+    - 巴西成为全球最大的大豆出口国之一（**global soy exporter**）。
+        
+    - 每年数千平方公里森林被清除用于农业扩张。
+        
+- **后续土壤退化（Subsequent soil degradation）**
+    
+    - 森林移除 → 失去树冠保护（**loss of canopy cover**）。
+        
+    - 强降雨导致严重水土流失（**soil erosion**）。
+        
+    - 土壤养分迅速流失（**nutrient leaching**）。
+        
+    - 数年后土地生产力下降，被迫继续向森林扩张（**cycle of degradation**）。
+        
+- **结论（Conclusion）**
+    
+    - 农业工业化通过森林砍伐，直接引发长期土壤退化。
+        
+
+---
+
+# Case Study 2️⃣
+
+## 木材需求上升导致森林砍伐
+
+### **Boreal Forest（以加拿大为例）**
+
+---
+
+- **背景（Context）**
+    
+    - 北方针叶林（**boreal forest**）是全球最大的陆地生物群系之一。
+        
+    - 加拿大是世界主要木材和纸浆出口国。
+        
+- **需求驱动（Demand for timber）**
+    
+    - 建筑业（**construction**）
+        
+    - 家具制造（**furniture manufacturing**）
+        
+    - 造纸与包装业（**paper and packaging**）
+        
+- **数据与细节（Data & evidence）**
+    
+    - 加拿大每年商业采伐森林面积达 **数百万公顷**。
+        
+    - 林产品出口是国家重要经济部门（**export-oriented forestry**）。
+        
+    - 大规模皆伐（**clear-cutting**）在部分地区广泛存在。
+        
+- **环境影响（Environmental impacts）**
+    
+    - 栖息地破碎化（**habitat fragmentation**）。
+        
+    - 生物多样性下降（**loss of biodiversity**）。
+        
+    - 土壤裸露，增加侵蚀风险（**exposed soils**）。
+        
+    - 碳汇能力下降（**reduced carbon sinks**）。
+        
+- **结论（Conclusion）**
+    
+    - 全球木材需求通过国际贸易，推动了大规模森林砍伐。
+___
+# Case Study 3️⃣（给定区域）
+
+## **Citarum River**：
+
+### 全球纺织需求驱动下的河流污染
+
+(**Global demand–local environmental degradation**)
+
+---
+
+## 📍 区域背景（Location & importance）
+
+- 位于印尼 **West Java**。
+    
+- 河流长度约 **269 km**，流域面积约 **12,000 km²**。
+    
+- 覆盖 **9 个行政区 + 3 个城市**。
+    
+- 为 **4000 多万人** 提供：
+    
+    - 农业用水（**agriculture**）
+        
+    - 生活用水（**domestic use**）
+        
+    - 工业用水（**industrial use**）
+        
+
+---
+
+## 🌍 需求端（Demand side：全球市场）
+
+- 印尼是全球**前 10 大服装出口国之一**。
+    
+- 纺织与服装业：
+    
+    - 约占国家 **GDP 的 2%**
+        
+    - 占出口总额 **7%+**
+        
+- 全球快时尚与服装消费（**global fashion consumption**）持续增长。
+    
+- 主要出口市场包括：
+    
+    - 美国、英国、欧盟、日本、中国等（**global consumer markets**）
+        
+
+👉 **结论（Demand）**：
+
+> 全球对廉价服装的持续需求（**high global demand for textiles**）推动印尼扩大纺织生产。
+
+---
+
+## 🏭 供给端（Supply side：本地生产）
+
+- Citarum 河上游（**Upper Citarum**）：
+    
+    - **约 68%** 的工业设施与纺织业相关。
+        
+- 代表性企业：**PT Gistex**
+    
+    - 成立于 **1975 年**，位于万隆以西。
+        
+    - 高峰期拥有 **8 家工厂、约 3000 名员工**。
+        
+    - 每年生产：
+        
+        - **1200 万件服装**
+            
+        - **每月 600 万码面料**
+            
+- 生产类型：
+    
+    - 聚酯织造（**polyester weaving**）
+        
+    - 湿法加工（**wet processing**）：染色、印花、整理
+        
+
+👉 **结论（Supply）**：
+
+> 为满足全球订单（**export-oriented production**），工厂高度集中在河流沿岸，依赖水资源并大量排污。
+
+---
+
+## 🔗 供需连接（Supply–Demand Link）
+
+- 全球品牌通过**全球供应链（global supply chains）**下单。
+    
+- PT Gistex 向 **25+ 国家**出口产品。
+    
+- 曾与以下跨国品牌（**TNCs**）存在供应关系：
+    
+    - Adidas、H&M、Gap、Brooks Brothers 等。
+        
+- 为压低成本并保持竞争力（**cost competitiveness**）：
+    
+    - 废水处理投入不足
+        
+    - 环境监管执行薄弱（**weak regulation enforcement**）
+        
+
+👉 **关键逻辑**：
+
+> 全球消费者的需求 → 品牌压价 → 本地工厂降成本 → 环境污染被“外包”（**environmental cost externalization**）。
+
+---
+
+## 🧪 污染类型（Types of pollution）
+
+- 工业废水（**industrial wastewater**）中检测到：
+    
+    - 壬基酚（**nonylphenol, NP**）
+        
+    - 壬基酚聚氧乙烯醚（**NPEs**）
+        
+    - 三丁基磷酸酯（**TBP**）
+        
+    - 锑（**antimony**）
+        
+- 特点：
+    
+    - 对水生生物有毒（**toxic to aquatic life**）
+        
+    - 属于持久性污染物（**persistent organic pollutants**）
+        
+    - 废水有时呈强碱性（**highly alkaline**）
+        
+
+---
+
+## ⚠️ 影响（Impacts）
+
+- Citarum 被称为**世界上污染最严重的河流之一**。
+    
+- 长期影响包括：
+    
+    - 人类健康风险（**human health risks**）
+        
+    - 水生态系统退化（**aquatic ecosystem degradation**）
+        
+- 2008 年亚洲开发银行（**ADB**）提供 **5 亿美元**治理资金：
+    
+    - 重点在供水与卫生（**water & sanitation**）
+        
+    - **有机化学污染问题未被充分解决**
