@@ -1621,3 +1621,114 @@ ___
 
 ➡️ **Entrepreneurship + digital innovation drastically improve financial inclusion and economic development.**
 ___
+## Glocalization Case Study：McDonald's in China
+### English
+- **Global force**:
+    
+    - McDonald’s is a global fast-food brand.
+        
+    - It uses standardized branding and fast service worldwide.
+        
+- **Local adaptations in China**:
+    
+    - Menu includes **rice meals, congee, and youtiao**.
+        
+    - Flavours adjusted to suit Chinese tastes.
+        
+    - Less emphasis on beef compared with Western countries.
+        
+    - Restaurants function as social spaces for families and students.
+        
+- **Result**:
+    
+    - McDonald’s in China differs from McDonald’s in Western countries.
+        
+    - Global products are reshaped by local conditions.
+        
+- **Conclusion**:
+    
+    - This shows glocalization rather than cultural homogenization.
+        
+
+---
+
+### 中文
+
+- **定义**：
+    
+    - 全球本土化 = 全球化力量在地方文化和传统影响下被调整。
+        
+- **全球力量**：
+    
+    - 麦当劳是全球快餐品牌。
+        
+    - 在全球采用统一的品牌和快速服务模式。
+        
+- **中国的本地化调整**：
+    
+    - 菜单包含**米饭、粥、油条**。
+        
+    - 口味更符合中国消费者偏好。
+        
+    - 相比西方国家，减少牛肉比重。
+        
+    - 门店成为家庭和学生的社交空间。
+        
+- **结果**：
+    
+    - 中国的麦当劳与西方国家不同。
+        
+    - 全球产品被地方条件重新塑造。
+        
+- **结论**：
+    
+    - 这是全球本土化的典型案例，而非文化同质化。
+___
+## 同质化城市景观（Homogenized Urban Landscape）案例
+
+**上海 陆家嘴 CBD**  
+---
+
+- **定义（Definition）**：
+    
+    - 同质化城市景观（**homogenized urban landscape**）指在全球化（**globalization**）影响下，不同城市在**外观和功能**上变得越来越相似。
+        
+- **全球化驱动力（Global forces）**：
+    
+    - 外国直接投资（**Foreign Direct Investment, FDI**）
+        
+    - 跨国公司（**Transnational Corporations, TNCs**）
+        
+    - 全球通用的建筑风格（**global architectural styles**）
+        
+- **案例背景（Case context）**：
+    
+    - 上海陆家嘴是中国的核心中央商务区（**Central Business District, CBD**）。
+        
+    - 是全球金融与服务业的重要集聚区。
+        
+- **景观特征（Urban landscape features）**：
+    
+    - 大量采用玻璃与钢结构的摩天大楼（**glass-and-steel skyscrapers**）。
+        
+    - 集中分布国际银行和跨国企业总部（**multinational headquarters**）。
+        
+    - 土地利用以金融和高端服务业为主（**finance and service-based land use**）。
+        
+    - 存在高端购物中心和国际连锁酒店（**global retail malls and hotel chains**）。
+        
+- **同质化表现（Evidence of homogenization）**：
+    
+    - 陆家嘴在外观和功能上与纽约、新加坡等全球城市的 CBD 相似（**similar CBD morphology**）。
+        
+    - 本地特色在核心商务区中相对弱化。
+        
+- **结果与影响（Outcomes）**：
+    
+    - 城市失去部分地方特色（**loss of local distinctiveness**）。
+        
+    - 城市形象趋向全球统一（**urban standardization**）。
+        
+- **结论（Conclusion）**：
+    
+    - 上海陆家嘴体现了全球化如何通过资本、企业和规划模式，推动城市景观的同质化（**urban homogenization**）。
