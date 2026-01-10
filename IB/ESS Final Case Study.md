@@ -73,3 +73,54 @@ Case study: *Guano on Nauru*
 | 社会经济因素  | 经济稳定                  | 长期经济压力                  |
 | 社会问题    | 社会稳定                  | 帮派暴力严重                  |
 | 总体原因    | 有利自然条件 + 稳定经济         | 自然、历史、社会多重因素叠加          |
+___
+# 8.2
+## 🧠 Urban–Rural Migration in the UK
+**Direction:**  
+**City → countryside**
+
+- 主要从 **London、Birmingham、Manchester**
+    
+- 流向 **South West England、East of England、Wales**
+    
+- London 在 **2020–2022 年出现明显净外迁（net out-migration）**
+    
+
+---
+
+**Main cause:**  
+**Quality of life + housing cost**
+
+- London 房价和租金极高（全国最高）
+    
+- 乡村地区房屋更大、价格相对更低
+    
+- 空气污染、拥堵、生活压力促使居民外迁
+    
+- **Remote working（远程办公）** 使通勤不再必要（疫情后尤为明显）
+    
+
+---
+
+**Key term:**  
+**Counterurbanisation**
+
+- 指人口 **从大城市迁往农村或小城镇**
+    
+- 多发生于 **高收入国家（HICs）**
+    
+- 英国自 **20 世纪后期** 起明显出现该趋势
+    
+
+---
+
+**Impact:**  
+**Rural growth + rising house prices**
+
+- 农村人口增加 → 服务和基础设施需求上升
+    
+- 农村房价显著上涨（部分地区疫情后上涨 **15–25%**）
+    
+- 当地居民（尤其年轻人）被“挤出市场”
+    
+- 交通压力和环境压力增加（rural gentrification）
