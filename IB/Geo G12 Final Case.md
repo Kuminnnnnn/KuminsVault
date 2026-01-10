@@ -2069,3 +2069,155 @@ ___
     - 重点在供水与卫生（**water & sanitation**）
         
     - **有机化学污染问题未被充分解决**
+___
+# Case Study：2015 年东南亚跨界雾霾
+
+**2015 Southeast Asian Haze（Transboundary pollution）**
+
+---
+
+## 📍 基本情况（What & Where）
+
+- **事件名称**：
+    
+    - 2015 年东南亚雾霾（**2015 Southeast Asian Haze**）
+        
+- **时间（Time）**：
+    
+    - 2015 年 **6 月下旬开始**，持续约 **4 个月**
+        
+- **污染源地区（Source areas）**：
+    
+    - 印尼南加里曼丹（**southern Kalimantan, Borneo**）
+        
+    - 印尼苏门答腊西部（**western Sumatra**）
+        
+- **受影响国家（Affected countries）**：
+    
+    - **Indonesia**
+        
+    - **Malaysia**
+        
+    - **Singapore**
+        
+    - 文莱、泰国南部、越南、柬埔寨、菲律宾
+        
+
+---
+
+## 🔥 主要成因（Main causes）
+
+- **直接原因**：
+    
+    - 非法焚烧森林和泥炭沼泽（**illegal burning of forests and peat swamps**）
+        
+- **土地用途变化（Land-use change）**：
+    
+    - 为扩大棕榈油种植园（**palm oil plantations**）
+        
+    - 以及小规模自给农业（**subsistence farming**）
+        
+- **自然因素（Climatic factor）**：
+    
+    - 发生在旱季（**dry season**）
+        
+    - 受到厄尔尼诺现象（**El Niño**）加剧
+        
+- **跨界扩散机制（Why transboundary）**：
+    
+    - 季风和风向将烟霾输送至邻国（**wind-driven atmospheric transport**）
+        
+
+---
+
+## 💰 成本与影响（Costs）
+
+### 🧑‍⚕️ 健康影响（Health impacts）
+
+- 至少 **19 人死亡**
+    
+- 约 **50 万例呼吸道感染**（**respiratory tract infections**）
+    
+- 估计可能导致区域内 **10 万例以上过早死亡**（**premature deaths**）
+    
+
+---
+
+### 💵 经济损失（Economic costs）
+
+- 印尼政府估计：
+    
+    - 区域经济损失高达 **470 亿美元（US$47bn）**
+        
+- 影响行业包括：
+    
+    - 交通、旅游、教育、户外活动（**transport, tourism, education**）
+        
+
+---
+
+## 🌫 对马来西亚与新加坡的影响
+
+(**Impacts on Malaysia and Singapore**)
+
+- **空气质量恶化（Air quality）**：
+    
+    - 新加坡污染物标准指数
+        
+        - **PSI = 341**（当年最高，极不健康 _hazardous_）
+            
+    - 马来西亚空气污染指数
+        
+        - **API > 200**（严重污染）
+            
+- **社会影响（Social impacts）**：
+    
+    - 学校停课（**school closures**）
+        
+    - 航班延误或改道（**flight delays and diversions**）
+        
+- **大型活动取消（Disruption to events）**：
+    
+    - 2015 年 FINA 游泳世界杯部分赛事取消
+        
+    - 吉隆坡渣打马拉松（Standard Chartered KL Marathon）取消
+___
+## Nationalism in **France**（总结）
+
+- **国家认同与世俗主义（National identity & secularism）**
+    
+    - **2004 年**：法国议会通过法律，**禁止在公立学校佩戴明显宗教标志**（如头巾）。
+        
+    - **2010 年**：通过法律，**禁止在公共场所佩戴全脸面纱**。
+        
+    - 👉 体现通过法律维护统一的国家文化与价值观（**national identity**）。
+        
+- **民族主义政党：National Rally**
+    
+    - 原名 National Front（国民阵线），自 **1984 年**以来成为法国民族主义的重要政治力量。
+        
+    - 主要主张：
+        
+        - 经济保护主义（**economic protectionism**）
+            
+        - 强硬的治安政策（**law and order**）
+            
+        - 反对移民（**opposition to immigration**）
+            
+        - 长期反对 **European Union**（强调国家主权）。
+            
+    - 领导人演变：
+        
+        - 创始领导人：Jean-Marie Le Pen
+            
+        - 继任者：Marine Le Pen
+            
+        - 现任领导人：Jordan Bardella
+            
+- **总体特征（Overall characteristics）**
+    
+    - 强调国家主权（**sovereignty**）
+        
+    - 反对文化同质化与超国家治理
+        
+    - 将民族认同置于全球化之上
