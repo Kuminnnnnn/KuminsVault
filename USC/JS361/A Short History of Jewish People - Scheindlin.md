@@ -83,3 +83,4 @@ ___
 ### III. Parallel Turmoil in Judah
 - **Athaliah's Reign**: An Omride princess married into Judah's royal line, seized power after her son's death, and introduced Baal worship to the South.
 - **The Restoration (837 BCE)**: The High Priest hid a surviving young prince, orchestrated a coup, executed Athaliah, and restored traditional Yahwistic worship in Jerusalem.
+---
