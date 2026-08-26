@@ -63,3 +63,23 @@ ___
 		- Social unsatisfaction
 		- Aristocracy exploitation
 ---
+# Fracture of the kingdom
+### I. The Divided Monarchy (Post-Solomon)
+- **The Split**: After Solomon's death, the united kingdom fractured due to heavy taxation and forced labor.
+- **Northern Kingdom (Israel)**:
+    - **Leader**: Jeroboam (elected by northern tribes, first capital at Shechem $\rightarrow$ Tirzah $\rightarrow$ Samaria).
+    - **Religion**: Built alternative shrines at Dan and Bethel to prevent citizens from traveling to Jerusalem.
+    - **Fate**: Politically unstable; lasted 200 years until destroyed by the **Assyrians in 721 BCE**. (Note: In this era, "Israel" refers specifically to the North).
+- **Southern Kingdom (Judah)**:
+    - **Leader**: Rehoboam (Solomon's son, of the Davidic dynasty).
+    - **Capital**: Jerusalem (retained the official Temple and religious center).
+    - **Fate**: More stable; lasted until destroyed by the **Babylonians in 587 BCE**.
+### II. The Omride Dynasty & Religious Conflict
+- **Omri & Ahab**: Northern kings who restored Israelite power through Phoenician alliances and intermarriage (Ahab married **Jezebel** of Tyre).
+- **The Clash of Faiths**:
+    - Jezebel aggressively promoted foreign pagan worship (Baal) and persecuted Yahweh's followers.
+    - This sparked fierce opposition from prophets like **Elijah and Elisha**.
+- **The Jehu Coup (842 BCE)**: General Jehu led a bloody revolt, executing the royal family (throwing Jezebel out a window) and purging Baal worship in the North.
+### III. Parallel Turmoil in Judah
+- **Athaliah's Reign**: An Omride princess married into Judah's royal line, seized power after her son's death, and introduced Baal worship to the South.
+- **The Restoration (837 BCE)**: The High Priest hid a surviving young prince, orchestrated a coup, executed Athaliah, and restored traditional Yahwistic worship in Jerusalem.
