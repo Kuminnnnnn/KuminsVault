@@ -13,5 +13,5 @@
 2. BC 1720 - Local Cannanites & Amorites took advantage of the weakness of Egyptian middle kingdom to established themselves in the delta
 3. BC 1650 - Established their own Egyptian dynasty named Hyksos, lasting for 100 years
 ---
-# Exodus
+# Exodus & Back to Cannan
 1. 
