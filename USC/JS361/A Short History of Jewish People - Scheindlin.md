@@ -39,3 +39,4 @@
 - **History / Archaeology**:
     - _Core Difference (Single Bloodline vs. Multi-Origin)_: The Bible assumes all incoming settlers came from Egypt. Scholars agree the true nation was born when **"the Egypt-exodus group" merged with "indigenous, related tribal groups already living in Canaan"**.
     - _Conquest vs. Settlement_: The biblical text itself contains internal contradictions (rapid total conquest vs. slow, uncoordinated control). Archaeology supports the latter: central highland settlements grew organically in the late 13th century BCE, rather than capturing the coastal plains instantly.
+___
