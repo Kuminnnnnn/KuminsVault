@@ -84,3 +84,27 @@ ___
 - **Athaliah's Reign**: An Omride princess married into Judah's royal line, seized power after her son's death, and introduced Baal worship to the South.
 - **The Restoration (837 BCE)**: The High Priest hid a surviving young prince, orchestrated a coup, executed Athaliah, and restored traditional Yahwistic worship in Jerusalem.
 ---
+# Turmoil
+#### 1. The Fall of the Northern Kingdom (721 BCE)
+
+- **Brief Revival**: Jeroboam II (Israel) and Uzziah (Judah) experienced a golden age of expansion.
+    
+- **Assyrian Conquest**: Tiglath-Pileser III and his successors crushed the region.
+    
+- **The End of Israel**: Samaria fell in **721 BCE** to Sargon II. The population was exiled/mixed, giving rise to the legend of the "Ten Lost Tribes."
+    
+
+#### 2. Judah's Survival & Josiah's Reform (Late 7th Century BCE)
+
+- **Hezekiah**: Fortified Jerusalem and built the Siloam Tunnel to survive the Assyrian siege (701 BCE).
+    
+- **Josiah's Reform**: Capitalizing on Assyria's decline, Josiah centralized all worship in Jerusalem and purged foreign idols. He died fighting Egypt in 609 BCE, plunging Judah into foreign control.
+    
+
+#### 3. The Fall of Judah & The Babylonian Exile (587 BCE)
+
+- **Babylonian Supremacy**: Nebuchadnezzar crushed Egyptian influence and turned his sights on rebellious Judah.
+    
+- **Destruction of Jerusalem**: After a prolonged siege, Jerusalem and its Temple were burned to the ground in **587 BCE**. The elite were exiled to Babylon.
+    
+- **Legacy**: In exile, the survivors preserved their faith, developed structured religious institutions, solidified **monotheism**, and fostered the hope of a **Messianic restoration**.
