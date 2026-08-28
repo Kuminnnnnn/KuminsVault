@@ -16,3 +16,6 @@ Vocabs:
 - sexual deviants - 性变态
 - patriarch - 男族长
 - matriarch - 女族长
+- motif - 母题
+- illicit sexual behavior - 非法性行为
+- harlotry - 淫乱
