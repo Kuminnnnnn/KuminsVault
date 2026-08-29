@@ -20,6 +20,8 @@ Vocabs:
 - illicit sexual behavior - 非法性行为
 - harlotry - 淫乱
 - taboo sexual act - 禁忌性行为
+- graphic - 露骨、生动的
+- dehumanization - 非人化
 ---
 - **The Exilic Period**: before Babylonian Exile
 - **The Postexilic Period**: after Babylonian Exile
