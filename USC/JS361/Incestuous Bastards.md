@@ -19,3 +19,5 @@ Vocabs:
 - motif - 母题
 - illicit sexual behavior - 非法性行为
 - harlotry - 淫乱
+- taboo sexual act - 禁忌性行为
+- 
