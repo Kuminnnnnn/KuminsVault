@@ -22,6 +22,7 @@ Vocabs:
 - taboo sexual act - 禁忌性行为
 - graphic - 露骨、生动的
 - dehumanization - 非人化
+- exploitation and oppression - 剥削和压迫
 ---
 - **The Exilic Period**: before Babylonian Exile
 - **The Postexilic Period**: after Babylonian Exile
