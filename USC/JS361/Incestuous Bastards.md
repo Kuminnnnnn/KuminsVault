@@ -41,7 +41,7 @@ Vocabs:
 - **Text & Motif**: After the destruction of Sodom, Lot's daughters get him drunk on consecutive nights in a cave (_mě‘ārāh_) to conceive offspring, producing Moab (_mô’āb_) and Ben-Ammi (_ben-‘ammî_).
 - **Source Attribution**: Linked to the Deuteronomistic (Dtr) school via key idioms (_mě‘ārāh_, _běšikbāh ûběqûmāh_, _‘ad hayyôm_).
 - **Polemical Function**:
-    - Labels Moabites and Ammonites as _mamzērîm_ ("incestuous bastards").
+    - Labels **Moabites and Ammonites** as _mamzērîm_ ("incestuous bastards").
     - Provides the narrative justification for excluding both nations from the assembly of the Lord (_qahal YHWH_) in Deut 23:2–4.
     - Dehumanizes these groups to sanction military atrocities and subjugation by Israel (e.g., David’s execution/humiliation of Moabites and Ammonites in 2 Sam 8:2, 12:26–31).
 ## **Case 3: Noah's Nakedness & The Hamite Line (Genesis 9:18–28 & Leviticus 18–20)**
