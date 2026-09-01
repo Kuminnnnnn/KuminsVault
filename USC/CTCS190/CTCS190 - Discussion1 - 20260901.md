@@ -7,3 +7,6 @@
 	5. fear of unknown
 2. temporality of photo
 	1. pieces of object -> have been there
+---
+# Susan Sontag – The Decay of Cinema
+1. Cinephilia: "without cine-love, films will disapear"
