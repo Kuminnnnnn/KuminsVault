@@ -10,3 +10,16 @@
 - mountain of inheritance
 - rule as eternal kingover his people
 - reign for ever and ever
+- ***Imcomparability***
+- both are described as ***mightiest worrier***
+## Similarities
+1. Incomparable Warrior-King
+2. Control over the storm
+3. the Rider of the heavens
+4. sovereign over the sea and death
+5. Moutain of inheritance (Mount Sinai)
+
+***All for the exclusive loyalty and worship of Israelites***
+
+---
+## The Judges and Early Monarchical Periods
