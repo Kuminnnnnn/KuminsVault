@@ -20,6 +20,7 @@
 5. Moutain of inheritance (Mount Sinai)
 
 ***All for the exclusive loyalty and worship of Israelites***
+- absolute exclusivity and sole legitimacy
 
 ---
 ## The Judges and Early Monarchical Periods
