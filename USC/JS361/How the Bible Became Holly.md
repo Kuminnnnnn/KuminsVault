@@ -1,4 +1,264 @@
-# Chapters 1–2 Study Notes
+# Short Take Away
+## Main Argument
+
+- Biblical texts did not begin as “holy scripture.”
+- Early authority came mainly from **elders, priests, prophets, and kings**, not written texts.
+- Texts gradually gained authority through:
+    - scribal activity;
+    - political crises;
+    - royal sponsorship;
+    - claims that they preserved YHWH’s words.
+- By 586 BCE, Judah had an important literary culture, but still no complete, universally binding Bible.
+
+---
+
+## Chapter 1: The Northern Kingdom, 922–722 BCE
+
+### Israel and Judah
+
+- The Bible presents Israel through a later **Judahite perspective**.
+- Judahite historians explained Israel’s destruction as punishment for disobeying YHWH.
+- Historically, Israel was wealthier, larger, and more culturally developed than Judah.
+- Evidence for a powerful united monarchy under David and Solomon remains limited.
+
+### Formation of Israelite Identity
+
+Israel was a diverse confederation united through:
+
+- shared ancestral stories;
+- related dialects;
+- common rituals;
+- loyalty to YHWH as national protector.
+
+The Jacob-and-twelve-sons tradition connected different tribes as one family.
+
+> The myth created “a collective imagined community.”
+
+### Early Israelite Religion
+
+- YHWH was Israel’s national and official god.
+- YHWH was increasingly identified with the Canaanite god El.
+- Israelites did not necessarily deny the existence of other gods.
+- Public worship of YHWH could coexist with household worship of other deities.
+
+> “YHWH was the ‘official’ god of Israel but not always the only one.”
+
+Important identity practices:
+
+- sacrifice and festivals;
+- Sabbath observance;
+- circumcision;
+- avoidance of pork.
+
+### Priests and Prophets
+
+- **Priests:** managed sacrifices and official worship.
+- **Court or temple prophets:** delivered divine messages within institutions.
+- **Independent prophets:** criticized kings, priests, and social injustice.
+- Amos and Hosea condemned ritual observance without ethical behavior.
+
+### Scribes
+
+Scribes served as:
+
+- administrators;
+- diplomats;
+- translators;
+- legal specialists;
+- teachers and writers.
+
+They copied texts creatively, often revising older material rather than reproducing it exactly.
+
+### Written Law
+
+- Local elders normally settled disputes through negotiation.
+- Written law was guidance, not automatically binding legislation.
+- Even the Laws of Hammurabi functioned partly as scribal training.
+
+> Legal texts had “more literary than normative authority.”
+
+### Covenant Code
+
+- Found mainly in Exodus 21–23.
+- Probably originated in northern Israel.
+- Functioned primarily as a **scribal exercise** and collection of model cases.
+- It could guide decisions but was not a binding legal code.
+
+### Written Prophecy
+
+- Prophets first delivered oracles orally.
+- Scribes sometimes recorded them for reference.
+- Fulfilled prophecies were more likely to survive.
+- Amos and Hosea gained authority because Israel’s fall appeared to confirm their warnings.
+
+### Fall of Israel
+
+- King Hoshea rebelled against Assyria and relied unsuccessfully on Egypt.
+- Assyria conquered Samaria in 722 BCE.
+- Many Israelites were deported; others fled south to Judah.
+- Refugees brought texts, but more importantly:
+
+> “their skills, technologies, and ideas.”
+
+---
+
+## Chapter 2: The Writings of Judah, 722–586 BCE
+
+### Refugees Transform Judah
+
+Israelite refugees brought:
+
+- engineering knowledge;
+- administrative experience;
+- multilingual scribal skills;
+- legal and prophetic texts.
+
+Results:
+
+- Jerusalem expanded rapidly.
+- Judah’s bureaucracy became more sophisticated.
+- Literacy became associated with elite status.
+- Judah gradually adopted the identity of “Israel.”
+
+### Hezekiah
+
+- Used new technical and administrative expertise.
+- Built defensive walls and improved Jerusalem’s water supply.
+- Hezekiah’s Tunnel may reflect northern engineering knowledge.
+- Tried to centralize YHWH worship in Jerusalem.
+
+### Jerusalem Survives Assyria
+
+- In 701 BCE, Assyria destroyed much of Judah but did not capture Jerusalem.
+- Jerusalem’s survival was interpreted as proof that YHWH protected the city.
+- Isaiah’s prediction gained credibility.
+- Written prophetic oracles consequently received greater authority.
+
+### Growth of Scribal Culture
+
+> There was “an explosion of literary activity in Judah.”
+
+- Administrative writing increased.
+- Royal and elite patrons supported scribes.
+- Proverbs reflects educated upper-class scribal culture.
+- Proverbs 25:1 associates part of the collection with Hezekiah’s officials.
+- A Temple archive or library probably preserved administrative and scholarly texts.
+
+### From the Covenant Code to Deuteronomy
+
+Satlow argues:
+
+> “The core of Deuteronomy reworks the Covenant Code.”
+
+Major changes:
+
+|Covenant Code|Deuteronomy|
+|---|---|
+|Weak central authority|Strong central government|
+|Local worship sites|One Temple in Jerusalem|
+|Local festivals|Centralized festivals|
+|King largely outside the code|King must obey written law|
+|Sacrifice as ritual offering|Sacrifice as gratitude to YHWH|
+
+### Deuteronomy as a Scribal Ideal
+
+- Probably written by scribes close to Hezekiah’s court.
+- Not necessarily commissioned by Hezekiah.
+- Limited royal power and placed the king under law.
+- Represented a “scribal fantasy” of an ideal society.
+- May have been stored in the Temple and forgotten.
+
+### Josiah’s Reform
+
+- In 622 BCE, a Torah scroll was reportedly found in the Temple.
+- Satlow identifies it with the core of Deuteronomy.
+- Its authority was established through:
+    - priestly discovery;
+    - scribal interpretation;
+    - prophetic approval by Huldah;
+    - royal proclamation;
+    - public covenant ceremony.
+
+> “A written document was given official religious authority.”
+
+Important principle:
+
+> “Scrolls themselves never intrinsically possess authority.”
+
+Authority came from the people and institutions that interpreted and publicized the scroll.
+
+### Limits of Josiah’s Reform
+
+Josiah used the scroll to:
+
+- destroy local shrines;
+- suppress traditional cults;
+- centralize Passover;
+- challenge local priests.
+
+However:
+
+- household religion continued;
+- local practices survived;
+- later kings reversed the reforms;
+- textual authority remained limited.
+
+### Deuteronomistic History
+
+Josiah’s scribes probably shaped:
+
+- Deuteronomy;
+- Joshua;
+- Judges;
+- Samuel;
+- Kings.
+
+Main ideas:
+
+- obedience to YHWH brings success;
+- disobedience brings national disaster;
+- rulers determine the fate of the people;
+- history reaches its ideal point in Josiah.
+
+After Josiah died and Judah fell, later scribes revised the history and blamed earlier rulers, especially Manasseh.
+
+### Other Written Traditions
+
+- Prophetic texts: Isaiah, Jeremiah, Habakkuk.
+- Jeremiah worked with the scribe Baruch.
+- Priestly ritual materials became the **P source**.
+- Later holiness materials became the **H source**.
+- Blessings, poetry, and ritual texts circulated independently before entering biblical books.
+
+### Fall of Judah
+
+- 597 BCE: Babylon deported Jehoiachin and part of Judah’s elite.
+- 586 BCE: Babylon destroyed Jerusalem and the Temple.
+- Many scrolls were probably lost.
+- Surviving scribes carried some texts into exile.
+
+---
+
+## Essential Development
+
+1. **Israel:** texts were mainly stories, training materials, records, and references.
+2. **Refugee migration:** northern scribes brought their knowledge to Judah.
+3. **Hezekiah:** literacy and written prophecy gained prestige.
+4. **Deuteronomy:** scribes transformed older law into a centralized religious program.
+5. **Josiah:** a written scroll briefly became official religious law.
+6. **Exile:** surviving texts and scribes entered a new political environment.
+
+## Final Point
+
+By 586 BCE:
+
+- writing had become prestigious;
+- some texts were considered accurate records of YHWH’s words;
+- texts could support political and religious reforms;
+- most texts were still important mainly to scribes and elites;
+- written oracles were respected, but not generally treated as binding commands;
+- the Bible as a fixed and universally authoritative collection did not yet exist.
+# Complete Chapters 1–2 Study Notes
 
 ## From the Northern Kingdom to the Writings of Judah
 
