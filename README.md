@@ -4,7 +4,7 @@ Welcome to my personal notes repository!
 This repo serves as a collection of my study notes, reflections, and research records, managed primarily through **Obsidian** and kept **continuously synchronized**.  
 
 ## 👤 About Me
-- 🎓 Chinese IB high school student, currently preparing for university applications  
+- 🎓 A Chinese Student of University of Southern California  
 - 🔬 Major interest: Biology (with explorations across humanities, technology, and engineering)  
 - 📸 Hobbies: photography, digital tech, gaming, and manga  
 - 🏃 Always seeking growth, learning, and sharing knowledge along the way  
