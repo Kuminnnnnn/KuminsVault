@@ -38,7 +38,7 @@
 12. Law of thermaodynamics
 	1. ?
 	2. ?
-13. Solar energy dependson?
+13. Solar energy depends on?
 	1. ?
 	2. ?
 	3. ?
