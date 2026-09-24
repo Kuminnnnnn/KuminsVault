@@ -27,3 +27,17 @@
 	3. reframe, tilt: camera moves up to focus on the interaction between norman and the microphone
 	4. the depth of field is shallow to focus on the main objects
 	5. low camera angle: forming a sense of the elevating the status/authority of the character. film was focusing on the image, but now microphone appears and is even higher than her.
+3. 1:38:31
+	1. low angle, medium shot
+	2. tilt: norman is on the upstairs in the building
+	3. 框式构图：joe关上门送走了betty，回到了”笼“中，而Norman一直在二楼观看，同时构图上她被关在了铁栅栏上更小的框中 -> Norman很乐意见到joe回到了困住她的电影美梦的笼子，她被关在了属于她的影像中，就像是这座房子一样，困住了她，她不想让joe离开，生怕joe会带着她的电影梦一去不复反
+	4. after that, camera follows joe climbs up the stairs and back to his room
+	5. Norman stopped before a mirror and take off the stickers on her face, through the mirror, directly looks into audiences' eyes -> she was still immersed in her dreams and fantasy, she wants to persuade to everyone including the audiences that she is still attractive
+	6. Joe packing stuff, when norman figured out that he is leaving her, a close up shot(with almost only normans facial expression), she won't let joe left her
+4. 1:43:40
+	1. cyclic structure, back to where the film started, but revealing the face of the dead body
+5. 1:44:17
+	1. a shot of a car with people from paramount news
+	2. this is irony -> the one who camed is not to shoot a movie for Norman, but to create news -> use the tragedy as a new story -> cyclic structure
+6. 1:46:01
+	1. when heared of camera, a close up shot, Normans reaction
