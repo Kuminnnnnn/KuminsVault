@@ -1,5 +1,5 @@
 # Thesis: 
-讽刺电影行业的变化，有声电影出现时对行业的抨击，电影捧起明星，又毁掉他，最后又把明星陨落的故事变为新的新闻...电影，就像是一个循环
+借着电影行业的变化，有声电影出现时对行业的抨击，讽刺电影捧起明星，又毁掉他，最后又把明星陨落的故事变为新的新闻...电影，就像是一个循环
 
 ---
 # Evidences:
@@ -41,3 +41,15 @@
 	2. this is irony -> the one who camed is not to shoot a movie for Norman, but to create news -> use the tragedy as a new story -> cyclic structure
 6. 1:46:01
 	1. when heared of camera, a close up shot, Normans reaction
+7. final shot
+	1. tracking shot following norma going down the stairs
+		1. it was told that the scene is a palace
+		2. but in fact, all the news man stands aside without moving; Norma moving, the 动静对比draw a line between Norma's illusional world and the tragedic reality
+		3. it may be able to consider a realitively long take -> add reality through time -> underline the tragedy
+	2. close up
+		1. Norma come closer and closer to the camera directly into audiences' eyes
+		2. From Normas perspective -> embrace her beloved camera and movie dream
+		3. From audiences perspective -> she emerged herself with the film
+8. film
+	1. interestingly, this tragedic story, eventhough it is unreal, the film itself also took part in the ironic narration
+	2. the story of a famous star of yesteryear had become a new movie for audiences
