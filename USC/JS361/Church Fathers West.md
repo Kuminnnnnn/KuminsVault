@@ -1,0 +1,4 @@
+- Marcion: rejecting old testament, Jesus from a greater god
+- Tertullian: Against Marcion. New way of understanding old testament
+- Ambrose: Chirstian is higher in law protection than Jews
+- Augustine: witness doctrine. with Jesus, everything has changed
