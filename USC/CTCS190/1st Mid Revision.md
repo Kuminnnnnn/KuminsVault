@@ -10,6 +10,8 @@
 	2. ?
 	3. ?
 	4. ?
+3. 4 types of narration
+4. 2 types of subjectivity
 ---
 1. Form
 2. Style
