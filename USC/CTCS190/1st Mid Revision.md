@@ -1,4 +1,110 @@
-
+Film
+1. **Narration**
+	1. restricted narration
+	2. unrestricted narration
+	3. omniscient narration
+	4. objective narration
+	5. perceptual subjectivity
+	6. mental subjectivity
+2. **Lighting**
+	1. Light
+		1. Quality
+			1. High-key
+			2. Low-key
+			3. Exposure
+				1. higher
+				2. lower
+			4. Soft
+			5. Hard
+		2. Key light
+		3. Fill light
+		4. Back light
+		5. under light
+		6. top light
+		7. Three point light
+		8. motivated light
+	2. Shadow
+		1. cast shadow
+		2. attached shadow
+3. **Composition**
+	1. Deep space staging
+	2. Shallow space staging
+	3. fore/middle/back ground
+4. **Cinematography**
+	1. contrast
+	2. exposure
+	3. slow/fast motion
+	4. over/under exposure
+	5. frame rate
+	6. ramping
+	7. focal length
+		1. wide angle
+		2. middle-focal-length
+		3. long focal length/telephoto lens
+		4. zoom/prime
+	8. Depth of field
+		1. deep focus
+		2. shallow focus
+		3. racking
+		4. split-focus lens
+	9. superimposition
+5. **Framing**
+	1. aspect ratio
+	2. onscreen/offscreen space
+	3. high/low angle
+	4. straight-on angle
+	5. camera-level
+		1. canted
+	6. camera height
+	7. camera distance
+		1. ELS
+		2. LS
+		3. MLS
+		4. MS
+		5. MCU
+		6. CU
+		7. ECU
+	8. movement
+		1. pan
+			1. whip pan
+		2. tilt
+		3. crane
+		4. zoom
+		5. dolly
+		6. tracking
+		7. mobile framing
+			1. steadicam
+			2. handheld
+		8. reframing
+	9. long take
+6. **Editing**
+	1. cut
+	2. fade in/out
+	3. dissolve
+	4. whipe
+	5. relations
+		1. graphic
+			1. graphi match
+		2. rhythmic
+		3. temporal
+		4. spatial
+	6. Continuity editing
+		1. eyeline match
+		2. axis/line of action
+			1. 180 degree system
+		3. Match on action
+		4. shots
+			1. establishing shot
+			2. reestablishing shot
+			3. shot/reverse shot
+			4. POV cutting
+			5. crosscutting
+	7. ellipsis
+	8. jump cut
+	9. kuleshov effect
+		1. constructive editing
+		2. analytical editing
+___
 1. Five Principles of film form:
 	1. ?
 	2. ?
