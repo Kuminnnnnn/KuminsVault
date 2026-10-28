@@ -40,16 +40,16 @@
 37. what are two types of shared resources
 38. what is tragedy of commons
 39. what is externalities
-40. what are the 5 federal land management types
-41. what is multiple-use principle for national parks
-42. what are the threats to national parks (5)
-43. National environmental policy act?
-44. environmental impact statement?
-45. environmental mitigation plan
-46. endangered species act
-47. what is exurban
-48. what is the induced demand feedback loop of urban sprawl
-49. what are the four main causes for urban sprawl
+40. what is multiple-use principle for national parks
+41. what are the threats to national parks (5)
+42. National environmental policy act?
+43. environmental impact statement?
+44. environmental mitigation plan
+45. endangered species act
+46. what is exurban
+47. what is the induced demand feedback loop of urban sprawl
+48. what are the four main causes for urban sprawl
+49. what is urban blight
 50. what are the 10 principles of smart growth?
 51. 2 types of groundwater
 52. what are the effects of overusing groundwater (3)
