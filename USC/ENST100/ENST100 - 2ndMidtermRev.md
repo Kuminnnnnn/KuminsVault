@@ -85,16 +85,15 @@
 82. what are the environmental impacts of petroleum
 83. what are the advantages of petroleum/Natural gas/coal/Nuclear
 84. what are the disadvantages of petroleum/Natural gas/coal/Nuclear
-85. what the four types of coal
-86. what is the negative impacts on env of mining coals
-87. what is hydraulic fracturing
-88. what is potentially renewable sources
-89. what is nondepletable sources
-90. what are the two types of biomass
-91. what are the advantages of biomass/ hydroelectricity/ wind/ solar/ geothermal/ hydrogen fuel cell
-92. what are the disadvantages of biomass/ hydroelectricity/ wind/ solar/ geothermal/ hydrogen fuel cell
-93. what are the three types of hydroelectricity
-94. what are the two types of solar power
-95. what is a ground source heat pump
-96. what is a CST
-97. what are the three main challenges for renewable energy
+85. what is the negative impacts on env of mining coals
+86. what is hydraulic fracturing
+87. what is potentially renewable sources
+88. what is nondepletable sources
+89. what are the two types of biomass
+90. what are the advantages of biomass/ hydroelectricity/ wind/ solar/ geothermal/ hydrogen fuel cell
+91. what are the disadvantages of biomass/ hydroelectricity/ wind/ solar/ geothermal/ hydrogen fuel cell
+92. what are the three types of hydroelectricity
+93. what are the two types of solar power
+94. what is a ground source heat pump
+95. what is a CST
+96. what are the three main challenges for renewable energy
