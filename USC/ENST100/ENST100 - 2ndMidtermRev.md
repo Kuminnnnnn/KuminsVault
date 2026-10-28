@@ -26,4 +26,32 @@
 23. control variables for carrying capacity (6)
 24. the characteristics of the life of native americans (4)
 25. TEK
-26. 
+26. who is John Winthrop
+27. who is Thomas Hobbes
+28. who is John Locke
+29. who is Frederick Jackson Turner
+30. types of property
+31. significance on property
+32. who are excluded from property
+33. what are the effectsof trade and commodification of nature
+34. what is land cover
+35. what is land use
+36. what is intrinsinc value
+37. what are two types of shared resources
+38. what is tragedy of commons
+39. what is externalities
+40. what are the 5 federal land management types
+41. what is multiple-use principle for national parks
+42. what are the threats to national parks (5)
+43. National environmental policy act?
+44. environmental impact statement?
+45. environmental mitigation plan
+46. endangered species act
+47. what is exurban
+48. what is the induced demand feedback loop of urban sprawl
+49. what are the four main causes for urban sprawl
+50. what are the 10 principles of smart growth?
+51. 2 types of groundwater
+52. what are the effects of overusing groundwater (3)
+53. what is a aqueducts
+54. what are the 4 negative results of fishing
