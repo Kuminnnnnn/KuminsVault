@@ -33,7 +33,7 @@
 30. types of property
 31. significance on property
 32. who are excluded from property
-33. what are the effectsof trade and commodification of nature
+33. what are the effects of trade and commodification of nature
 34. what is land cover
 35. what is land use
 36. what is intrinsinc value
