@@ -1,0 +1,8 @@
+- Cinephilia
+- Mode:
+	- way of producing and way of consuming cinema
+	- genre can nest with in (a mode such as art cinema can include horror films, westerns, melodramas, ramances, etc.)
+	- David Bordwell:
+		- realism
+		- authorship
+		- ambiguity
