@@ -6,3 +6,5 @@
 		- realism
 		- authorship
 		- ambiguity
+---
+- quotidian
