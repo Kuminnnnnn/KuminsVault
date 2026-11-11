@@ -49,5 +49,15 @@
 	- tree shade -> shading effect
 	- evapotranspiration
 	- air exchange
-- 
+---
+## Expected Outcomes and Risks
+- **Expected outcomes**
+	- reduced neighborhood heat exposure
+	- improved access to cooler public spaces
+- **Risks**
+	- increasing irrigation demand
+	- water quality problem (eutrophication)
+	- maintenance costs
+	- uneven cooling access -> prioritize underserved communities
+	- increased house prices
 
