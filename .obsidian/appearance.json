@@ -3,5 +3,6 @@
   "accentColor": "#0040ff",
   "baseFontSizeAction": true,
   "baseFontSize": 30,
-  "cssTheme": ""
+  "cssTheme": "",
+  "showRibbon": true
 }
